@@ -1,5 +1,6 @@
 ---
 permalink: /atas/
+layout: single
 title: "Pautas e Atas"
 last_modified_at: 2016-06-06
 toc: true
