@@ -2,9 +2,10 @@
 permalink: /leg/
 layout: single
 author_profile: true
-title: "Estatuto e Legislação Constituinte"
+title: "Legislação Constituinte"
 last_modified_at: 2016-06-06
 toc: true
+toc_label: "Documentostoc_label: "My Table of Contents""
 ---
 Estatuto e legislação constituinte da Associação das Pós-Graduandas e Pós-Graduandos da Universidade Estadual de Campinas — APG Unicamp
 
