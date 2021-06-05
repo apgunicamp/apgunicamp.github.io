@@ -1,16 +1,16 @@
 ---
 permalink: /cru/
 layout: single
-author_profile: true
-title: "Conselho de Representantes da Unicamp (CRU-pós)"
+title: "Conselho de Representantes de Unidades (CRU)"
 last_modified_at: 2016-06-06
 toc: true
+toc_label: "Composição"
 ---
 O Conselho de Representantes é um órgão consultivo da APG Unicamp composto por 1 representante de Associação de Pós-Graduandos (APGs) de cada Unidade de Ensino e Pesquisa da Unicamp, ou em sua ausência por representantes eleitos pelos associados pertencentes à mesma Unidade, além dos Representantes Discentes no Conselho Universitário (CONSU) e Comissão Central de Pós-Graduação (CCPG).
 
-## **Composição para o ano de 2021**
+# **Composição para o ano de 2021**
 
-#### Conselho Universitário
+## Conselho Universitário
 
 
 | Representante Discente          | Unidade |
@@ -24,7 +24,7 @@ O Conselho de Representantes é um órgão consultivo da APG Unicamp composto po
 | Diego Nacarato Pereira da Silva | FCM     |
 | Fabricio Miguel Farinassi       | FEA     |
 
-#### Comissão Central de Pós-Graduação
+## Comissão Central de Pós-Graduação
 
 
 | Representante Discente                                             | Unidade |
@@ -35,7 +35,7 @@ O Conselho de Representantes é um órgão consultivo da APG Unicamp composto po
 | [Rhavier Henrique Mazieri Pereira](mailto:r264274@dac.unicamp.br)  | IFCH    |
 | [Murilo Miranda Vasconcelos Viana ](mailto:m229440@dac.unicamp.br) | FOP     |
 
-#### Unidades de Ensino e Pesquisa
+## Unidades de Ensino e Pesquisa
 
 
 | Representante de Unidade | Unidade |
