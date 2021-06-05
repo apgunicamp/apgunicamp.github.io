@@ -1,6 +1,7 @@
 ---
 permalink: /cru/
 layout: single
+author_profile: true
 title: "Conselho de Representantes da Unicamp (CRU-pós)"
 last_modified_at: 2016-06-06
 toc: true
