@@ -1,13 +1,15 @@
 ---
 permalink: /atas/
 layout: single
-title: "Atas"
+title: "Atas e Pautas de Reuniões"
 last_modified_at: 2021-06-06
 toc: true
 ---
 As reuniões da APG Unicamp são abertas e acontecem de forma presencial todas as sextas-feiras, às 14h, no Ciclo Básico I. **As Reuniões presenciais encontram-se suspensas em virtude da pandemia da Covid-19 e enquanto durar a suspensão de atividades presenciais na Unicamp**.
 
-**Atas do ano de 2020**
+# Atas do ano de 2021
+
+# Atas do ano de 2020
 
 * [1ª Reunião do Conselho de Representantes de Unidades](https://https://drive.google.com/file/d/1b4S6pFYmmb3YdJ0VDXfjLVfJkgZKWSFs/view?usp=sharing)
 * 15ª Reunião da APG Unicamp, de 25 de abril de 2020.
@@ -19,7 +21,7 @@ As reuniões da APG Unicamp são abertas e acontecem de forma presencial todas a
 
 ---
 
-**Atas do ano de 2019**
+# Atas do ano de 2019
 
 * 9ª Reunião da APG Unicamp, de 29 de novembro de 2019
 * 8ª Reunião da APG Unicamp, de 08 de novembro de 2019
