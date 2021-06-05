@@ -1,7 +1,7 @@
 # main links
 main:
-  - title: "A Associação"
-    url: /sobre/
+   - title: "A Associação"
+     url: /sobre/
    - title: "Legislação e Estatuto"
      url: /leg/
    - title: "Conselho de Representantes"
