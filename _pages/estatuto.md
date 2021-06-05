@@ -8,7 +8,7 @@ toc: true
 ---
 Estatuto e legislação constituinte da Associação das Pós-Graduandas e Pós-Graduandos da Universidade Estadual de Campinas — APG Unicamp
 
-### Rol de Fundadores da Associação de Pós-Graduandas e Pós-Graduandos da Unicamp
+# Rol de Fundadores da Associação de Pós-Graduandas e Pós-Graduandos da Unicamp
 
 1. Matheus Alves Albino
 2. João Paulo Ferreira Bertacchi
@@ -72,4 +72,4 @@ Estatuto e legislação constituinte da Associação das Pós-Graduandas e Pós-
 60. Robson Bomfim Sampaio
 61. Aline Marcondes Miglioli
 
-### Estatuto da Associação de Pós-Graduandas e Pós-Graduandos da Unicamp
+# Estatuto da Associação de Pós-Graduandas e Pós-Graduandos da Unicamp
