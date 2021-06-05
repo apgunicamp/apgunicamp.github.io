@@ -1,5 +1,6 @@
 ---
 permalink: /leg/
+layout: single
 title: "Estatuto e Legislação Constituinte"
 last_modified_at: 2016-06-06
 toc: true
