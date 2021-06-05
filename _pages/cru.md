@@ -2,7 +2,7 @@
 permalink: /cru/
 layout: single
 title: "Conselho de Representantes de Unidades (CRU)"
-last_modified_at: 2016-06-06
+last_modified_at: 2021-06-06
 toc: true
 toc_label: "Composição"
 ---
