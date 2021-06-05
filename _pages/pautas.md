@@ -1,9 +1,8 @@
 ---
 permalink: /atas/
 layout: single
-author_profile: true
 title: "Atas"
-last_modified_at: 2016-06-06
+last_modified_at: 2021-06-06
 toc: true
 ---
 As reuniões da APG Unicamp são abertas e acontecem de forma presencial todas as sextas-feiras, às 14h, no Ciclo Básico I. **As Reuniões presenciais encontram-se suspensas em virtude da pandemia da Covid-19 e enquanto durar a suspensão de atividades presenciais na Unicamp**.
