@@ -94,15 +94,15 @@ analytics:
 
 # Site Author
 author:
-  name             : "Your Name"
-  avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "I am an **amazing** person."
-  location         : "Somewhere"
-  email            :
+  name             : "APG Unicamp"
+  avatar           : "/assets/images/Logo_APG_Unicamp.png"
+  bio              : 
+  location         : "Rua Sérgio Buarque de Holanda, 800 - Cidade Universitária Zeferino Vaz, Campinas-SP"
+  email            : "mailto:apgunicamp@gmail.com"
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
-      # url: "mailto:your.name@email.com"
+       url: "mailto:apgunicamp@gmail.com"
     - label: "Website"
       icon: "fas fa-fw fa-link"
       # url: "https://your-website.com"
