@@ -1,8 +1,9 @@
 ---
 permalink: /cru/
+layout: single
 title: "Conselho de Representantes da Unicamp (CRU-pós)"
 last_modified_at: 2016-06-06
-toc: false
+toc: true
 ---
 O Conselho de Representantes é um órgão consultivo da APG Unicamp composto por 1 representante de Associação de Pós-Graduandos (APGs) de cada Unidade de Ensino e Pesquisa da Unicamp, ou em sua ausência por representantes eleitos pelos associados pertencentes à mesma Unidade, além dos Representantes Discentes no Conselho Universitário (CONSU) e Comissão Central de Pós-Graduação (CCPG).
 
