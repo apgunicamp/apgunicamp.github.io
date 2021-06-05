@@ -1,5 +1,5 @@
 ---
-title: "A Associação"
+title: "Sobre a APG Unicamp"
 layout: single
 author_profile: true
 permalink: /sobre/
