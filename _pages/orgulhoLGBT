@@ -1,0 +1,55 @@
+---
+permalink: /lgbt/
+layout: single
+author_profile: true
+title: "O Mês do Orgulho LGBTQIA+"
+last_modified_at: 2021-07-02
+toc: true
+toc_icon: "cog"
+---
+
+gallery:
+  - url: /assets/images/bordanib2
+    image_path: /assets/images/bordanib2 - Danielle Baltieri Bento.jpg
+    alt: "placeholder image 1"
+    title: "Image 1 title caption"
+  - url: /assets/images/bordanib3
+    image_path: /assets/images/bordanib3 - Danielle Baltieri Bento.jpg
+    alt: "placeholder image 1"
+    title: "Image 1 title caption"
+  - url: /assets/images/bordanib4
+    image_path: /assets/images/bordanib4 - Danielle Baltieri Bento.jpg
+    alt: "placeholder image 1"
+    title: "Image 1 title caption"
+  - url: /assets/images/bordanib5
+    image_path: /assets/images/bordanib5 - Danielle Baltieri Bento.jpg
+    alt: "placeholder image 1"
+    title: "Image 1 title caption"
+   - url: /assets/images/bordanib6
+    image_path: /assets/images/bordanib6 - Danielle Baltieri Bento.jpg
+    alt: "placeholder image 1"
+    title: "Image 1 title caption"
+  - url: /assets/images/bordanib7
+    image_path: /assets/images/bordanib7 - Danielle Baltieri Bento.jpg
+    alt: "placeholder image 1"
+    title: "Image 1 title caption"
+  - url: /assets/images/bordanib8
+    image_path: /assets/images/bordanib8 - Danielle Baltieri Bento.jpg
+    alt: "placeholder image 1"
+    title: "Image 1 title caption"
+   - url: /assets/images/bordanib9
+    image_path: /assets/images/bordanib9 - Danielle Baltieri Bento.jpg
+    alt: "placeholder image 1"
+    title: "Image 1 title caption"
+    - url: /assets/images/bordanib10
+    image_path: /assets/images/bordanib10 - Danielle Baltieri Bento.jpg
+    alt: "placeholder image 1"
+    title: "Image 1 title caption"
+   - url: /assets/images/bordanib11
+    image_path: /assets/images/bordanib11 - Danielle Baltieri Bento.jpg
+    alt: "placeholder image 1"
+    title: "Image 1 title caption"
+    - url: /assets/images/bordanib12
+    image_path: /assets/images/bordanib12 - Danielle Baltieri Bento.jpg
+    alt: "placeholder image 1"
+    title: "Image 1 title caption"
