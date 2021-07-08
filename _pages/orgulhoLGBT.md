@@ -1,6 +1,6 @@
 ---
 permalink: /lgbt/
-layout: single
+layout: art_gallery_page
 author_profile: true
 title: "Orgulho LGBTQIA+"
 last_modified_at: 2021-07-02
