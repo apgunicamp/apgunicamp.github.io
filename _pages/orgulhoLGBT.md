@@ -29,7 +29,7 @@ Os bordados são feitos no tecido de algodão cru, finalizados em uma moldura (c
 Ela aceita encomendas e também trabalha com alguns bordados a pronta entrega! Para ver quais bordados estão disponíveis a pronta entrega, entre no Instagram @bordanib.
 A Dani é de Piracicaba-SP (e do IEL), mas faz envios para todo o Brasil. As formas de pagamento são: PIX, transferência e boleto.
 
-{% include image-gallery.html folder="/assets/images/ImagensMostraFeirinha/bordanib" %}
+
 
 ### FLORACORARTE
 
