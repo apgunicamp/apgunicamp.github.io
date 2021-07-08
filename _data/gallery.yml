@@ -8,8 +8,8 @@
 #gems:
 #  - jekyll-art-gallery-generator
 
-source_dir: _portfolio  # original images, that will be cropped according to the size_limit, thumbnailed and posted
-title: Portfolio
+source_dir: _portfolio/ImagensMostraFeirinha/  # original images, that will be cropped according to the size_limit, thumbnailed and posted
+title: Mostra e Feirinha
 #sort_field: "timestamp"
 sort_field: "title" # sorting of the galleries on the gallery index page
 #sort_reverse: true
