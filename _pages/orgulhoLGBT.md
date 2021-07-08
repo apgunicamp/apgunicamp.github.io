@@ -1,17 +1,11 @@
 ---
 permalink: /lgbt/
-layout: art_gallery_page
+layout: single
 author_profile: true
 title: "Orgulho LGBTQIA+"
 last_modified_at: 2021-07-02
-toc: true
-toc_icon: "cog"
-
-.text-justify {
-  text-align: justify;
-}
-
 ---
+
 
 # Mês do Orgulho LGBTIA+ (Edição 2021)
 
