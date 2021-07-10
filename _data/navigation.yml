@@ -2,11 +2,12 @@
 main:
    - title: "A APG"
      url: /sobre/
+   - title: "Orgulho LGBTQIA+"
+     url: /lgbt/
    - title: "Estatuto"
      url: /leg/
    - title: "Representantes"
      url: /cru/
    - title: "Pautas e Atas"
      url: /atas/
-   - title: "Orgulho LGBTQIA+"
-     url: /lgbt/
+  
