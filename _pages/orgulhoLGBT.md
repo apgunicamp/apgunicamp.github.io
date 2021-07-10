@@ -15,8 +15,6 @@ toc_icon: "cog"
 </style>
 
 
-
-
 # Mês do Orgulho LGBTIA+ (Edição 2021)
 
 Como parte da nossa programação para o *Mês do Orgulho LGBTQIA+*, a APG Unicamp realiza a Mostra e a Feirinha virtuais, 
@@ -26,6 +24,8 @@ Essa é uma lista que tem se tornado um acúmulo das gestões _Ciência e Resist
 então esperamos que esse conjunto de materiais continue aumentando nas próximas edições dessa atividade anual.
 {: .text-justify}
 
+<br/>
+
 ### BORDANIB
 
 A Dani B. faz bordados! Eles são ótimos pra decoração e presentear <3
@@ -33,7 +33,7 @@ Os bordados são feitos no tecido de algodão cru, finalizados em uma moldura (c
 Ela aceita encomendas e também trabalha com alguns bordados a pronta entrega! Para ver quais bordados estão disponíveis a pronta entrega, entre no Instagram @bordanib.
 A Dani é de Piracicaba-SP (e do IEL), mas faz envios para todo o Brasil. As formas de pagamento são: PIX, transferência e boleto.
 
-
+{% include image-gallery.html folder="/assets/images/ImagensMostraFeirinha/bordanib/" %}
 
 ### FLORACORARTE
 
