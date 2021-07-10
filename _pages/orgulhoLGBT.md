@@ -41,7 +41,7 @@ A Camila Teles é a idealizadora da Floracorarte! Ela produz biojoias, plantas r
 
 Você pode ver mais desse trabalho no Facebook ou Instagram (@floracorarte).
 
-
+{% include image-gallery.html folder="/assets/images/ImagensMostraFeirinha/CamilaTeles/" %}
 
 ### BORDANDO A REVOLUÇÃO
 
