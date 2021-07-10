@@ -113,6 +113,4 @@ A Heloysa Nogueira é do IFCH. Ela faz encomendas personalizadas de bordados liv
 O Lucas Dantas é um artista do IMECC. Vocês podem encontrá-lo no Instagram como @macavitybr.
 
  {% include image-gallery.html folder="/assets/images/ImagensMostraFeirinha/LucasDantas/" %}
-                                                                     
-
-
+                                                                    
