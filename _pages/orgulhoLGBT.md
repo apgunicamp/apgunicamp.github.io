@@ -12,7 +12,6 @@ toc_icon: "cog"
 .text-justify {
   text-align: justify;
 }
-</style>
 
 .hero {
     position: relative; 
@@ -36,7 +35,7 @@ toc_icon: "cog"
       left: 0px;
       opacity: 0.75;
 }
-
+</style>
 
 # Mês do Orgulho LGBTQIA+ (Edição 2021)
 
