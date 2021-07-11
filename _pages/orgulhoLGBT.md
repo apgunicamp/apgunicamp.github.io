@@ -24,7 +24,7 @@ toc_icon: "cog"
 
 .hero::before {    
       content: "";
-      background-image: url('{{ site.baseurl }}/assets/images/bandeiraLGBT.png');
+      background-image: url(/assets/images/bandeiraLGBT.png);
       background-size: cover;
       position: absolute;
       top: 0px;
