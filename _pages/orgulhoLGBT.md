@@ -30,7 +30,7 @@ body {
   background-repeat: no-repeat;
   background-attachment: fixed;
   background-size: cover;
-  background-color: rgba(255,255,255,0.6);
+  background-color: rgba(255,255,255,0.75);
   background-blend-mode: lighten;
 }
 
