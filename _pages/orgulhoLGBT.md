@@ -14,14 +14,29 @@ toc_icon: "cog"
 }
 </style>
 
-<style>
-body {
-  background-image: url('{{ site.baseurl }}/assets/images/bandeiraLGBT.png');
-  background-repeat: no-repeat;
-  background-attachment: fixed;  
-  background-size: cover;
-  opacity: 0.5;}
-</style>
+.hero {
+    position: relative; 
+    height: 100vh;
+    width: 100%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.hero::before {    
+      content: "";
+      background-image: url('{{ site.baseurl }}/assets/images/bandeiraLGBT.png');
+      background-size: cover;
+      background-repeat: no-repeat;
+      background-attachment: fixed;  
+      position: absolute;
+      top: 0px;
+      right: 0px;
+      bottom: 0px;
+      left: 0px;
+      opacity: 0.75;
+}
+
 
 # Mês do Orgulho LGBTQIA+ (Edição 2021)
 
