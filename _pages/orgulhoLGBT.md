@@ -19,7 +19,8 @@ body {
   background-image: url('{{ site.baseurl }}/assets/images/bandeiraLGBT.png');
   background-repeat: no-repeat;
   background-attachment: fixed;  
-  background-size: cover; }
+  background-size: cover;
+  opacity: 0.5;}
 </style>
 
 # Mês do Orgulho LGBTQIA+ (Edição 2021)
