@@ -15,7 +15,7 @@ toc_icon: "cog"
 
 .hero {
     position: relative; 
-    height: 100vh;
+    height: 100%;
     width: 100%;
     display: flex;
     align-items: center;
@@ -23,16 +23,17 @@ toc_icon: "cog"
 }
 
 .hero::before {    
-      content: "";
-      background-image: url(/assets/images/bandeiraLGBT.png);
-      background-size: cover;
-      position: absolute;
-      top: 0px;
-      right: 0px;
-      bottom: 0px;
-      left: 0px;
-      opacity: 0.75;
+     content: "";
+     background-image: url(/assets/images/bandeiraLGBT.png);
+     background-size: cover;
+     position: absolute;
+     opacity: 0.5;
 }
+  
+.opacity {
+    background: rgba(3, 172, 240, 0.5);
+}
+
 </style>
 
 # Mês do Orgulho LGBTQIA+ (Edição 2021)
