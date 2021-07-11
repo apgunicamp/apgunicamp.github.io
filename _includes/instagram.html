@@ -1,11 +1,15 @@
 <style>
-    <br/>
-    #instafeed {overflow: hidden; margin: auto;   
-    grid-template-columns: repeat(4, 1fr);
-    grid-template-rows: repeat(3, 1fr);
-    grid-column-gap: 0.5rem;
-    grid-row-gap: 0.5rem;}
-    #instafeed li {float: left; display: block; margin: auto; width: 19%; position: relative;}
+    #instafeed {overflow: auto; 
+                margin: auto; 
+                grid-template-columns: repeat(4, 1fr);
+                grid-template-rows: repeat(3, 1fr);
+                grid-column-gap: 0.5rem;
+                grid-row-gap: 0.5rem;}
+    #instafeed li {float: center; 
+                  display: block; 
+                  margin: auto; 
+                  width: 19%; 
+                  position: relative;}
     #instafeed li img {width: 100%; height: 100%; vertical-align: middle; object-fit: cover; position: absolute;}
 </style>
 <ul id="instafeed">
