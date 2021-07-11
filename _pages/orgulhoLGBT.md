@@ -14,6 +14,12 @@ toc_icon: "cog"
 }
 
 .img{
+  position: relative; 
+  height: 100%;
+  width: 100%;
+  display: flex;
+  align-items: center;
+  justify-content: center;
   background-image: url(/assets/images/bandeiraLGBT.png);
   background-size: cover;
   }
