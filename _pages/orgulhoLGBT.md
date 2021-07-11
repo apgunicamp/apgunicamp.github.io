@@ -26,8 +26,6 @@ toc_icon: "cog"
       content: "";
       background-image: url('{{ site.baseurl }}/assets/images/bandeiraLGBT.png');
       background-size: cover;
-      background-repeat: no-repeat;
-      background-attachment: fixed;  
       position: absolute;
       top: 0px;
       right: 0px;
