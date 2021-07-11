@@ -22,6 +22,7 @@ toc_icon: "cog"
   justify-content: center;
   background-image: url(/assets/images/bandeiraLGBT.png);
   background-size: cover;
+  opacity: 0.5;
   }
   
 body {
@@ -30,10 +31,6 @@ body {
   background-attachment: fixed;
   background-size: cover;
 }
-  
-.opacity {  
-  background: rgba(3, 172, 240, 0.5);
-  }
 
 </style>
 
