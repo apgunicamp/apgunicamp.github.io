@@ -36,7 +36,7 @@ body {
 
 </style>
 
-# Mês do Orgulho LGBTQIA+ (Edição 2021)
+## Mês do Orgulho LGBTQIA+ (Edição 2021)
 
 Como parte da nossa programação para o *Mês do Orgulho LGBTQIA+*, a APG Unicamp realiza a Mostra e a Feirinha virtuais, 
 enaltecendo aqueles e aquelas da nossa comunidade acadêmica que querem se manifestar artisticamente e/ou promover seus trabalhos manuais. 
