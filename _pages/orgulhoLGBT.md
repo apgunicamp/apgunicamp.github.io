@@ -24,6 +24,13 @@ toc_icon: "cog"
   background-size: cover;
   }
   
+body {
+  background-image: url(/assets/images/bandeiraLGBT.png);
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+  background-size: cover;
+}
+  
 .opacity {  
   background: rgba(3, 172, 240, 0.5);
   }
