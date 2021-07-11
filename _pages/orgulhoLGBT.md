@@ -14,6 +14,14 @@ toc_icon: "cog"
 }
 </style>
 
+<style>
+body {
+  background-image: url('{{ site.baseurl }}/assets/images/bandeiraLGBT.png');
+  background-repeat: no-repeat;
+  background-attachment: fixed;  
+  background-size: cover; }
+</style>
+
 # Mês do Orgulho LGBTQIA+ (Edição 2021)
 
 Como parte da nossa programação para o *Mês do Orgulho LGBTQIA+*, a APG Unicamp realiza a Mostra e a Feirinha virtuais, 
