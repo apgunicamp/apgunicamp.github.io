@@ -13,26 +13,14 @@ toc_icon: "cog"
   text-align: justify;
 }
 
-.hero {
-    position: relative; 
-    height: 100%;
-    width: 100%;
-    display: flex;
-    align-items: center;
-    justify-content: center;
-}
-
-.hero::before {    
-     content: "";
-     background-image: url(/assets/images/bandeiraLGBT.png);
-     background-size: cover;
-     position: absolute;
-     opacity: 0.5;
-}
+.img{
+  background-image: url(/assets/images/bandeiraLGBT.png);
+  background-size: cover;
+  }
   
-.opacity {
-    background: rgba(3, 172, 240, 0.5);
-}
+.opacity {  
+  background: rgba(3, 172, 240, 0.5);
+  }
 
 </style>
 
