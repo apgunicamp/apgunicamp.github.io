@@ -6,7 +6,7 @@ permalink: /sobre/
 date: 2021-07-11
 
 </style>
-.body {
+body {
   background-image: url(/assets/images/Lelia.png);
   background-repeat: no-repeat;
   background-attachment: fixed;
