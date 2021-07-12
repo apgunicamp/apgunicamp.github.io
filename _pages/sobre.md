@@ -7,7 +7,7 @@ date: 2021-07-11
 ---
 
 <style> 
-   body { background-image: url(/assets/images/Lelia.png); 
+   body { background-image: url(/assets/images/Lélia.jpg); 
           background-repeat: no-repeat; 
           background-attachment: fixed; 
           background-size: cover; 
