@@ -3,8 +3,20 @@ title: "Sobre a APG Unicamp"
 layout: single
 author_profile: true
 permalink: /sobre/
-date: 2021-06-06
+date: 2021-07-11
 ---
+
+</style>
+body {
+  background-image: url(/assets/images/Lelia.png);
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+  background-size: cover;
+  background-color: rgba(255,255,255,0.75);
+  background-blend-mode: lighten;
+}
+</style>
+
 A Associação das Pós-Graduandas e dos Pós-Graduandos da Unicamp, refundada em 11 de setembro de 2019, é a entidade máxima de representação dos pós-graduandas e pós-graduandos matriculados em programas de pós-graduação e em cursos de especialização ou pós-graduação *lato sensu* da Universidade Estadual de Campinas.
 
 Um de seus objetivos é congregar e defender a vontade de todos os pós-graduandos e pós-graduandas da Unicamp, respeitando as liberdades de pensamento e de expressão de seus associados, sendo livre de quaisquer discriminações, tais como de gênero, de raça, de etnia, de origem, de cor ou de orientação sexual.
