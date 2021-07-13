@@ -35,7 +35,15 @@ A sua gestão atual, *Lélia Gonzalez*, com mandato de 11/09/2020 a 10/09/2021 e
 
 <ol>
   <li> COORDENADORIA GERAL:
-Patricia Kawaguchi Cesar (PPG em Música/IA - RA 85984), Bruna Carolina Garcia (PPG em Demografia/IFCH - RA 229883), Mariana Gomes Vicente (PPG em Educação/FE - RA 264770), Larissa da Silva Fontana (PPG em Linguística/IEL - RA 229420), Gabriel Oliveira (PPG em Economia/IE - RA 264478), Julia Bahia Adams (PPG em Linguística/IEL - RA 176760), Maria Izabella Souza de Lima (PPG em Teoria Literária/IEL - RA 264286).
+      <ul>  
+      <li> Patricia Kawaguchi Cesar (PPG em Música/IA - RA 85984)
+      <li> Bruna Carolina Garcia (PPG em Demografia/IFCH - RA 229883)
+      <li> Mariana Gomes Vicente (PPG em Educação/FE - RA 264770) 
+      <li> Larissa da Silva Fontana (PPG em Linguística/IEL - RA 229420)
+      <li> Gabriel Oliveira (PPG em Economia/IE - RA 264478) 
+      <li> Julia Bahia Adams (PPG em Linguística/IEL - RA 176760) 
+      <li> Maria Izabella Souza de Lima (PPG em Teoria Literária/IEL - RA 264286)
+      <ul>
   <li> SECRETARIA GERAL:
 Fernando Savella (PPG em Sociologia/IFCH - RA 167551), Matheus Alves Albino (PPG em Demografia/IFCH - RA 211623), Julia Bahia Adams (PPG em Linguística/IEL - RA 176760), Geyciane Pinheiro (PPG em Engenharia Elétrica/FEEC - RA 229974).
   <li> TESOURARIA:
