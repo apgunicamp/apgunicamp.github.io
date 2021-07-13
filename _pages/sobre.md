@@ -30,41 +30,41 @@ A sua gestão atual, *Lélia Gonzalez*, com mandato de 11/09/2020 a 10/09/2021 e
 <ol>
   <li> COORDENADORIA GERAL:
      <ul>  
-      <li> Patricia Kawaguchi Cesar (PPG em Música/IA - RA 85984)
-      <li> Bruna Carolina Garcia (PPG em Demografia/IFCH - RA 229883)
-      <li> Mariana Gomes Vicente (PPG em Educação/FE - RA 264770) 
-      <li> Larissa da Silva Fontana (PPG em Linguística/IEL - RA 229420)
-      <li> Gabriel Oliveira (PPG em Economia/IE - RA 264478)       
-      <li> Julia Bahia Adams (PPG em Linguística/IEL - RA 176760) 
-      <li> Maria Izabella Souza de Lima (PPG em Teoria Literária/IEL - RA 264286)
+      <li> Patricia Kawaguchi Cesar (PPG em Música/IA - RA 85984) </li>
+      <li> Bruna Carolina Garcia (PPG em Demografia/IFCH - RA 229883) </li>
+      <li> Mariana Gomes Vicente (PPG em Educação/FE - RA 264770) </li>
+      <li> Larissa da Silva Fontana (PPG em Linguística/IEL - RA 229420) </li>
+      <li> Gabriel Oliveira (PPG em Economia/IE - RA 264478) </li>     
+      <li> Julia Bahia Adams (PPG em Linguística/IEL - RA 176760) </li>
+      <li> Maria Izabella Souza de Lima (PPG em Teoria Literária/IEL - RA 264286) </li>
      <ul> 
   <li> SECRETARIA GERAL:
     <ul>
-      <li> Fernando Savella (PPG em Sociologia/IFCH - RA 167551)
-      <li> Matheus Alves Albino (PPG em Demografia/IFCH - RA 211623)
-      <li> Julia Bahia Adams (PPG em Linguística/IEL - RA 176760)
-      <li> Geyciane Pinheiro (PPG em Engenharia Elétrica/FEEC - RA 229974)
+      <li> Fernando Savella (PPG em Sociologia/IFCH - RA 167551) </li>
+      <li> Matheus Alves Albino (PPG em Demografia/IFCH - RA 211623) </li>
+      <li> Julia Bahia Adams (PPG em Linguística/IEL - RA 176760) </li>
+      <li> Geyciane Pinheiro (PPG em Engenharia Elétrica/FEEC - RA 229974) </li>
     <ul>  
   <li> TESOURARIA:
     <ul>
-      <li> Gabriel Oliveira (PPG em Economia/IE - RA 264478) 
-      <li> Luan Ramos (PPG em Tecnologia de Alimentos/FEA - RA 229337)
-      <li> Maria Izabella Souza de Lima (PPG em Teoria Literária/IEL - RA 264286)
+      <li> Gabriel Oliveira (PPG em Economia/IE - RA 264478) </li>
+      <li> Luan Ramos (PPG em Tecnologia de Alimentos/FEA - RA 229337) </li>
+      <li> Maria Izabella Souza de Lima (PPG em Teoria Literária/IEL - RA 264286) </li>
     <ul> 
   <li> COMUNICAÇÃO:
     <ul>
-      <li> Mariana Gomes Vicente (PPG em Educação/FE - RA 264770)
-      <li> Rhavier Henrique Mazieri Pereira (PPG em Sociologia/IFCH - RA 264274)
-      <li> Angelo Ardonde (PPG em Teoria Literária/IEL - RA 164239)
-      <li> Vanessa Bassinello (PPG em Biologia Buco-Dental/FOP - RA 264458)
-      <li> Robson Sampaio (PPG em Educação - RA 147837)
+      <li> Mariana Gomes Vicente (PPG em Educação/FE - RA 264770) </li>
+      <li> Rhavier Henrique Mazieri Pereira (PPG em Sociologia/IFCH - RA 264274) </li>
+      <li> Angelo Ardonde (PPG em Teoria Literária/IEL - RA 164239) </li>
+      <li> Vanessa Bassinello (PPG em Biologia Buco-Dental/FOP - RA 264458) </li>
+      <li> Robson Sampaio (PPG em Educação - RA 147837) </li>
     <ul> 
   <li> MOBILIZAÇÃO:
     <ul>
-      <li> Larissa da Silva Fontana (PPG em Linguística/IEL - RA 229420)
-      <li> Vanessa Bassinello (PPG em Biologia Buco-Dental/FOP - RA 264458)
-      <li> Gabriel Oliveira (PPG em Economia/IE - RA 264478)
-      <li> Jorge Rufino (PPG em Engenharia Elétrica - RA 144396)
-      <li> Robson Sampaio (PPG em Educação - RA 147837)
+      <li> Larissa da Silva Fontana (PPG em Linguística/IEL - RA 229420) </li>
+      <li> Vanessa Bassinello (PPG em Biologia Buco-Dental/FOP - RA 264458) </li>
+      <li> Gabriel Oliveira (PPG em Economia/IE - RA 264478) </li>
+      <li> Jorge Rufino (PPG em Engenharia Elétrica - RA 144396) </li>
+      <li> Robson Sampaio (PPG em Educação - RA 147837) </li>
     <ul> 
 <ol>
