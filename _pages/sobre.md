@@ -6,12 +6,18 @@ permalink: /sobre/
 date: 2021-07-11
 ---
 
-  body {background-image: url(/assets/images/Lélia.png);
-        background-repeat: no-repeat;
-        background-attachment: fixed;
-        background-size: cover;
-        background-color: rgba(255,255,255,0.75);
-        background-blend-mode: lighten;}
+<style>
+  
+  .text-justify { text-align: justify; }
+  
+  body { background-image: url(/assets/images/Lélia.png);
+         background-repeat: no-repeat;
+         background-attachment: fixed;
+         background-size: cover;
+         background-color: rgba(255,255,255,0.75);
+         background-blend-mode: lighten; }
+
+</style>
 
 A Associação das Pós-Graduandas e dos Pós-Graduandos da Unicamp, refundada em 11 de setembro de 2019, é a entidade máxima de representação dos pós-graduandas e pós-graduandos matriculados em programas de pós-graduação *stricto sensu* e em cursos de especialização ou pós-graduação *lato sensu* da Universidade Estadual de Campinas.
 
