@@ -35,7 +35,7 @@ Um de seus objetivos é congregar e defender a vontade de todos os pós-graduand
 A sua gestão atual, *Lélia Gonzalez*, com mandato de 11/09/2020 a 10/09/2021 e tem a seguinte composição:
 
 <ol>
-  <li> COORDENADORIA GERAL:
+  <li> <b>COORDENADORIA GERAL</b>
      <ul>  
       <li> Patricia Kawaguchi Cesar (PPG em Música/IA - RA 85984) </li>
       <li> Bruna Carolina Garcia (PPG em Demografia/IFCH - RA 229883) </li>
@@ -45,20 +45,20 @@ A sua gestão atual, *Lélia Gonzalez*, com mandato de 11/09/2020 a 10/09/2021 e
       <li> Julia Bahia Adams (PPG em Linguística/IEL - RA 176760) </li>
       <li> Maria Izabella Souza de Lima (PPG em Teoria Literária/IEL - RA 264286) </li>
      </ul> 
-  <li> SECRETARIA GERAL:
+  <li> <b>SECRETARIA GERAL</b>
     <ul>
       <li> Fernando Savella (PPG em Sociologia/IFCH - RA 167551) </li>
       <li> Matheus Alves Albino (PPG em Demografia/IFCH - RA 211623) </li>
       <li> Julia Bahia Adams (PPG em Linguística/IEL - RA 176760) </li>
       <li> Geyciane Pinheiro (PPG em Engenharia Elétrica/FEEC - RA 229974) </li>
     </ul>   
-  <li> TESOURARIA:
+  <li> <b>TESOURARIA</b>
     <ul>
       <li> Gabriel Oliveira (PPG em Economia/IE - RA 264478) </li>
       <li> Luan Ramos (PPG em Tecnologia de Alimentos/FEA - RA 229337) </li>
       <li> Maria Izabella Souza de Lima (PPG em Teoria Literária/IEL - RA 264286) </li>
     </ul>  
-  <li> COMUNICAÇÃO:
+  <li> <b>COMUNICAÇÃO</b>
     <ul>
       <li> Mariana Gomes Vicente (PPG em Educação/FE - RA 264770) </li>
       <li> Rhavier Henrique Mazieri Pereira (PPG em Sociologia/IFCH - RA 264274) </li>
@@ -66,7 +66,7 @@ A sua gestão atual, *Lélia Gonzalez*, com mandato de 11/09/2020 a 10/09/2021 e
       <li> Vanessa Bassinello (PPG em Biologia Buco-Dental/FOP - RA 264458) </li>
       <li> Robson Sampaio (PPG em Educação - RA 147837) </li>
     </ul>  
-  <li> MOBILIZAÇÃO:
+  <li> <b>MOBILIZAÇÃO</b>
     <ul>
       <li> Larissa da Silva Fontana (PPG em Linguística/IEL - RA 229420) </li>
       <li> Vanessa Bassinello (PPG em Biologia Buco-Dental/FOP - RA 264458) </li>
