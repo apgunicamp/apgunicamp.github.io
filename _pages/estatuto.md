@@ -1,8 +1,10 @@
 ---
 permalink: /leg/
+page: single
 title: "Estatuto da APG Unicamp"
 last_modified_at: 2021-08-13
 toc: true
+toc_label: "Estatuto"
 ---
 
 Estatuto da Associação Central de Pós-Graduação da Unicamp -- APG Unicamp
