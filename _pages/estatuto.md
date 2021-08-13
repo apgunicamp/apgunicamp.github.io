@@ -1,6 +1,6 @@
 ---
 permalink: /leg/
-page: single
+layout: single
 title: "Estatuto da APG Unicamp"
 last_modified_at: 2021-08-13
 toc: true
