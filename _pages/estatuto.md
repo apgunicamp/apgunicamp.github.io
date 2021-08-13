@@ -7,7 +7,7 @@ toc: true
 toc_label: "Estatuto"
 ---
 
-Estatuto da Associação Central de Pós-Graduação da Unicamp -- APG Unicamp
+Estatuto da Associação Central de Pós-Graduação da Unicamp (Associação de Pós-Graduandas e Pós-Graduandos da Universidade Estadual de Campinas) -- APG Unicamp
 
 ### TÍTULO I – DA DENOMINAÇÃO, DA SEDE E DA DURAÇÃO DA ENTIDADE
 
@@ -453,11 +453,9 @@ Art. 48. O presente Estatuto entrará em vigor na data da sua aprovação.
 
 Campinas, 11 de Setembro de 2019
 
-JOÃO PAULO FERREIRA BERTACCHI
-Relator
+JOÃO PAULO FERREIRA BERTACCHI | Relator
 
-MATHEUS ALVES ALBINO
-Coordenadoria Geral
+MATHEUS ALVES ALBINO | Coordenadoria Geral
 
 ### Fundadores da APG Unicamp
 
