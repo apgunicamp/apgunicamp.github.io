@@ -6,13 +6,19 @@ title: ""
 last_modified_at: 2021-07-02
 toc: true
 toc_icon: "cog"
-minimal_mistakes_skin: "dark"
 ---
 
 <style>
 .text-justify {
   text-align: justify;
   }
+
+body {
+  color: white;
+  background-color: black;
+  background-blend-mode: lighten;
+}
+</style>
 
 </style>
 
