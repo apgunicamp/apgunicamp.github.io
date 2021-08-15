@@ -16,6 +16,10 @@ last_modified_at: 2021-07-02
   background-color: black;
 }
   
+.site.title {
+  color: white;
+}
+  
 body {
   color: white;
   background-color: black;
