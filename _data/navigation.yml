@@ -1,12 +1,12 @@
 # main links
 main:
-   - title: "A APG"
+   - title: "Sobre a APG"
      url: /sobre/
-   - title: "Orgulho LGBTQIA+"
-     url: /lgbt/
    - title: "Estatuto"
      url: /leg/
-   - title: "Representantes"
+   - title: "LGBTQIA+"
+     url: /lgbt/
+   - title: "Representação"
      url: /cru/
    - title: "Pautas e Atas"
      url: /atas/
