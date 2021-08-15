@@ -2,10 +2,8 @@
 permalink: /memorial/
 layout: single
 author_profile: true
-title: ""
+title: "✝"
 last_modified_at: 2021-07-02
-toc: true
-toc_icon: "cog"
 ---
 
 <style>
@@ -16,11 +14,9 @@ toc_icon: "cog"
 body {
   color: white;
   background-color: black;
-  background-blend-mode: lighten;
 }
 </style>
 
-</style>
 
 ## Memorial das vítimas da Covid-19 na Unicamp
 
