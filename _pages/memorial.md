@@ -12,10 +12,10 @@ last_modified_at: 2021-07-02
   }
   
 .greedy-nav {
-  color: white;
+  background-color: black;
 }
   
-.site.title {
+.greedy-nav a {
   color: white;
 }
   
