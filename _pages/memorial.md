@@ -12,7 +12,8 @@ last_modified_at: 2021-07-02
   }
   
 .greedy-nav {
-  background: black;
+  color: white;
+  background-color: black;
 }
   
 body {
