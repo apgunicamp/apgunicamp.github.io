@@ -4,12 +4,12 @@ main:
      url: /sobre/
    - title: "Estatuto"
      url: /leg/
-   - title: "LGBTQIA+"
-     url: /lgbt/
-   - title: "Representação"
-     url: /cru/
    - title: "Memorial"
      url: /memorial/
+   - title: "Representação"
+     url: /cru/
+   - title: "LGBTQIA+"
+     url: /lgbt/
    - title: "Pautas e Atas"
      url: /atas/
   
