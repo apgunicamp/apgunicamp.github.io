@@ -31,13 +31,22 @@ Em solidariedade aos entes queridos das vítimas da Covid-19 no Brasil, a Associ
 
 Diante disso, a APG Unicamp abre este espaço para que qualquer pessoa envie sua homenagem às vítimas da Covid-19 de nossa comunidade, ex-membros e seus familiares, enviando mensagens, imagens e notas de colegas por meio de nossos canais de comunicação nas redes sociais e via e-mail (apgunicamp@gmail.com).
 
+## Fabio Dadam 
+
+É com profundo pesar que esta Diretoria vem comunicar o falecimento, na última sexta-feira (5), do nosso colega e ex-aluno FÁBIO DADAM por
+Covid-19. Fábio era professor do Departamento de Matemática da UTFPR em Curitiba e foi estudante de Mestrado e Doutorado no IMECC entre 2003 e
+2011, período no qual ele conviveu intensamente com vários dos nossos colegas.
+
+A Diretoria do IMECC vem expressar suas profundas condolências aos familiares e entes queridos. Que possam ser confortados neste momento difícil de sofrimento e dor.
+ASSINA: Diretoria do IMECC
+
 ## Josefina Steiner
 
 Nós, Representantes Discentes dos Programas de Pós-Graduação do Instituto de Geociências da Universidade Estadual de Campinas e Discentes reunidos neste momento de luto e tristeza pela perda da nossa querida Josefina Steiner e desejamos nossos sinceros sentimentos à família, amigos, amigas e à comunidade acadêmica do IG – Unicamp. 
 
 A nossa querida Jojo foi um exemplo de energia e teve grande importância, tanto para a comunidade acadêmica, quanto para os servidores técnicos e administrativos. Sempre nos recebendo com muito carinho e um sorriso - mesmo que virtual neste momento pandêmico que vivemos -, Josefina foi nosso porto seguro e dedicou-se à formação de inúmeras geógrafas (os), geólogos (as) e pesquisadores ao longo de todos os anos que trabalhou no IG. Com toda certeza, para aqueles que a conheceram, ela será inesquecível. 
 
-Aproveitamos para lembrar que, junto ao nosso colega Matheus Henrique de Souza Santos, Josefina será sempre lembrada por iluminar nossos caminhos em nosso Instituto. Nos unimos, neste momento, à tristeza e ao luto da família de ambos. Da mesma forma, nos unimos ao luto das famílias dos e das 563.707 brasileiras e brasileiros falecidos devido a pandemia de Covid-19, esta doença para a qual, lembramos, já há cura e cujos protocolos de mitigação já são conhecidos, ainda que desconsiderados pelas autoridades instituídas. 
+Aproveitamos para lembrar que, junto ao nosso colega Matheus Henrique de Souza Santos, Josefina será sempre lembrada por iluminar nossos caminhos em nosso Instituto. Nos unimos, neste momento, à tristeza e ao luto da família de ambos. Da mesma forma, nos unimos ao luto das famílias dos e das 563.707 brasileiras e brasileiros falecidos devido a pandemia de Covid-19, esta doença para a qual, lembramos, já há tratamento e cujos protocolos de mitigação já são conhecidos, ainda que desconsiderados pelas autoridades instituídas. 
 
 ASSINAM: Marina Betetto Drezza, Renata Augusta Sampaio Paes, Sandra Estroges, Gustavo Glodes Blum, Luiz Fernando Vieira, Kezia Andrade dos Santos, Laryssa de Sousa Carneiro, Igor de Camargo Moreira, Poliana I. F. Toledo, Talita Gantus de Oliveira, Luiz Filipe de Melo Faria, Gabriela Bueno Fagundes de Freitas, Alessandra Linares Casagrande, Alice Cunha da Silva, Endel Muller Dalat de Sousa
 
