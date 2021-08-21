@@ -82,12 +82,12 @@ Perdemos uma grande pessoa, um grande amigo. Fica a lembrança de um homem de co
 
 ## Outras perdas durante a pandemia
 
-## Cândida Maria Teixeira
+### Cândida Maria Teixeira
 
 É com pesar que comunicamos o falecimento da Srª. Cândida Maria Teixeira, ex- funcionária do IFCH. A Srª. Cândida trabalhou nos primórdios de nosso Instituto, e se aposentou no IE. À família enlutada, a Direção do IFCH irmana-se em seu sentimento de perda e dor, e oferece nossas condolências. ASSINA: Prof. Dr. Alvaro Bianchi, Diretor do IFCH/Unicamp.
 
 
-## Luiz Roberto Monzani
+### Luiz Roberto Monzani
 
 É com pesar que comunicamos o falecimento do Prof. Luiz Roberto Monzani, Professor aposentado do Departamento de Filosofia do IFCH. À família enlutada, a Direção do IFCH irmana-se em seu sentimento de perda e dor, e oferece nossas condolências. ASSINA: Prof. Dr. Alvaro Bianchi, Diretor do IFCH/Unicamp.
 
