@@ -93,7 +93,7 @@ Perdemos uma grande pessoa, um grande amigo. Fica a lembrança de um homem de co
 
 ### Luiz Roberto Monzani
 
-É com pesar que comunicamos o falecimento do Prof. Luiz Roberto Monzani, Professor aposentado do Departamento de Filosofia do IFCH. À família enlutada, a Direção do IFCH irmana-se em seu sentimento de perda e dor, e oferece nossas condolências. ASSINA: Prof. Dr. Alvaro Bianchi, Diretor do IFCH/Unicamp.
+É com imensa tristeza que comunicamos o falecimento do Prof. Luiz Roberto Monzani, aos 74 anos de idade. Monzani era graduado em Filosofia pela Universidade de São Paulo (USP), onde também fez o seu doutorado; era professor livre-docente pela Universidade Estadual de Campinas (UNICAMP) e professor-colaborador do Programa de Pós-Graduação em Filosofia da Universidade Federal de S. Carlos (PPGF/UFSCar). É autor de importantes trabalhos nas áreas de Epistemologia da Psicanálise e História da Filosofia Moderna, donde se destacam as seguintes publicações: ‘Freud: o movimento de um pensamento’ (Editora da Unicamp, 1989; 2014) e ‘Desejo e prazer na Idade Moderna’ (Editora da UNICAMP, 1995; Editora Champagnat, 2011); Membro Emérito do GT Filosofia e Psicanálise da ANPOF; orientou, tanto no mestrado quanto no doutorado, um grande número  de discentes que se tornaram, no decorrer da vida, seus/suas amigos(as) e admiradores(as). A comunidade filosófica expressa gratidão, respeito, carinho e admiração pelo seu brilhantismo intelectual e pela pessoa generosa que fora e que ficará guardada em nossa memória. Nosso imenso pesar e solidariedade à sua família e, em especial, à sua esposa, Josette Monzani. ASSINA: Associação Nacional de Pós-Graduação em Filosofia (ANPOF).
 
 ### José Luis Sanfelice
 
