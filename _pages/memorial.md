@@ -86,6 +86,10 @@ Perdemos uma grande pessoa, um grande amigo. Fica a lembrança de um homem de co
 
 É com pesar que comunicamos o falecimento da Srª. Cândida Maria Teixeira, ex- funcionária do IFCH. A Srª. Cândida trabalhou nos primórdios de nosso Instituto, e se aposentou no IE. À família enlutada, a Direção do IFCH irmana-se em seu sentimento de perda e dor, e oferece nossas condolências. ASSINA: Prof. Dr. Alvaro Bianchi, Diretor do IFCH/Unicamp.
 
+### José Rodrigues da Costa
+
+É com pesar que comunicamos o falecimento de José Rodrigues da Costa, pai do funcionário Émerson Luis Marques da Costa/AEL. A Direção do Instituto de Filosofia e Ciências Humanas lamenta o falecimento de José Rodrigues da Costa, e se solidariza aos familiares e amigos. ASSINAM: Profa. Andréia Galvão e Prof. Michel Nicolau Netto.
+
 
 ### Luiz Roberto Monzani
 
