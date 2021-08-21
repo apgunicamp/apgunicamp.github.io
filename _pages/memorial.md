@@ -31,6 +31,13 @@ Em solidariedade aos entes queridos das vítimas da Covid-19 no Brasil, a Associ
 
 Diante disso, a APG Unicamp abre este espaço para que qualquer pessoa envie sua homenagem às vítimas da Covid-19 de nossa comunidade, ex-membros e seus familiares, enviando mensagens, imagens e notas de colegas por meio de nossos canais de comunicação nas redes sociais e via e-mail (apgunicamp@gmail.com).
 
+## Edmilson Antonio Ortolan
+
+Faleceu nesta quinta-feira (22), vítima da Covid-19, o servidor Edmilson Antonio Ortolan. Ele desempenhava suas funções no Centro de Ensino de Línguas (CEL) e participava como voluntário na Comissão Interna de Prevenção de Acidentes (CIPA). Há dias Edmilson permanecia internado na UTI e lutava contra a contaminação do coronavírus. 
+
+Desde 1985, o servidor prestava serviços à Universidade, tendo iniciado a sua carreira na Diretoria Geral da Administração (DGA). Nas horas vagas, Edmilson era o [palhaço "Cacareco"](https://www.unicamp.br/unicamp/sites/default/files/jornal/paginas/ju_554_pagina_08.pdf), performance que ocupava um lugar especial na sua vida. 
+
+
 ## Fabio Dadam 
 
 É com profundo pesar que esta Diretoria vem comunicar o falecimento, na última sexta-feira (5), do nosso colega e ex-aluno FÁBIO DADAM por
@@ -69,9 +76,25 @@ Era uma referência em filosofia, sobretudo no campo da ética e da filosofia po
 
 Perdemos uma grande pessoa, um grande amigo. Fica a lembrança de um homem de coração imenso e a certeza de que sua vida continua em todos aqueles que tiveram o privilégio de sua convivência. Sentiremos muito sua falta. Nossos profundos sentimentos à família, amigos e orientandos. ASSINAM: Fábio Augusto (Depto Química Analitica - Unicamp), Ivo M. Raimundo Jr. (Secretário SBQ - Regional Campinas).
 
+## Samantha Barbosa de Gobbi
+
+É com pesar que comunicamos o falecimento de Samantha Barbosa de Gobbi, esposa do funcionário Mário Aparecido de Gobbi (coordenador administrativo do Instituto). À família enlutada, a Direção do IFCH irmana-se em seu sentimento de perda e dor, e oferece nossas condolências. ASSINA: Prof. Dr. Alvaro Bianchi, Diretor do IFCH/Unicamp.
+
 ## Outras perdas durante a pandemia
+
+## Cândida Maria Teixeira
+
+É com pesar que comunicamos o falecimento da Srª. Cândida Maria Teixeira, ex- funcionária do IFCH. A Srª. Cândida trabalhou nos primórdios de nosso Instituto, e se aposentou no IE. À família enlutada, a Direção do IFCH irmana-se em seu sentimento de perda e dor, e oferece nossas condolências. ASSINA: Prof. Dr. Alvaro Bianchi, Diretor do IFCH/Unicamp.
+
+
+## Luiz Roberto Monzani
+
+É com pesar que comunicamos o falecimento do Prof. Luiz Roberto Monzani, Professor aposentado do Departamento de Filosofia do IFCH. À família enlutada, a Direção do IFCH irmana-se em seu sentimento de perda e dor, e oferece nossas condolências. ASSINA: Prof. Dr. Alvaro Bianchi, Diretor do IFCH/Unicamp.
+
+
 ### Oswaldo Luiz Alves
 
 O professor Oswaldo Alves era um dos mais importantes e brilhantes químicos do Brasil e da Universidade, tendo recebido inúmeros prêmios nacionais e internacionais. Desenvolveu uma carreira acadêmica brilhante e orientou mais de 50 alunos de doutorado e mestrado na área de Química do Estado Sólido. Foi um dos primeiros entre os pesquisadores brasileiros a desenvolver atividades na área de Nanotecnologia. Era membro ativo da Academia Brasileira de Ciências e coordenava trabalhos na regional do interior de São Paulo da Academia Brasileira de Ciências. Foi Presidente da Academia Brasileira de Ciências (1998-2000) e pelas suas contribuições à Comunidade Química Brasileira foi agraciado com a medalha Simão Mathias em 2004.
 
 Além de um químico competente, o professor Oswaldo Alves era uma pessoa muito afável e de gosto pela conversa. Esteve fortemente engajado em todas as grandes discussões em defesa da Ciência no Brasil. A perda desse ilustre professor e pesquisador deixa um grande vácuo no cenário da Ciência brasileira. A Reitoria da Unicamp, em nome da toda a Comunidade, manifesta os seus sentimentos à família pela perda irreparável.  
+
