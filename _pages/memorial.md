@@ -82,6 +82,13 @@ Perdemos uma grande pessoa, um grande amigo. Fica a lembrança de um homem de co
 
 ## Outras perdas durante a pandemia
 
+## Ana Carla Magni
+
+A Direção e os programas de pós graduação do IE/Unicamp manifestam os sentimentos de solidariedade à família da nossa doutoranda, Ana Carla Magni. A sua trajetória no curso de especialização em economia do trabalho e sindicalismo, no mestrado e no doutorado foi muito marcante, pois sempre se destacou pela seriedade, pela forma alegre de conviver, pela vibração de ampliar os conhecimentos e pelo compromisso de realizar pesquisa na perspectiva de contribuir com a mudança social. Infelizmente no começo do doutorado descobriu o câncer, que levou a sua vida no dia de ontem (23/08). Descanse em paz Ana, com a certeza que deixou um grande legado e testemunho de vida que servirá de luz para todos nós. ASSINA: Diretoria do IE/Unicamp.
+
+**Ana Carla Magni foi presidente da antiga APG Unicamp no ano de 2003-2004**
+
+
 ### Cândida Maria Teixeira
 
 É com pesar que comunicamos o falecimento da Srª. Cândida Maria Teixeira, ex- funcionária do IFCH. A Srª. Cândida trabalhou nos primórdios de nosso Instituto, e se aposentou no IE. À família enlutada, a Direção do IFCH irmana-se em seu sentimento de perda e dor, e oferece nossas condolências. ASSINA: Prof. Dr. Alvaro Bianchi, Diretor do IFCH/Unicamp.
