@@ -260,7 +260,7 @@ n) zelar pelo cumprimento das disposições legais e estatutárias e, ainda, pel
 
 o) deliberar sobre a convocação da Assembleia Geral;
 
-p) apresentar à Assembleia Geral Ordinária o relatório e as contas de sua gestão, bem como o parecer do Conselho Fiscal;
+p) apresentar à Assembleia Geral Ordinária o relatório e as contas de sua gestão;
 
 q) contratar e organizar o quadro administrativo necessário ao funcionamento da APG Unicamp e,
 
@@ -435,7 +435,7 @@ Art. 41 - A dissolução da Coordenadoria da APG Unicamp será decidida em Assem
 
 Parágrafo Único - No caso da vacância de todas as pessoas da Coordenadoria, qualquer associada/o da APG Unicamp poderá convocar Assembleia Geral extraordinária para convocação de novas eleições.
 
-Art. 42 - A APG Unicamp só será dissolvida mediante deliberação de 2/3 dos associados em Assembleia Geral especialmente convocada para este fim. Salvo disposição em contrária da Assembleia de dissolução, seu patrimônio será transferido para entidades estudantis da Unicamp e/ou da APG Unicamp.
+Art. 42 - A APG Unicamp só será dissolvida mediante deliberação de 3/5 dos associados em Assembleia Geral especialmente convocada para este fim. Salvo disposição em contrária da Assembleia de dissolução, seu patrimônio será transferido para entidades estudantis da Unicamp e/ou da APG Unicamp.
 
 Art. 43 - Os associados não respondem solidária nem subsidiariamente pelas obrigações que a Coordenadoria contrair em nome da APG Unicamp.
 
@@ -447,7 +447,7 @@ Art. 45 – Excepcionalmente na primeira gestão, o mandato da Coordenadoria ser
 
 Art. 46 - A Coordenadoria deverá, imediatamente após a aprovação do presente Estatuto, providenciar o seu registro.
 
-Art. 47 – A dissolução e/ou extinção da entidade deverá ocorrer através de assembleia geral extraordinária convocada para este fim, devendo a mesma ser aprovada por 3/5 dos presentes. Em caso de dissolução da entidade, o seu patrimônio deverá ser doado para outra entidade congênere, conforme deliberação da própria assembleia de extinção.
+Art. 47 – A dissolução e/ou extinção da entidade deverá ocorrer através de assembleia geral extraordinária convocada para este fim, devendo a mesma ser aprovada por 3/5 dos associados. Em caso de dissolução da entidade, o seu patrimônio deverá ser doado para outra entidade congênere, conforme deliberação da própria assembleia de extinção.
 
 Art. 48. O presente Estatuto entrará em vigor na data da sua aprovação.
 
