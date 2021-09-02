@@ -174,7 +174,7 @@ b)  Por requerimento de, pelo menos, 2% (dois por cento) dos associados.
 
 § 3º - Satisfeitas as condições para convocação, a Coordenadoria da APG Unicamp deverá tomar os procedimentos para publicizar a Assembleia Geral Extraordinária.
 
-Art. 15 – A Assembleia Geral instalar-se-á, em primeira convocação com quórum mínimo de 2% (dois por cento) dos associados. Após 30 minutos, em segunda convocação, com 0,5% dos associados.
+Art. 15 – A Assembleia Geral instalar-se-á, em primeira convocação com quórum mínimo de 2% (dois por cento) dos associados. Após 30 minutos, em segunda convocação, com qualquer número de associados.
 
 Art. 16 - A mesa da Assembleia Geral deverá ser composta pela Coordenadoria da APG Unicamp.  
 
