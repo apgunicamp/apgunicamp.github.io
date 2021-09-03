@@ -29,7 +29,7 @@ date: 2021-07-11
 
 </style>
 
-A Associação das Pós-Graduandas e dos Pós-Graduandos da Unicamp, refundada em 11 de setembro de 2019, é a entidade máxima de representação dos pós-graduandas e pós-graduandos matriculados em programas de pós-graduação *stricto sensu* e em cursos de especialização ou pós-graduação *lato sensu* da Universidade Estadual de Campinas.
+A Associação das Pós-Graduandas e dos Pós-Graduandos da Unicamp (formalmente Associação Central de Pós-Graduação da Unicamp) é a entidade máxima de representação dos pós-graduandas e pós-graduandos matriculados em programas de pós-graduação *stricto sensu* e em cursos de especialização ou pós-graduação *lato sensu* da Universidade Estadual de Campinas. Foi refundada em 11 de setembro de 2021. 
 
 Um de seus objetivos é congregar e defender a vontade de todos os pós-graduandos e todas as pós-graduandas da Unicamp, respeitando as liberdades de pensamento e de expressão de seus associados, sendo livre de quaisquer discriminações, tais como de gênero, de raça, de etnia, de origem, de cor ou de orientação sexual.
 
