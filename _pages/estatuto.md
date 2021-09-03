@@ -5,8 +5,8 @@ title: "Estatuto da APG Unicamp"
 last_modified_at: 2021-08-13
 toc: true
 toc_label: "Estatuto"
+author_profile: true
 ---
-
 Estatuto da Associação Central de Pós-Graduação da Unicamp (Associação de Pós-Graduandas e Pós-Graduandos da Universidade Estadual de Campinas) -- APG Unicamp
 
 ### TÍTULO I – DA DENOMINAÇÃO, DA SEDE E DA DURAÇÃO DA ENTIDADE
@@ -54,7 +54,7 @@ XV - promover reuniões, debates, conferências e cursos sobre problemas que afe
 
 XVI - zelar pela autonomia organizativa e financeira da entidade em relação às estruturas burocráticas da Unicamp.
 
-§ 1º. – Para consecução do seu objetivo, a APG Unicamp poderá:	
+§ 1º. – Para consecução do seu objetivo, a APG Unicamp poderá:
 
 a) captar recursos junto a organismos nacionais e/ou internacionais, públicos e privados, na forma da Lei;
 
@@ -84,7 +84,7 @@ b) seus associados.
 
 Art. 5º - O patrimônio da entidade é constituído pelos bens materiais e imateriais que possui e por outros que vier a adquirir, cujos rendimentos sejam aplicados na satisfação de seus encargos.
 
-Parágrafo Único – A alienação de qualquer um dos bens da entidade só poderá ser procedida pela deliberação favorável de, pelo menos, 2/3 (dois terços) da Coordenadoria da APG Unicamp ou por decisão de Assembleia Geral.  
+Parágrafo Único – A alienação de qualquer um dos bens da entidade só poderá ser procedida pela deliberação favorável de, pelo menos, 2/3 (dois terços) da Coordenadoria da APG Unicamp ou por decisão de Assembleia Geral.
 
 Art. 6º - A receita da entidade é constituída por:
 
@@ -145,7 +145,9 @@ Art. 11 - São passíveis de penalidade, julgadas e aplicadas pela Coordenadoria
 § 1º - Os associados que infringirem os preceitos estatutários estarão sujeitos às seguintes penalidades:
 
 a)  advertência por escrito;
+
 b)  suspensão de funções e/ou de cargos vinculados à entidade;
+
 c)  demissão e exclusão como associado
 
 § 2º - Nos casos das penalidades de suspensão, demissão e exclusão, fica assegurado aos associados penalizados amplo direito de defesa e de recurso por escrito à Assembleia Geral, no prazo de 15 dias contados da ciência da decisão.
@@ -157,7 +159,9 @@ c)  demissão e exclusão como associado
 Art. 12 - São instâncias deliberativas da APG Unicamp:
 
 a) Assembleia Geral;
+
 b) Coordenadoria;
+
 c) Conselho de Representantes
 
 #### Capítulo I - Da Assembleia Geral
@@ -169,14 +173,16 @@ Art. 14 - A Assembleia Geral poderá ser Ordinária ou Extraordinária.
 § 1º - A Assembleia Geral Ordinária se realizará no mínimo duas vezes por semestre, a contar da aprovação do presente Estatuto, cabendo sua convocação à Coordenadoria da entidade, para deliberar sobre os temas de interesse da entidade e seus associados.
 
 § 2º - A Assembleia Geral Extraordinária poderá ser convocada:
+
 a)  Por deliberação da Coordenadoria ou de Assembleia Geral;
+
 b)  Por requerimento de, pelo menos, 2% (dois por cento) dos associados.
 
 § 3º - Satisfeitas as condições para convocação, a Coordenadoria da APG Unicamp deverá tomar os procedimentos para publicizar a Assembleia Geral Extraordinária.
 
 Art. 15 – A Assembleia Geral instalar-se-á, em primeira convocação com quórum mínimo de 2% (dois por cento) dos associados. Após 30 minutos, em segunda convocação, com qualquer número de associados.
 
-Art. 16 - A mesa da Assembleia Geral deverá ser composta pela Coordenadoria da APG Unicamp.  
+Art. 16 - A mesa da Assembleia Geral deverá ser composta pela Coordenadoria da APG Unicamp.
 
 Art. 17 - O edital de convocação da Assembleia Geral, contendo sua pauta e os referentes anexos, local e horário, deverá ser previamente afixado na porta da sede da entidade e divulgado por todos os meios disponíveis para conhecimento dos pós-graduandos e pós-graduandas, com antecedência mínima de 10 (dez) dias.
 
@@ -196,7 +202,7 @@ I - deliberar sobre medidas de interesse dos associados;
 
 II - deliberar sobre casos omissos no presente Estatuto;
 
-III - aprovar reformas no estatuto da entidade, pela maioria de 2/3 dos votos 
+III - aprovar reformas no estatuto da entidade, pela maioria de 2/3 dos votos
 dos presentes, desde que convocada especificamente para deliberar sobre tal assunto;
 
 IV - penalizar os associados, e julgar os recursos sobre penalidades aplicadas, de acordo com os termos deste estatuto, inclusive os membros da Coordenadoria da entidade, desde que convocada especificamente para deliberar sobre tal assunto;
@@ -225,7 +231,6 @@ II – Secretária-geral, que é composta por um membro;
 
 III – Tesouraria, que é composta por um membro;
 
-
 Art. 24 - São responsabilidades específicas:
 
 I –  Da Coordenadoria Geral
@@ -234,7 +239,7 @@ a) representar extrajudicialmente ou judicialmente, ativa e passivamente, a enti
 
 b) formalizar a contratação e a demissão de funcionários;
 
-c) firmar contratos e convênios, bem como fazer movimentação financeira em conjunto com a tesouraria.  
+c) firmar contratos e convênios, bem como fazer movimentação financeira em conjunto com a tesouraria.
 
 d) elaborar e submeter à Assembleia Geral a proposta de programação anual da APG Unicamp;
 
@@ -265,8 +270,8 @@ p) apresentar à Assembleia Geral Ordinária o relatório e as contas de sua ges
 q) contratar e organizar o quadro administrativo necessário ao funcionamento da APG Unicamp e,
 
 r) propor à Assembleia Geral eventual interesse de promover atividades além das previstas no art. 2o.
- 
-s) A representação legal da entidade, ativa, passiva, judicial ou extrajudicial será de dois coordenadores gerais, escolhidos entre os cinco membros, em reunião da coordenação. 
+
+s) A representação legal da entidade, ativa, passiva, judicial ou extrajudicial será de dois coordenadores gerais, escolhidos entre os cinco membros, em reunião da coordenação.
 
 t)  A representação legal sempre deverá ser conjunta pelos dois membros da coordenadoria geral escolhidos para a respectiva representação.
 
@@ -376,13 +381,14 @@ Parágrafo Único – A inscrição de chapas e votação deverão ocorrer de fo
 Art. 33 - As regras específicas do processo eleitoral serão estabelecidas por meio de regimento eleitoral aprovados em Assembleia Geral, mesma Assembleia responsável por indicar os membros que comporão a Comissão Eleitoral, respeitadas as normas deste Estatuto, bem como:
 
 a) respeitando a paridade de gênero;
-b) definindo percentual de representação étnico-racial, indexado ao valor mínimo da proporção de pretos e pardos do levantamento mais recente do Censo Demográfico do IBGE no Estado de São Paulo. 
+
+b) definindo percentual de representação étnico-racial, indexado ao valor mínimo da proporção de pretos e pardos do levantamento mais recente do Censo Demográfico do IBGE no Estado de São Paulo.
 
 #### Capítulo III - Do Conselho de Representantes
 
 Art. 34 - O Conselho de Representantes, órgão consultivo da Coordenadoria da APG Unicamp, é composto por 1 (um) representante de Associação de Pós-Graduandas e Pós-Graduandos (APGs) de cada Unidade de Ensino e Pesquisa da Unicamp, ou em sua ausência por 1 (um) dentre os representantes discentes de pós-graduação anteriormente eleitos dentro do âmbito de cada Unidade, além dos Representantes Discentes no Conselho Universitário (CONSU) e Comissão Central de Pós-Graduação (CCPG).
 
-Parágrafo primeiro - Todo associado da APG Unicamp deverá declarar a Unidade à qual pertence, sendo então contado como pertencentes a somente esta Unidade. 
+Parágrafo primeiro - Todo associado da APG Unicamp deverá declarar a Unidade à qual pertence, sendo então contado como pertencentes a somente esta Unidade.
 
 Parágrafo segundo – As eleições para o Conselho de Representantes é facultativa e ocorrerá em assembleia especifica em cada unidade de ensino e pesquisa, sendo que o colégio eleitoral são os respectivos associados da entidade daquela unidade.
 
@@ -394,11 +400,12 @@ Art. 35 - São consideradas Unidades de Ensino e Pesquisa aquelas reconhecidas p
 
 Parágrafo Único – O membro do Conselho que representar, como titular, mais de uma instância terá direito a apenas 1 (um) voto, em que o(s) suplente(s) deverá(ão) ser convocado(s) para assumir o(s) outro(s) voto;
 
-Art. 36 - Os representantes serão substituídos, por ocasião de seus impedimentos, temporários ou permanentes, pelos seus respectivos suplentes. 
+Art. 36 - Os representantes serão substituídos, por ocasião de seus impedimentos, temporários ou permanentes, pelos seus respectivos suplentes.
 
 Art. 37 - O Conselho de Representantes reunir-se-á ordinariamente em sessão conjunta com a Coordenadoria da APG/Unicamp e extraordinariamente, sempre que convocado:
 
 a) por 25% ou mais de seus membros;
+
 b) pela Coordenadoria da APG Unicamp
 
 § 1º - A Coordenadoria não tem voto no Conselho de Representantes.
@@ -411,7 +418,7 @@ Art. 38 - Ao Conselho de Representantes compete:
 
 § 2º - Fiscalizar o cumprimento do programa de Coordenadoria eleita
 
-§ 3º - Estimular medidas necessárias à consecução do disposto nas finalidades da APG Unicamp. 
+§ 3º - Estimular medidas necessárias à consecução do disposto nas finalidades da APG Unicamp.
 
 ### TÍTULO VI – DA PRESTAÇÃO DE CONTAS
 
@@ -423,7 +430,7 @@ II - a publicidade, por qualquer meio eficaz, no encerramento do exercício fisc
 
 III - a realização de auditoria, inclusive por auditores externos independentes, se for o caso, da aplicação dos eventuais recursos objeto de Termo de Parceria, conforme previsto em regulamento; e
 
-IV - a prestação de contas de todos os recursos e bens de origem pública recebidos será feita conforme determina o parágrafo único do Art. 70, da Constituição Federal. 
+IV - a prestação de contas de todos os recursos e bens de origem pública recebidos será feita conforme determina o parágrafo único do Art. 70, da Constituição Federal.
 
 ### TÍTULO VII – DAS DISPOSIÇÕES GERAIS E TRANSITÓRIAS
 
@@ -453,9 +460,20 @@ Art. 48. O presente Estatuto entrará em vigor na data da sua aprovação.
 
 Campinas, 11 de Setembro de 2019
 
-JOÃO PAULO FERREIRA BERTACCHI | Relator
 
-MATHEUS ALVES ALBINO | Coordenadoria Geral
+**JOÃO PAULO FERREIRA BERTACCHI**
+
+Relator
+
+
+**MATHEUS ALVES ALBINO**
+
+Coordenadoria Geral
+
+
+---
+
+
 
 ### Fundadores da APG Unicamp
 
