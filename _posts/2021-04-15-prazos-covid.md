@@ -1,8 +1,8 @@
 ---
 layout: single
-title:  "Prazos, COVID-19, saúde mental: 1ª Assembleia Extraordinária de Pós-Graduandos e Pós-Graduandas da Unicamp"
+title:  "Prazos, COVID-19, saúde mental: 1ª Assembleia Ordinária de Pós-Graduandos e Pós-Graduandas da Unicamp"
 ---
-Resolução da 1ª Assembleia Extraordinária de Pós-Graduandos e Pós-Graduandas da Unicamp, realizada em 15 de abril de 2021:
+Resolução da 1ª Assembleia Ordinária de Pós-Graduandos e Pós-Graduandas da Unicamp, realizada em 15 de abril de 2021:
 
 1) Permanência: prorrogação de prazos e bolsas
 
