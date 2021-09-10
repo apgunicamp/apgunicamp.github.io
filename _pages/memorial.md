@@ -37,6 +37,9 @@ Faleceu nesta quinta-feira (22), vítima da Covid-19, o servidor Edmilson Antoni
 
 Desde 1985, o servidor prestava serviços à Universidade, tendo iniciado a sua carreira na Diretoria Geral da Administração (DGA). Nas horas vagas, Edmilson era o [palhaço "Cacareco"](https://www.unicamp.br/unicamp/sites/default/files/jornal/paginas/ju_554_pagina_08.pdf), performance que ocupava um lugar especial na sua vida. 
 
+## Angela von Nowakonski
+
+Dona Angela foi minha aluna em uma escola de música. Não a conheci na Unicamp, ela contava sobre sua profissão e que deu muitas aulas sobre microbiologia, mas era sempre muito modesta. Então foi com uma feliz surpresa que vi todas as homenagens que recebeu quando faleceu de Covid em julho de 2020, incluindo agora o prêmio criado com seu nome pela Sociedade Brasileira de Microbiologia. Descobri lendo reportagens que ela foi chefe do setor de Microbiologia Clínica da Divisão de Patologia Clínica do HC da Unicamp de 1987 até a sua aposentadoria, em julho de 2015. Além da música, compartilhávamos um grande amor por gatos e as fotos que ela mandava sempre alegravam meu dia. Angela deixou muitas saudades. ASSINA: Patricia Kawaguchi Cesar (Mestra em Música, IA)
 
 ## Fabio Dadam 
 
