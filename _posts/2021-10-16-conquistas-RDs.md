@@ -1,3 +1,7 @@
+---
+layout: single
+title:  "Conquistas da Representação Discente"
+---
 
 Ter uma bancada discente unida e coesa é muito importante para conquistar vitórias nas pautas estudantis. Confira algumas das ações em conjunto da bancada discente do Conselho Universitário (CONSU) e com a representação na Comissão Central de Pós-Graduação (CCPG), Comissão Central de Graduação (CCG), APG Central e DCE.
 
