@@ -13,9 +13,9 @@ As reuniões da APG Unicamp são abertas e acontecem de forma presencial todas a
 # 2020
 
 * [1ª Reunião do Conselho de Representantes de Unidades](https://https://drive.google.com/file/d/1b4S6pFYmmb3YdJ0VDXfjLVfJkgZKWSFs/view?usp=sharing)
-* 15ª Reunião da APG Unicamp, de 25 de abril de 2020.
-* 14ª Reunião da APG Unicamp, de 02 de abril de 2020.
-* 13ª Reunião da APG Unicamp, de 23 de março de 2020.
+* 15ª Reunião da APG Unicamp, de 25 de abril de 2020
+* 14ª Reunião da APG Unicamp, de 02 de abril de 2020
+* 13ª Reunião da APG Unicamp, de 23 de março de 2020
 * 12ª Reunião da APG Unicamp, de 14 de fevereiro de 2020
 * 11ª Reunião da APG Unicamp, de 07 de fevereiro de 2020
 * 10ª Reunião da APG Unicamp, de 31 de janeiro de 2020
