@@ -25,11 +25,21 @@ body {
   color: silver;
   background-color: black;
 }
+  
+.toc__menu {
+  color: silver;
+  background-color: black;
+}  
+  
 </style>
 
 Em solidariedade aos entes queridos das vítimas da Covid-19 no Brasil, a Associação de Pós-Graduandas e Pós-Graduandos da Unicamp inaugura este Memorial como uma forma de lembrança e de agradecimento à insubstituível contribuição que as pessoas de nossa comunidade universitária prestaram a toda a sociedade brasileira ao construir e fazer parte da história da Universidade Estadual de Campinas. Para nós, a comunidade universitária é como uma grande família composta por estudantes, servidores docentes, técnico-administrativos, contratados terceirizados e seus amigos e familiares. Essa é a luz que ilumina a Unicamp. A cada perda sofremos juntos o luto e o transformamos em luta por melhores condições de trabalho e de vida. 
 
 Diante disso, a APG Unicamp abre este espaço para que qualquer pessoa envie sua homenagem às vítimas da Covid-19 de nossa comunidade, ex-membros e seus familiares, enviando mensagens, imagens e notas de colegas por meio de nossos canais de comunicação nas redes sociais e via e-mail (apgunicamp@gmail.com).
+
+## Angela von Nowakonski
+
+Dona Angela foi minha aluna em uma escola de música. Não a conheci na Unicamp, ela contava sobre sua profissão e que deu muitas aulas sobre microbiologia, mas era sempre muito modesta. Então foi com uma feliz surpresa que vi todas as homenagens que recebeu quando faleceu de Covid em julho de 2020, incluindo agora o prêmio criado com seu nome pela Sociedade Brasileira de Microbiologia. Descobri lendo reportagens que ela foi chefe do setor de Microbiologia Clínica da Divisão de Patologia Clínica do HC da Unicamp de 1987 até a sua aposentadoria, em julho de 2015. Além da música, compartilhávamos um grande amor por gatos e as fotos que ela mandava sempre alegravam meu dia. Angela deixou muitas saudades. ASSINA: Patricia Kawaguchi Cesar (Mestra em Música, IA)
 
 ## Edmilson Antonio Ortolan
 
@@ -37,9 +47,12 @@ Faleceu nesta quinta-feira (22), vítima da Covid-19, o servidor Edmilson Antoni
 
 Desde 1985, o servidor prestava serviços à Universidade, tendo iniciado a sua carreira na Diretoria Geral da Administração (DGA). Nas horas vagas, Edmilson era o [palhaço "Cacareco"](https://www.unicamp.br/unicamp/sites/default/files/jornal/paginas/ju_554_pagina_08.pdf), performance que ocupava um lugar especial na sua vida. 
 
-## Angela von Nowakonski
+## Elsio Rodrigo dos Santos
 
-Dona Angela foi minha aluna em uma escola de música. Não a conheci na Unicamp, ela contava sobre sua profissão e que deu muitas aulas sobre microbiologia, mas era sempre muito modesta. Então foi com uma feliz surpresa que vi todas as homenagens que recebeu quando faleceu de Covid em julho de 2020, incluindo agora o prêmio criado com seu nome pela Sociedade Brasileira de Microbiologia. Descobri lendo reportagens que ela foi chefe do setor de Microbiologia Clínica da Divisão de Patologia Clínica do HC da Unicamp de 1987 até a sua aposentadoria, em julho de 2015. Além da música, compartilhávamos um grande amor por gatos e as fotos que ela mandava sempre alegravam meu dia. Angela deixou muitas saudades. ASSINA: Patricia Kawaguchi Cesar (Mestra em Música, IA)
+Em memória de Elsio Rodrigo dos Santos. Contribuiu com a comunidade UNICAMP como parte do núcleo familiar e grande incentivador de estudos de uma graduanda de nossa instituição. Exímio violinista, dedicou sua vida à amar o próximo e ajudar a todos que pudesse. 
+
+Que seus familiares, em especial sua esposa Patrícia e sua filha Maria Eduarda, embora esta nem mesmo possa ler ainda, encontrem acalento nesta homenagem. Que possamos todos os dias nos lembrar, saudosos porém tranquilos e confiantes, do exemplo de amor e benevolência que Rodrigo deixou marcado no coração de todos os que o conheceram. Atenciosamente, Maria Isabela Monteiro. 
+
 
 ## Fabio Dadam 
 
