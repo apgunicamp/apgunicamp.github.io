@@ -39,7 +39,9 @@ Diante disso, a APG Unicamp abre este espaço para que qualquer pessoa envie sua
 
 ## Angela von Nowakonski
 
-Dona Angela foi minha aluna em uma escola de música. Não a conheci na Unicamp, ela contava sobre sua profissão e que deu muitas aulas sobre microbiologia, mas era sempre muito modesta. Então foi com uma feliz surpresa que vi todas as homenagens que recebeu quando faleceu de Covid em julho de 2020, incluindo agora o prêmio criado com seu nome pela Sociedade Brasileira de Microbiologia. Descobri lendo reportagens que ela foi chefe do setor de Microbiologia Clínica da Divisão de Patologia Clínica do HC da Unicamp de 1987 até a sua aposentadoria, em julho de 2015. Além da música, compartilhávamos um grande amor por gatos e as fotos que ela mandava sempre alegravam meu dia. Angela deixou muitas saudades. ASSINA: Patricia Kawaguchi Cesar (Mestra em Música, IA)
+Dona Angela foi minha aluna em uma escola de música. Não a conheci na Unicamp, ela contava sobre sua profissão e que deu muitas aulas sobre microbiologia, mas era sempre muito modesta. Então foi com uma feliz surpresa que vi todas as homenagens que recebeu quando faleceu de Covid em julho de 2020, incluindo agora o prêmio criado com seu nome pela Sociedade Brasileira de Microbiologia. Descobri lendo reportagens que ela foi chefe do setor de Microbiologia Clínica da Divisão de Patologia Clínica do HC da Unicamp de 1987 até a sua aposentadoria, em julho de 2015. Além da música, compartilhávamos um grande amor por gatos e as fotos que ela mandava sempre alegravam meu dia. Angela deixou muitas saudades. 
+
+*Patricia Kawaguchi Cesar (Mestra em Música, IA)*
 
 ## Edmilson Antonio Ortolan
 
@@ -61,7 +63,8 @@ Covid-19. Fábio era professor do Departamento de Matemática da UTFPR em Curiti
 2011, período no qual ele conviveu intensamente com vários dos nossos colegas.
 
 A Diretoria do IMECC vem expressar suas profundas condolências aos familiares e entes queridos. Que possam ser confortados neste momento difícil de sofrimento e dor.
-ASSINA: Diretoria do IMECC
+
+*Diretoria do IMECC*
 
 
 ## Matheus Henrique de Souza Santos
@@ -74,30 +77,40 @@ Nós, Representantes Discentes dos Programas de Pós-graduação do Instituto de
 
 É com imenso pesar que informamos o falecimento do professor Roberto Romano, nesta quinta-feira, dia 22/07, vítima da Covid 19. O professor Roberto Romano era docente aposentado do IFCH, mas foi também nosso colega na FE, mais especificamente no DECISE, de onde se transferiu para aquele instituto.
 
-Era uma referência em filosofia, sobretudo no campo da ética e da filosofia política. Sua vastíssima produção acadêmica inclui inúmeros livros, artigos científicos e artigos em jornais e revistas de grande circulação. Essa última modalidade expressa, assim como tantas outras atividades que ele desenvolvia, seu profundo compromisso com a formação crítica das massas. Era um educador no sentido pleno da palavra! Recentemente, em 31 de março, participou do IV Seminário “Golpe, ditadura e educação”, realizado na FE, pelos grupos GPPES e GEPEJA, em formato remoto, e coordenado pelas Professoras Débora Mazza e Nima Spigolon, proferindo a conferência intitulada: “Brasil, Estado e sociedade reacionários e a luta pela soberania popular”. Sua morte representa uma enorme perda para todos nós, para a Unicamp, para a intelectualidade brasileira e para a educação de nosso país. Aos familiares do Prof. Roberto Romano e aos colegas do IFCH, nossos sinceros sentimentos. ASSINA: Renê Trentin - Diretor da FE/Unicamp.
+Era uma referência em filosofia, sobretudo no campo da ética e da filosofia política. Sua vastíssima produção acadêmica inclui inúmeros livros, artigos científicos e artigos em jornais e revistas de grande circulação. Essa última modalidade expressa, assim como tantas outras atividades que ele desenvolvia, seu profundo compromisso com a formação crítica das massas. Era um educador no sentido pleno da palavra! Recentemente, em 31 de março, participou do IV Seminário “Golpe, ditadura e educação”, realizado na FE, pelos grupos GPPES e GEPEJA, em formato remoto, e coordenado pelas Professoras Débora Mazza e Nima Spigolon, proferindo a conferência intitulada: “Brasil, Estado e sociedade reacionários e a luta pela soberania popular”. Sua morte representa uma enorme perda para todos nós, para a Unicamp, para a intelectualidade brasileira e para a educação de nosso país. Aos familiares do Prof. Roberto Romano e aos colegas do IFCH, nossos sinceros sentimentos.
+
+*Renê Trentin - Diretor da FE/Unicamp.*
 
 ## Ronei de Jesus Poppi
 
 É com muita tristeza e profundo pesar que a Sociedade Brasileira de Química comunica o falecimento do Dr. Ronei de Jesus Poppi, Professor Titular do Departamento de Química Analítica do Instituto de Química da Unicamp, ocorrido neste sábado, dia 25 de abril. O Prof. Ronei realizou sua Graduação (1986), Mestrado (1989, orientado pelos Profs. Fernando Faigle e Roy Bruns) e Doutorado (1993, orientado pelo Prof. Celio Pasquini) no IQ/Unicamp, onde foi contratado em 1994. Realizou Pós-Doutoramento na Universidade Livre de Bruxelas (1996). A Quimiometria foi sua parceira (e paixão) desde o mestrado, tendo formado inúmeros mestres e doutores, muitos deles hoje docentes em Universidades de todo o Brasil. Foi um professor dedicado e respeitado. Dedicava-se também intensamente ao Instituto e à Universidade, estando sempre pronto a colaborar em tarefas administrativas. Era uma pessoa generosa, compreensiva, sensata, solícita e acolhedora. Sua timidez e humildade muitas vezes não lhe permitiam mostrar suas qualidades e o ser humano que era. A ciência do Brasil perde um grande e competente pesquisador.
 
-Perdemos uma grande pessoa, um grande amigo. Fica a lembrança de um homem de coração imenso e a certeza de que sua vida continua em todos aqueles que tiveram o privilégio de sua convivência. Sentiremos muito sua falta. Nossos profundos sentimentos à família, amigos e orientandos. ASSINAM: Fábio Augusto (Depto Química Analitica - Unicamp), Ivo M. Raimundo Jr. (Secretário SBQ - Regional Campinas).
+Perdemos uma grande pessoa, um grande amigo. Fica a lembrança de um homem de coração imenso e a certeza de que sua vida continua em todos aqueles que tiveram o privilégio de sua convivência. Sentiremos muito sua falta. Nossos profundos sentimentos à família, amigos e orientandos. 
+
+*Fábio Augusto (Depto Química Analitica - Unicamp) e Ivo M. Raimundo Jr. (Secretário SBQ - Regional Campinas)*
 
 ## Samantha Barbosa de Gobbi
 
-É com pesar que comunicamos o falecimento de Samantha Barbosa de Gobbi, esposa do funcionário Mário Aparecido de Gobbi (coordenador administrativo do Instituto). À família enlutada, a Direção do IFCH irmana-se em seu sentimento de perda e dor, e oferece nossas condolências. ASSINA: Prof. Dr. Alvaro Bianchi, Diretor do IFCH/Unicamp.
+É com pesar que comunicamos o falecimento de Samantha Barbosa de Gobbi, esposa do funcionário Mário Aparecido de Gobbi (coordenador administrativo do Instituto). À família enlutada, a Direção do IFCH irmana-se em seu sentimento de perda e dor, e oferece nossas condolências. 
+
+*Alvaro Bianchi, Diretor do IFCH/Unicamp.*
 
 ## Outras perdas durante a pandemia
 
 ### Ana Carla Magni
 
-A Direção e os programas de pós graduação do IE/Unicamp manifestam os sentimentos de solidariedade à família da nossa doutoranda, Ana Carla Magni. A sua trajetória no curso de especialização em economia do trabalho e sindicalismo, no mestrado e no doutorado foi muito marcante, pois sempre se destacou pela seriedade, pela forma alegre de conviver, pela vibração de ampliar os conhecimentos e pelo compromisso de realizar pesquisa na perspectiva de contribuir com a mudança social. Infelizmente no começo do doutorado descobriu o câncer, que levou a sua vida no dia de ontem (23/08). Descanse em paz Ana, com a certeza que deixou um grande legado e testemunho de vida que servirá de luz para todos nós. ASSINA: Diretoria do IE/Unicamp.
+A Direção e os programas de pós graduação do IE/Unicamp manifestam os sentimentos de solidariedade à família da nossa doutoranda, Ana Carla Magni. A sua trajetória no curso de especialização em economia do trabalho e sindicalismo, no mestrado e no doutorado foi muito marcante, pois sempre se destacou pela seriedade, pela forma alegre de conviver, pela vibração de ampliar os conhecimentos e pelo compromisso de realizar pesquisa na perspectiva de contribuir com a mudança social. Infelizmente no começo do doutorado descobriu o câncer, que levou a sua vida no dia de ontem (23/08). Descanse em paz Ana, com a certeza que deixou um grande legado e testemunho de vida que servirá de luz para todos nós. 
+
+*Diretoria do IE/Unicamp*
 
 **Ana Carla Magni foi presidente da antiga APG Unicamp no ano de 2003-2004**
 
 
 ### Cândida Maria Teixeira
 
-É com pesar que comunicamos o falecimento da Srª. Cândida Maria Teixeira, ex- funcionária do IFCH. A Srª. Cândida trabalhou nos primórdios de nosso Instituto, e se aposentou no IE. À família enlutada, a Direção do IFCH irmana-se em seu sentimento de perda e dor, e oferece nossas condolências. ASSINA: Prof. Dr. Alvaro Bianchi, Diretor do IFCH/Unicamp.
+É com pesar que comunicamos o falecimento da Srª. Cândida Maria Teixeira, ex- funcionária do IFCH. A Srª. Cândida trabalhou nos primórdios de nosso Instituto, e se aposentou no IE. À família enlutada, a Direção do IFCH irmana-se em seu sentimento de perda e dor, e oferece nossas condolências. 
+
+*Alvaro Bianchi, Diretor do IFCH/Unicamp*
 
 ### José Luis Sanfelice
 
@@ -115,7 +128,7 @@ Em uma utopia mais imanente, planejava, no ano que vem, incluir nas festividades
 
 Despeço-me, então, contra minha vontade e já cheio de saudade, de meu mestre e amigo Zé. Espero seguir no caminho que um dia ele me ajudou a enxergar, na esperança de que aquilo que aprendi com ele, somado à força que vem dos afetos que a lembrança docemente nos concede, me ajude a seguir adiante. Em nome da Direção e de toda a comunidade da FE, apresento aos familiares e amigos de nosso querido Sanfelice, nossas sinceras condolências.
 
-ASSINA: Renê Trentin, Diretor da FE
+*Renê Trentin, Diretor da FE*
 
 
 ### José Rodrigues da Costa
@@ -130,16 +143,20 @@ A nossa querida Jojo foi um exemplo de energia e teve grande importância, tanto
 
 Aproveitamos para lembrar que, junto ao nosso colega Matheus Henrique de Souza Santos, Josefina será sempre lembrada por iluminar nossos caminhos em nosso Instituto. Nos unimos, neste momento, à tristeza e ao luto da família de ambos. Da mesma forma, nos unimos ao luto das famílias dos e das 563.707 brasileiras e brasileiros falecidos devido a pandemia de Covid-19, esta doença para a qual, lembramos, já há tratamento e cujos protocolos de mitigação já são conhecidos, ainda que desconsiderados pelas autoridades instituídas. 
 
-ASSINAM: Marina Betetto Drezza, Renata Augusta Sampaio Paes, Sandra Estroges, Gustavo Glodes Blum, Luiz Fernando Vieira, Kezia Andrade dos Santos, Laryssa de Sousa Carneiro, Igor de Camargo Moreira, Poliana I. F. Toledo, Talita Gantus de Oliveira, Luiz Filipe de Melo Faria, Gabriela Bueno Fagundes de Freitas, Alessandra Linares Casagrande, Alice Cunha da Silva, Endel Muller Dalat de Sousa
+*Marina Betetto Drezza, Renata Augusta Sampaio Paes, Sandra Estroges, Gustavo Glodes Blum, Luiz Fernando Vieira, Kezia Andrade dos Santos, Laryssa de Sousa Carneiro, Igor de Camargo Moreira, Poliana I. F. Toledo, Talita Gantus de Oliveira, Luiz Filipe de Melo Faria, Gabriela Bueno Fagundes de Freitas, Alessandra Linares Casagrande, Alice Cunha da Silva, Endel Muller Dalat de Sousa*
 
 
 ### Luiz Roberto Monzani
 
-É com imensa tristeza que comunicamos o falecimento do Prof. Luiz Roberto Monzani, aos 74 anos de idade. Monzani era graduado em Filosofia pela Universidade de São Paulo (USP), onde também fez o seu doutorado; era professor livre-docente pela Universidade Estadual de Campinas (UNICAMP) e professor-colaborador do Programa de Pós-Graduação em Filosofia da Universidade Federal de S. Carlos (PPGF/UFSCar). É autor de importantes trabalhos nas áreas de Epistemologia da Psicanálise e História da Filosofia Moderna, donde se destacam as seguintes publicações: ‘Freud: o movimento de um pensamento’ (Editora da Unicamp, 1989; 2014) e ‘Desejo e prazer na Idade Moderna’ (Editora da UNICAMP, 1995; Editora Champagnat, 2011); Membro Emérito do GT Filosofia e Psicanálise da ANPOF; orientou, tanto no mestrado quanto no doutorado, um grande número  de discentes que se tornaram, no decorrer da vida, seus/suas amigos(as) e admiradores(as). A comunidade filosófica expressa gratidão, respeito, carinho e admiração pelo seu brilhantismo intelectual e pela pessoa generosa que fora e que ficará guardada em nossa memória. Nosso imenso pesar e solidariedade à sua família e, em especial, à sua esposa, Josette Monzani. ASSINA: Associação Nacional de Pós-Graduação em Filosofia (ANPOF).
+É com imensa tristeza que comunicamos o falecimento do Prof. Luiz Roberto Monzani, aos 74 anos de idade. Monzani era graduado em Filosofia pela Universidade de São Paulo (USP), onde também fez o seu doutorado; era professor livre-docente pela Universidade Estadual de Campinas (UNICAMP) e professor-colaborador do Programa de Pós-Graduação em Filosofia da Universidade Federal de S. Carlos (PPGF/UFSCar). É autor de importantes trabalhos nas áreas de Epistemologia da Psicanálise e História da Filosofia Moderna, donde se destacam as seguintes publicações: ‘Freud: o movimento de um pensamento’ (Editora da Unicamp, 1989; 2014) e ‘Desejo e prazer na Idade Moderna’ (Editora da UNICAMP, 1995; Editora Champagnat, 2011); Membro Emérito do GT Filosofia e Psicanálise da ANPOF; orientou, tanto no mestrado quanto no doutorado, um grande número  de discentes que se tornaram, no decorrer da vida, seus/suas amigos(as) e admiradores(as). A comunidade filosófica expressa gratidão, respeito, carinho e admiração pelo seu brilhantismo intelectual e pela pessoa generosa que fora e que ficará guardada em nossa memória. Nosso imenso pesar e solidariedade à sua família e, em especial, à sua esposa, Josette Monzani. 
+
+*Associação Nacional de Pós-Graduação em Filosofia (ANPOF)*
 
 ### Oswaldo Luiz Alves
 
 O professor Oswaldo Alves era um dos mais importantes e brilhantes químicos do Brasil e da Universidade, tendo recebido inúmeros prêmios nacionais e internacionais. Desenvolveu uma carreira acadêmica brilhante e orientou mais de 50 alunos de doutorado e mestrado na área de Química do Estado Sólido. Foi um dos primeiros entre os pesquisadores brasileiros a desenvolver atividades na área de Nanotecnologia. Era membro ativo da Academia Brasileira de Ciências e coordenava trabalhos na regional do interior de São Paulo da Academia Brasileira de Ciências. Foi Presidente da Academia Brasileira de Ciências (1998-2000) e pelas suas contribuições à Comunidade Química Brasileira foi agraciado com a medalha Simão Mathias em 2004.
 
 Além de um químico competente, o professor Oswaldo Alves era uma pessoa muito afável e de gosto pela conversa. Esteve fortemente engajado em todas as grandes discussões em defesa da Ciência no Brasil. A perda desse ilustre professor e pesquisador deixa um grande vácuo no cenário da Ciência brasileira. A Reitoria da Unicamp, em nome da toda a Comunidade, manifesta os seus sentimentos à família pela perda irreparável.  
+
+*Reitoria da Unicamp*
 
