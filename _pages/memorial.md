@@ -51,7 +51,7 @@ Desde 1985, o servidor prestava serviços à Universidade, tendo iniciado a sua 
 
 Em memória de Elsio Rodrigo dos Santos. Contribuiu com a comunidade UNICAMP como parte do núcleo familiar e grande incentivador de estudos de uma graduanda de nossa instituição. Exímio violinista, dedicou sua vida à amar o próximo e ajudar a todos que pudesse. 
 
-Que seus familiares, em especial sua esposa Patrícia e sua filha Maria Eduarda, embora esta nem mesmo possa ler ainda, encontrem acalento nesta homenagem. Que possamos todos os dias nos lembrar, saudosos porém tranquilos e confiantes, do exemplo de amor e benevolência que Rodrigo deixou marcado no coração de todos os que o conheceram. ASSINA: Maria Isabela Monteiro. 
+Que seus familiares, em especial sua esposa Patrícia e sua filha Maria Eduarda, embora esta nem mesmo possa ler ainda, encontrem acalento nesta homenagem. Que possamos todos os dias nos lembrar, saudosos porém tranquilos e confiantes, do exemplo de amor e benevolência que Rodrigo deixou marcado no coração de todos os que o conheceram. 
 
 
 ## Fabio Dadam 
