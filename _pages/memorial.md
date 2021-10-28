@@ -29,8 +29,11 @@ body {
 .toc__menu a {
   color: silver;
   background-color: black;
-}  
-  
+} 
+.toc .nav__title {
+  color: silver;
+  background-color: black;
+}   
 </style>
 
 Em solidariedade aos entes queridos das vítimas da Covid-19 no Brasil, a Associação de Pós-Graduandas e Pós-Graduandos da Unicamp inaugura este Memorial como uma forma de lembrança e de agradecimento à insubstituível contribuição que as pessoas de nossa comunidade universitária prestaram a toda a sociedade brasileira ao construir e fazer parte da história da Universidade Estadual de Campinas. Para nós, a comunidade universitária é como uma grande família composta por estudantes, servidores docentes, técnico-administrativos, contratados terceirizados e seus amigos e familiares. Essa é a luz que ilumina a Unicamp. A cada perda sofremos juntos o luto e o transformamos em luta por melhores condições de trabalho e de vida. 
