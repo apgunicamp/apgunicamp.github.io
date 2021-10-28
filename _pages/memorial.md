@@ -26,7 +26,7 @@ body {
   background-color: black;
 }
   
-.toc {
+.toc__menu a {
   color: silver;
   background-color: black;
 }  
