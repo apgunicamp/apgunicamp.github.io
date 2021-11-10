@@ -1,13 +1,13 @@
 # main links
 main:
-   - title: "Sobre a APG"
+   - title: "APG"
      url: /sobre/
    - title: "Estatuto"
      url: /leg/
    - title: "Memorial"
      url: /memorial/
-   - title: "Representação"
-     url: /rd/
+   - title: "Representantes"
+     url: /cru/
    - title: "LGBTQIA+"
      url: /lgbt/
    - title: "Pautas e Atas"
