@@ -9,7 +9,7 @@ excerpt: "Em solidariedade aos entes queridos das vítimas da pandemia, como uma
 header:
   overlay_color: "#000"
   actions:
-    - label: "Deixe sua homenagem"
+    - label: "Envie sua homenagem"
       url: "mailto:apgunicamp@gmail.com"
 last_modified_at: 2021-11-10
 ---
