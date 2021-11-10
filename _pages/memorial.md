@@ -5,7 +5,7 @@ author_profile: false
 toc: true
 toc_label: "Em memória de"
 title: "Memorial das vítimas da Covid-19 na Unicamp"
-excerpt: "Solidariedade aos entes queridos das vítimas da pandemia no Brasil" 
+excerpt: "Agradecimento à contribuição de pessoas da comunidade universitária ao fazerem parte de nossa história" 
 header:
   overlay_color: "#000"
 last_modified_at: 2021-11-10
