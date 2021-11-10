@@ -7,7 +7,7 @@ toc: true
 toc_label: "Estatuto"
 author_profile: true
 ---
-Estatuto da Associação Central de Pós-Graduação da Unicamp (Associação de Pós-Graduandas e Pós-Graduandos da Universidade Estadual de Campinas) -- APG Unicamp
+Estatuto da Associação Central de Pós-Graduação da Unicamp -- APG Unicamp. CNPJ: 43.492.454/0001-30.
 
 ### TÍTULO I – DA DENOMINAÇÃO, DA SEDE E DA DURAÇÃO DA ENTIDADE
 
