@@ -18,7 +18,7 @@ minimal_mistakes_skin    : "contrast" # "air", "aqua", "contrast", "dark", "dirt
 locale                   : "pt-BR"
 title                    : "APG Unicamp"
 title_separator          : "-"
-subtitle                 : "Associação de Pós-Graduandas e Pós-Graduandos da Unicamp"
+subtitle                 : "Associação Central de Pós-Graduação da Unicamp"
 name                     : #"Your Name"
 description              : #"An amazing website."
 url                      : # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
@@ -96,7 +96,7 @@ analytics:
 author:
   name             : "APG Unicamp"
   avatar           : "/assets/images/apg.jpeg"
-  bio              : "Gestão Lélia Gonzalez (2020-2021)"
+  bio              : "Gestão Paulo Freire (2021-2022)"
   location         : 
   email            : "mailto:apgunicamp@gmail.com"
   links:
