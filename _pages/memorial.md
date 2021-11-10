@@ -1,7 +1,5 @@
 ---
 permalink: /memorial/
-layout: single
-author_profile: false
 toc: true
 toc_label: "Em memória de"
 title: "Memorial das vítimas da Covid-19 na Unicamp"
