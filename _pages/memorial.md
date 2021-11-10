@@ -9,7 +9,13 @@ excerpt: "Em solidariedade aos entes queridos das vítimas da pandemia, como uma
 header:
   overlay_color: "#000"
 last_modified_at: 2021-11-10
-classes: wide
+accordion: 
+  - title: Angela von Nowakonski
+    content: Dona Angela foi minha aluna em uma escola de música. Não a conheci na Unicamp, ela contava sobre sua profissão e que deu muitas aulas sobre microbiologia, mas era sempre muito modesta. Então foi com uma feliz surpresa que vi todas as homenagens que recebeu quando faleceu de Covid em julho de 2020, incluindo agora o prêmio criado com seu nome pela Sociedade Brasileira de Microbiologia. Descobri lendo reportagens que ela foi chefe do setor de Microbiologia Clínica da Divisão de Patologia Clínica do HC da Unicamp de 1987 até a sua aposentadoria, em julho de 2015. Além da música, compartilhávamos um grande amor por gatos e as fotos que ela mandava sempre alegravam meu dia. Angela deixou muitas saudades. 
+
+*Patricia Kawaguchi Cesar (Mestra em Música, IA)*
+  - title: this is item 2
+    content: Lorem ipsum dolor sit amet, consectetur adipiscing elit.
 ---
 
 <style>
@@ -43,6 +49,8 @@ body {
 Em solidariedade aos entes queridos das vítimas da Covid-19 no Brasil, a Associação de Pós-Graduandas e Pós-Graduandos da Unicamp inaugura este Memorial como uma forma de lembrança e de agradecimento à insubstituível contribuição que as pessoas de nossa comunidade universitária prestaram a toda a sociedade brasileira ao construir e fazer parte da história da Universidade Estadual de Campinas. Para nós, a comunidade universitária é como uma grande família composta por estudantes, servidores docentes, técnico-administrativos, contratados terceirizados e seus amigos e familiares. Essa é a luz que ilumina a Unicamp. A cada perda sofremos juntos o luto e o transformamos em luta por melhores condições de trabalho e de vida. 
 
 Diante disso, a APG Unicamp abre este espaço para que qualquer pessoa envie sua homenagem às vítimas da Covid-19 de nossa comunidade, ex-membros e seus familiares, enviando mensagens, imagens e notas de colegas por meio de nossos canais de comunicação nas redes sociais e via e-mail (apgunicamp@gmail.com).
+
+{% include accordion.html %}
 
 ## Angela von Nowakonski
 
