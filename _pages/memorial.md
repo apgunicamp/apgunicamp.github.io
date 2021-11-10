@@ -6,11 +6,11 @@ toc: true
 toc_label: "Em memória de"
 title: "Memorial das vítimas da Covid-19 na Unicamp"
 excerpt: "Em solidariedade aos entes queridos das vítimas da pandemia, como uma forma de lembrança e de agradecimento" 
-actions:
-    - label: "Deixe sua homenagem"
-      url: "mailto:apgunicamp@gmail.com"
 header:
   overlay_color: "#000"
+  actions:
+    - label: "Deixe sua homenagem"
+      url: "mailto:apgunicamp@gmail.com"
 last_modified_at: 2021-11-10
 ---
 
