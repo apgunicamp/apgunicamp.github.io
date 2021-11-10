@@ -9,11 +9,6 @@ excerpt: "Em solidariedade aos entes queridos das vítimas da pandemia, como uma
 header:
   overlay_color: "#000"
 last_modified_at: 2021-11-10
-accordion: 
-  - title: Angela von Nowakonski
-    content: Dona Angela foi minha aluna em uma escola de música. Não a conheci na Unicamp, ela contava sobre sua profissão e que deu muitas aulas sobre microbiologia, mas era sempre muito modesta. Então foi com uma feliz surpresa que vi todas as homenagens que recebeu quando faleceu de Covid em julho de 2020, incluindo agora o prêmio criado com seu nome pela Sociedade Brasileira de Microbiologia. Descobri lendo reportagens que ela foi chefe do setor de Microbiologia Clínica da Divisão de Patologia Clínica do HC da Unicamp de 1987 até a sua aposentadoria, em julho de 2015. Além da música, compartilhávamos um grande amor por gatos e as fotos que ela mandava sempre alegravam meu dia. Angela deixou muitas saudades.
-  - title: this is item 2
-    content: Lorem ipsum dolor sit amet, consectetur adipiscing elit.
 ---
 
 <style>
