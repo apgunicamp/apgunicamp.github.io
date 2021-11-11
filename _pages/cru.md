@@ -1,6 +1,6 @@
 ---
 permalink: /cru/
-layout: single
+layout: splash
 title: "Conselho de Representantes de Unidades (CRU)"
 excerpt: "Um espaço democrático de diálogo com as unidades"
 last_modified_at: 2021-06-06
