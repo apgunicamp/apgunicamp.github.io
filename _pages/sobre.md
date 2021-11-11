@@ -1,8 +1,10 @@
 ---
-title: "Sobre a APG Unicamp"
+title: "Sobre a entidade"
 layout: single
 author_profile: true
 permalink: /sobre/
+header:
+  overlay_color: "#7d0000"
 date: 2021-07-11
 ---
 
