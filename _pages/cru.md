@@ -8,7 +8,8 @@ toc: true
 toc_label: "Composição"
 toc_icon: university
 header:
-  overlay_color: "#7d0000"
+  overlay_image: /assets/images/Assembleia.webp
+  overlay_filter: rgba(125, 0, 0, 0.7)
 ---
 <style>
 table {
@@ -17,8 +18,6 @@ table {
 </style>
 
 O Conselho de Representantes é um órgão consultivo composto por representantes de Associação de Pós-Graduandos (APGs) de cada Unidade de Ensino e Pesquisa da Unicamp, ou em sua ausência por representantes eleitos pelos associados pertencentes à mesma Unidade, além dos Representantes Discentes no Conselho Universitário (CONSU) e Comissão Central de Pós-Graduação (CCPG).
-
-# **Composição para o ano de 2021**
 
 ## Conselho Universitário
 
