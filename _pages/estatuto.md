@@ -1,15 +1,15 @@
 ---
 permalink: /leg/
 layout: single
-title: "Estatuto da APG Unicamp"
+title: "Estatuto"
 last_modified_at: 2021-08-13
 toc: true
-toc_label: "Estatuto"
+toc_label: "Índice"
+excerpt: "Estatuto da Associação Central de Pós-Graduação da Unicamp (APG Unicamp). CNPJ: 43.492.454/0001-30"
 author_profile: true
 header:
-  overlay_color: "#990000"
+  overlay_color: "#7d0000"
 ---
-Estatuto da Associação Central de Pós-Graduação da Unicamp -- APG Unicamp. CNPJ: 43.492.454/0001-30.
 
 ### TÍTULO I – DA DENOMINAÇÃO, DA SEDE E DA DURAÇÃO DA ENTIDADE
 
