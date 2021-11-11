@@ -6,6 +6,8 @@ last_modified_at: 2021-08-13
 toc: true
 toc_label: "Estatuto"
 author_profile: true
+header:
+  overlay_color: "#990000"
 ---
 Estatuto da Associação Central de Pós-Graduação da Unicamp -- APG Unicamp. CNPJ: 43.492.454/0001-30.
 
