@@ -3,6 +3,7 @@ permalink: /memorial/
 layout: single
 toc: true
 toc_label: "Em memória de"
+toc_icon: "cross"
 title: "Memorial das vítimas da Covid-19 na Unicamp"
 excerpt: "Em solidariedade aos entes queridos das vítimas da pandemia, como uma forma de lembrança e de agradecimento" 
 header:
