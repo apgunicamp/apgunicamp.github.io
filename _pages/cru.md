@@ -7,9 +7,10 @@ last_modified_at: 2021-06-06
 toc: true
 toc_label: "Composição"
 toc_icon: university
+classes: wide
 header:
   overlay_image: /assets/images/Assembleia.webp
-  overlay_filter: rgba(125, 0, 0, 0.7)
+  overlay_filter: rgba(125, 0, 0, 0.9)
 ---
 <style>
 table {
