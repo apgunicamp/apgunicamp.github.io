@@ -1,6 +1,6 @@
 ---
 permalink: /memorial/
-layout: single
+layout: splash
 toc: true
 toc_label: "Em memória de"
 toc_icon: "cross"
