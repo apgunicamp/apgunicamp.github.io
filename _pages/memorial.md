@@ -55,45 +55,43 @@ Dona Angela foi minha aluna em uma escola de música. Não a conheci na Unicamp,
 
 ## Edmilson Antonio Ortolan
 
-Faleceu nesta quinta-feira (22), vítima da Covid-19, o servidor Edmilson Antonio Ortolan. Ele desempenhava suas funções no Centro de Ensino de Línguas (CEL) e participava como voluntário na Comissão Interna de Prevenção de Acidentes (CIPA). Há dias Edmilson permanecia internado na UTI e lutava contra a contaminação do coronavírus. 
+O servidor Edmilson Antonio Ortolan desempenhava suas funções no Centro de Ensino de Línguas (CEL) e participava como voluntário na Comissão Interna de Prevenção de Acidentes (CIPA). Há dias Edmilson permanecia internado na UTI e lutava contra a contaminação do coronavírus. 
 
 Desde 1985, o servidor prestava serviços à Universidade, tendo iniciado a sua carreira na Diretoria Geral da Administração (DGA). Nas horas vagas, Edmilson era o [palhaço "Cacareco"](https://www.unicamp.br/unicamp/sites/default/files/jornal/paginas/ju_554_pagina_08.pdf), performance que ocupava um lugar especial na sua vida. 
 
 ## Elsio Rodrigo dos Santos
 
-Em memória de Elsio Rodrigo dos Santos. Contribuiu com a comunidade UNICAMP como parte do núcleo familiar e grande incentivador de estudos de uma graduanda de nossa instituição. Exímio violinista, dedicou sua vida à amar o próximo e ajudar a todos que pudesse. 
+Contribuiu com a comunidade UNICAMP como parte do núcleo familiar e grande incentivador de estudos de uma graduanda de nossa instituição. Exímio violinista, dedicou sua vida à amar o próximo e ajudar a todos que pudesse. 
 
 Que seus familiares, em especial sua esposa Patrícia e sua filha Maria Eduarda, embora esta nem mesmo possa ler ainda, encontrem acalento nesta homenagem. Que possamos todos os dias nos lembrar, saudosos porém tranquilos e confiantes, do exemplo de amor e benevolência que Rodrigo deixou marcado no coração de todos os que o conheceram. 
 
 
 ## Fabio Dadam 
 
-É com profundo pesar que esta Diretoria vem comunicar o falecimento, na última sexta-feira (5), do nosso colega e ex-aluno FÁBIO DADAM por
-Covid-19. Fábio era professor do Departamento de Matemática da UTFPR em Curitiba e foi estudante de Mestrado e Doutorado no IMECC entre 2003 e
-2011, período no qual ele conviveu intensamente com vários dos nossos colegas.
-
-A Diretoria do IMECC vem expressar suas profundas condolências aos familiares e entes queridos. Que possam ser confortados neste momento difícil de sofrimento e dor.
+Fábio era professor do Departamento de Matemática da UTFPR em Curitiba e foi estudante de Mestrado e Doutorado no IMECC entre 2003 e
+2011, período no qual ele conviveu intensamente com vários dos nossos colegas. A Diretoria do IMECC vem expressar suas profundas condolências aos familiares e entes queridos. Que possam ser confortados neste momento difícil de sofrimento e dor.
 
 *Diretoria do IMECC*
 
 
 ## Matheus Henrique de Souza Santos
 
-A APG Unicamp manifesta condolências à esposa e filhos, familiares, amigues, companheiras/os, ao PPGs do IG/Unicamp, do nosso colega, pesquisador de doutorado Matheus Henrique de Souza Santos, que faleceu ontem em consequência de Covid 19, informado por demais colegas/companheiras/pesquisadores do Matheus, da admiração pela trajetória de luta e defesa da população de Araraquara, sua cidade, presente na sua pesquisa de mestrado. Matheus Santos: presente!
-
 Nós, Representantes Discentes dos Programas de Pós-graduação do Instituto de Geociências da Universidade Estadual de Campinas (IG/Unicamp) unimo-nos ao luto da família de nosso colega Matheus Henrique de Souza Santos. Ainda sob o impacto da notícia de sua passagem, sabemos que nada será suficiente para suprir o vazio que ele ocupa agora, em nossa vida e na construção da ciência no Brasil.  Solidarizamo-nos com seus familiares, esperando que possam passar por este momento serenamente, nos colocando à disposição de todos seus familiares e entes queridos. O exemplo de Matheus, nosso colega e amigo querido, iluminará para sempre os caminhos do nosso Instituto, assim como fará com os nossos. Nos unimos na tristeza e no luto que tantas famílias e pessoas experimentam hoje em nosso país.
+
+*Representantes Discentes dos Programas de Pós-graduação do Instituto de Geociências da Universidade Estadual de Campinas (IG/Unicamp)*
+
+**A APG Unicamp manifesta condolências à esposa e filhos, familiares, amigues, companheiras/os, ao PPGs do IG/Unicamp, do nosso colega, pesquisador de doutorado Matheus Henrique de Souza Santos, que faleceu ontem em consequência de Covid 19, informado por demais colegas/companheiras/pesquisadores do Matheus, da admiração pela trajetória de luta e defesa da população de Araraquara, sua cidade, presente na sua pesquisa de mestrado. Matheus Santos: presente!**
 
 ## Roberto Romano
 
-É com imenso pesar que informamos o falecimento do professor Roberto Romano, nesta quinta-feira, dia 22/07, vítima da Covid 19. O professor Roberto Romano era docente aposentado do IFCH, mas foi também nosso colega na FE, mais especificamente no DECISE, de onde se transferiu para aquele instituto.
-
+O professor Roberto Romano era docente aposentado do IFCH, mas foi também nosso colega na FE, mais especificamente no DECISE, de onde se transferiu para aquele instituto.
 Era uma referência em filosofia, sobretudo no campo da ética e da filosofia política. Sua vastíssima produção acadêmica inclui inúmeros livros, artigos científicos e artigos em jornais e revistas de grande circulação. Essa última modalidade expressa, assim como tantas outras atividades que ele desenvolvia, seu profundo compromisso com a formação crítica das massas. Era um educador no sentido pleno da palavra! Recentemente, em 31 de março, participou do IV Seminário “Golpe, ditadura e educação”, realizado na FE, pelos grupos GPPES e GEPEJA, em formato remoto, e coordenado pelas Professoras Débora Mazza e Nima Spigolon, proferindo a conferência intitulada: “Brasil, Estado e sociedade reacionários e a luta pela soberania popular”. Sua morte representa uma enorme perda para todos nós, para a Unicamp, para a intelectualidade brasileira e para a educação de nosso país. Aos familiares do Prof. Roberto Romano e aos colegas do IFCH, nossos sinceros sentimentos.
 
 *Renê Trentin - Diretor da FE/Unicamp.*
 
 ## Ronei de Jesus Poppi
 
-É com muita tristeza e profundo pesar que a Sociedade Brasileira de Química comunica o falecimento do Dr. Ronei de Jesus Poppi, Professor Titular do Departamento de Química Analítica do Instituto de Química da Unicamp, ocorrido neste sábado, dia 25 de abril. O Prof. Ronei realizou sua Graduação (1986), Mestrado (1989, orientado pelos Profs. Fernando Faigle e Roy Bruns) e Doutorado (1993, orientado pelo Prof. Celio Pasquini) no IQ/Unicamp, onde foi contratado em 1994. Realizou Pós-Doutoramento na Universidade Livre de Bruxelas (1996). A Quimiometria foi sua parceira (e paixão) desde o mestrado, tendo formado inúmeros mestres e doutores, muitos deles hoje docentes em Universidades de todo o Brasil. Foi um professor dedicado e respeitado. Dedicava-se também intensamente ao Instituto e à Universidade, estando sempre pronto a colaborar em tarefas administrativas. Era uma pessoa generosa, compreensiva, sensata, solícita e acolhedora. Sua timidez e humildade muitas vezes não lhe permitiam mostrar suas qualidades e o ser humano que era. A ciência do Brasil perde um grande e competente pesquisador.
+O Prof. Ronei realizou sua Graduação (1986), Mestrado (1989, orientado pelos Profs. Fernando Faigle e Roy Bruns) e Doutorado (1993, orientado pelo Prof. Celio Pasquini) no IQ/Unicamp, onde foi contratado em 1994. Realizou Pós-Doutoramento na Universidade Livre de Bruxelas (1996). A Quimiometria foi sua parceira (e paixão) desde o mestrado, tendo formado inúmeros mestres e doutores, muitos deles hoje docentes em Universidades de todo o Brasil. Foi um professor dedicado e respeitado. Dedicava-se também intensamente ao Instituto e à Universidade, estando sempre pronto a colaborar em tarefas administrativas. Era uma pessoa generosa, compreensiva, sensata, solícita e acolhedora. Sua timidez e humildade muitas vezes não lhe permitiam mostrar suas qualidades e o ser humano que era. A ciência do Brasil perde um grande e competente pesquisador.
 
 Perdemos uma grande pessoa, um grande amigo. Fica a lembrança de um homem de coração imenso e a certeza de que sua vida continua em todos aqueles que tiveram o privilégio de sua convivência. Sentiremos muito sua falta. Nossos profundos sentimentos à família, amigos e orientandos. 
 
@@ -103,7 +101,7 @@ Perdemos uma grande pessoa, um grande amigo. Fica a lembrança de um homem de co
 
 É com pesar que comunicamos o falecimento de Samantha Barbosa de Gobbi, esposa do funcionário Mário Aparecido de Gobbi (coordenador administrativo do Instituto). À família enlutada, a Direção do IFCH irmana-se em seu sentimento de perda e dor, e oferece nossas condolências. 
 
-*Alvaro Bianchi, Diretor do IFCH/Unicamp.*
+*Alvaro Bianchi - Diretor do IFCH/Unicamp.*
 
 ## Outras perdas durante a pandemia
 
@@ -120,7 +118,7 @@ A Direção e os programas de pós graduação do IE/Unicamp manifestam os senti
 
 É com pesar que comunicamos o falecimento da Srª. Cândida Maria Teixeira, ex- funcionária do IFCH. A Srª. Cândida trabalhou nos primórdios de nosso Instituto, e se aposentou no IE. À família enlutada, a Direção do IFCH irmana-se em seu sentimento de perda e dor, e oferece nossas condolências. 
 
-*Alvaro Bianchi, Diretor do IFCH/Unicamp*
+*Alvaro Bianchi - Diretor do IFCH/Unicamp*
 
 ### José Luis Sanfelice
 
@@ -138,12 +136,14 @@ Em uma utopia mais imanente, planejava, no ano que vem, incluir nas festividades
 
 Despeço-me, então, contra minha vontade e já cheio de saudade, de meu mestre e amigo Zé. Espero seguir no caminho que um dia ele me ajudou a enxergar, na esperança de que aquilo que aprendi com ele, somado à força que vem dos afetos que a lembrança docemente nos concede, me ajude a seguir adiante. Em nome da Direção e de toda a comunidade da FE, apresento aos familiares e amigos de nosso querido Sanfelice, nossas sinceras condolências.
 
-*Renê Trentin, Diretor da FE*
+*Renê Trentin - Diretor da FE*
 
 
 ### José Rodrigues da Costa
 
-É com pesar que comunicamos o falecimento de José Rodrigues da Costa, pai do funcionário Émerson Luis Marques da Costa/AEL. A Direção do Instituto de Filosofia e Ciências Humanas lamenta o falecimento de José Rodrigues da Costa, e se solidariza aos familiares e amigos. ASSINAM: Profa. Andréia Galvão e Prof. Michel Nicolau Netto.
+É com pesar que comunicamos o falecimento de José Rodrigues da Costa, pai do funcionário Émerson Luis Marques da Costa/AEL. A Direção do Instituto de Filosofia e Ciências Humanas lamenta o falecimento de José Rodrigues da Costa, e se solidariza aos familiares e amigos. 
+
+*Andréia Galvão e Michel Nicolau Netto - Diretoria do IFCH*
 
 ### Josefina Steiner
 
@@ -158,7 +158,7 @@ Aproveitamos para lembrar que, junto ao nosso colega Matheus Henrique de Souza S
 
 ### Luiz Roberto Monzani
 
-É com imensa tristeza que comunicamos o falecimento do Prof. Luiz Roberto Monzani, aos 74 anos de idade. Monzani era graduado em Filosofia pela Universidade de São Paulo (USP), onde também fez o seu doutorado; era professor livre-docente pela Universidade Estadual de Campinas (UNICAMP) e professor-colaborador do Programa de Pós-Graduação em Filosofia da Universidade Federal de S. Carlos (PPGF/UFSCar). É autor de importantes trabalhos nas áreas de Epistemologia da Psicanálise e História da Filosofia Moderna, donde se destacam as seguintes publicações: ‘Freud: o movimento de um pensamento’ (Editora da Unicamp, 1989; 2014) e ‘Desejo e prazer na Idade Moderna’ (Editora da UNICAMP, 1995; Editora Champagnat, 2011); Membro Emérito do GT Filosofia e Psicanálise da ANPOF; orientou, tanto no mestrado quanto no doutorado, um grande número  de discentes que se tornaram, no decorrer da vida, seus/suas amigos(as) e admiradores(as). A comunidade filosófica expressa gratidão, respeito, carinho e admiração pelo seu brilhantismo intelectual e pela pessoa generosa que fora e que ficará guardada em nossa memória. Nosso imenso pesar e solidariedade à sua família e, em especial, à sua esposa, Josette Monzani. 
+O Prof. Luiz Roberto Monzani era graduado em Filosofia pela Universidade de São Paulo (USP), onde também fez o seu doutorado; era professor livre-docente pela Universidade Estadual de Campinas (UNICAMP) e professor-colaborador do Programa de Pós-Graduação em Filosofia da Universidade Federal de S. Carlos (PPGF/UFSCar). É autor de importantes trabalhos nas áreas de Epistemologia da Psicanálise e História da Filosofia Moderna, donde se destacam as seguintes publicações: ‘Freud: o movimento de um pensamento’ (Editora da Unicamp, 1989; 2014) e ‘Desejo e prazer na Idade Moderna’ (Editora da UNICAMP, 1995; Editora Champagnat, 2011); Membro Emérito do GT Filosofia e Psicanálise da ANPOF; orientou, tanto no mestrado quanto no doutorado, um grande número  de discentes que se tornaram, no decorrer da vida, seus/suas amigos(as) e admiradores(as). A comunidade filosófica expressa gratidão, respeito, carinho e admiração pelo seu brilhantismo intelectual e pela pessoa generosa que fora e que ficará guardada em nossa memória. Nosso imenso pesar e solidariedade à sua família e, em especial, à sua esposa, Josette Monzani. 
 
 *Associação Nacional de Pós-Graduação em Filosofia (ANPOF)*
 
