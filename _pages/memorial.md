@@ -1,6 +1,7 @@
 ---
 permalink: /memorial/
 layout: single
+author_profile: true
 toc: true
 toc_label: "Em memória de"
 toc_icon: "cross"
