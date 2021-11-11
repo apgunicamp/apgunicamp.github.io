@@ -9,8 +9,7 @@ toc_label: "Composição"
 toc_icon: university
 classes: wide
 header:
-  overlay_image: /assets/images/Assembleia.webp
-  overlay_filter: rgba(125, 0, 0, 0.9)
+  overlay_color: "#7d0000"
 ---
 <style>
 table {
