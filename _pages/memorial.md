@@ -47,7 +47,7 @@ Em solidariedade aos entes queridos das vítimas da Covid-19 no Brasil, a Associ
 
 Diante disso, a APG Unicamp abre este espaço para que qualquer pessoa envie sua homenagem às vítimas da Covid-19 de nossa comunidade, ex-membros e seus familiares, enviando mensagens, imagens e notas de colegas por meio de nossos canais de comunicação nas redes sociais e via e-mail (apgunicamp@gmail.com).
 
-# Angela von Nowakonski
+## Angela von Nowakonski
 
 Dona Angela foi minha aluna em uma escola de música. Não a conheci na Unicamp, ela contava sobre sua profissão e que deu muitas aulas sobre microbiologia, mas era sempre muito modesta. Então foi com uma feliz surpresa que vi todas as homenagens que recebeu quando faleceu de Covid em julho de 2020, incluindo agora o prêmio criado com seu nome pela Sociedade Brasileira de Microbiologia. Descobri lendo reportagens que ela foi chefe do setor de Microbiologia Clínica da Divisão de Patologia Clínica do HC da Unicamp de 1987 até a sua aposentadoria, em julho de 2015. Além da música, compartilhávamos um grande amor por gatos e as fotos que ela mandava sempre alegravam meu dia. Angela deixou muitas saudades. 
 
