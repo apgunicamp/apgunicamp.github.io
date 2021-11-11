@@ -3,6 +3,7 @@ title: "Sobre a entidade"
 layout: single
 author_profile: true
 permalink: /sobre/
+excerpt: "História e memória da APG Unicamp"
 header:
   overlay_color: "#7d0000"
 date: 2021-07-11
