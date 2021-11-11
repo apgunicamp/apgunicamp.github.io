@@ -2,9 +2,13 @@
 permalink: /cru/
 layout: single
 title: "Conselho de Representantes de Unidades (CRU)"
+excerpt: "Um espaço democrático de diálogo com a representação eleita"
 last_modified_at: 2021-06-06
 toc: true
 toc_label: "Composição"
+toc_icon: university
+header:
+  overlay_color: "#7d0000"
 ---
 <style>
 table {
