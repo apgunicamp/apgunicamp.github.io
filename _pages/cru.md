@@ -11,11 +11,6 @@ classes: wide
 header:
   overlay_color: "#7d0000"
 ---
-<style>
-table {
-    width:100%;
-}
-</style>
 
 O Conselho de Representantes é um órgão consultivo composto por representantes de Associação de Pós-Graduandos (APGs) de cada Unidade de Ensino e Pesquisa da Unicamp, ou em sua ausência por representantes eleitos pelos associados pertencentes à mesma Unidade, além dos Representantes Discentes no Conselho Universitário (CONSU) e Comissão Central de Pós-Graduação (CCPG).
 
@@ -27,7 +22,7 @@ O Conselho de Representantes é um órgão consultivo composto por representante
 <img width="441" height="1">
 <p> 
 <small>
-EXAMPLE TEXT
+Conselho Universitário
 </small>
 </p>
 </th>
@@ -41,78 +36,13 @@ EXAMPLE TEXT
 </th>
 </tr>
 <tr>
-<td>
-<!-- REMOVE THE BACKSLASHES -->
-\```jsonc
-{
-  "foo": [
-    {
-      "bar": "hello world"
-    }
-  ]
-}
-\```
-  
+<td align="center">
+Column 1
 </td>
-<td>
-<!-- REMOVE THE BACKSLASHES -->
-\```jsonc
-{
-  "foo": [
-    {
-      "bar": "hello world"
-    }
-  ]
-}
-\```
-  
+<td align="center">
+Column 2
 </td>
-</tr><table>
-<tr>
-<th align="center">
-<img width="441" height="1">
-<p> 
-<small>
-EXAMPLE TEXT
-</small>
-</p>
-</th>
-<th align="center">
-<img width="441" height="1">
-<p> 
-<small>
-EXAMPLE TEXT
-</small>
-</p>
-</th>
 </tr>
-<tr>
-<td>
-<!-- REMOVE THE BACKSLASHES -->
-\```jsonc
-{
-  "foo": [
-    {
-      "bar": "hello world"
-    }
-  ]
-}
-\```
-  
-</td>
-<td>
-<!-- REMOVE THE BACKSLASHES -->
-\```jsonc
-{
-  "foo": [
-    {
-      "bar": "hello world"
-    }
-  ]
-}
-\```
-  
-</td>
 </tr>
 <tr>
 <td align="center">
