@@ -22,7 +22,7 @@ O Conselho de Representantes é um órgão consultivo composto por representante
 <img width="441" height="1">
 <p> 
 <small>
-Conselho Universitário
+Representante Discente
 </small>
 </p>
 </th>
@@ -30,7 +30,7 @@ Conselho Universitário
 <img width="441" height="1">
 <p> 
 <small>
-EXAMPLE TEXT
+Unidade
 </small>
 </p>
 </th>
@@ -40,7 +40,7 @@ EXAMPLE TEXT
 Column 1
 </td>
 <td align="center">
-Column 2
+CONSU
 </td>
 </tr>
 </tr>
@@ -49,7 +49,7 @@ Column 2
 Column 1
 </td>
 <td align="center">
-Column 2
+CONSU
 </td>
 </tr>
 <tr>
@@ -57,7 +57,7 @@ Column 2
 Column 1
 </td>
 <td align="center">
-Column 2
+CONSU
 </td>
 </tr>
 
