@@ -80,6 +80,12 @@ Nós, Representantes Discentes dos Programas de Pós-graduação do Instituto de
 
 *Representantes Discentes dos Programas de Pós-graduação do Instituto de Geociências da Universidade Estadual de Campinas (IG/Unicamp)*
 
+## Maria De Lourdes Lourenço
+
+Em memória de Maria De Lourdes Lourenço, uma mulher calma que trabalhou comigo desde a enfermaria de emergência quando usavamos o prédio da Santa Casa. Tinha uma filha pequena, hoje Débora Cristina Jefrey, que se tornou exemplo e orgulho, pela dedicação com seu trabalho na educação. Sendo professora e formadora de tantos outros que como ela se empenham por levar conhecimento, Lurdinha se foi, mas deixou muita saudade. Para sempre em meu coração.
+
+*Zoraide Radaelli Paula - HC Unicamp*
+
 ## Roberto Romano
 
 O professor Roberto Romano era docente aposentado do IFCH, mas foi também nosso colega na FE, mais especificamente no DECISE, de onde se transferiu para aquele instituto.
@@ -94,6 +100,10 @@ O Prof. Ronei realizou sua Graduação (1986), Mestrado (1989, orientado pelos P
 Perdemos uma grande pessoa, um grande amigo. Fica a lembrança de um homem de coração imenso e a certeza de que sua vida continua em todos aqueles que tiveram o privilégio de sua convivência. Sentiremos muito sua falta. Nossos profundos sentimentos à família, amigos e orientandos. 
 
 *Fábio Augusto (Depto Química Analitica - Unicamp) e Ivo M. Raimundo Jr. (Secretário SBQ - Regional Campinas)*
+
+## Rubén Villafuerte Chocano
+
+Em memória de Rubén Villafuerte Chocano, pai de Antonio Gabriel Pacheco Villafuerte, estudante do programa de Pós-Graduação em Física (IFGW). Ele infelizmente nos deixou no dia 22/04/21, por complicações decorrentes do coronavírus.
 
 ## Samantha Barbosa de Gobbi
 
