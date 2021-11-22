@@ -80,9 +80,9 @@ Nós, Representantes Discentes dos Programas de Pós-graduação do Instituto de
 
 *Representantes Discentes dos Programas de Pós-graduação do Instituto de Geociências da Universidade Estadual de Campinas (IG/Unicamp)*
 
-## Maria De Lourdes Lourenço
+## Maria de Lourdes Lourenço
 
-Em memória de Maria De Lourdes Lourenço, uma mulher calma que trabalhou comigo desde a enfermaria de emergência quando usavamos o prédio da Santa Casa. Tinha uma filha pequena, hoje Débora Cristina Jefrey, que se tornou exemplo e orgulho, pela dedicação com seu trabalho na educação. Sendo professora e formadora de tantos outros que como ela se empenham por levar conhecimento, Lurdinha se foi, mas deixou muita saudade. Para sempre em meu coração.
+Em memória de Maria de Lourdes Lourenço, uma mulher calma que trabalhou comigo desde a enfermaria de emergência quando usavamos o prédio da Santa Casa. Tinha uma filha pequena, hoje Débora Cristina Jeffrey, que se tornou exemplo e orgulho, pela dedicação com seu trabalho na educação. Sendo professora e formadora de tantos outros que como ela se empenham por levar conhecimento, Lurdinha se foi, mas deixou muita saudade. Para sempre em meu coração.
 
 *Zoraide Radaelli Paula - HC Unicamp*
 
