@@ -37,46 +37,30 @@ A Associação Central de Pós-Graduação da Unicamp é a entidade máxima de r
 
 Um de seus objetivos é congregar e defender a vontade de todos os pós-graduandos e todas as pós-graduandas da Unicamp, respeitando as liberdades de pensamento e de expressão de seus associados, sendo livre de quaisquer discriminações, tais como de gênero, de raça, de etnia, de origem, de cor ou de orientação sexual.
 
-A sua gestão atual, *Lélia Gonzalez*, com mandato de 11/09/2020 a 10/09/2021 e tem a seguinte composição:
+A sua gestão atual, *Paulo Freire: ciẽncia plural, popular e soberana*, com mandato de 11/09/2021 a 10/09/2022, tem a seguinte composição, não havendo hierarquia entre as coordenadorias:
 
 <ol>
   <li> <b>COORDENADORIA GERAL</b>
      <ul>  
-      <li> Patricia Kawaguchi Cesar (PPG em Música/IA - RA 85984) </li>
-      <li> Bruna Carolina Garcia (PPG em Demografia/IFCH - RA 229883) </li>
-      <li> Mariana Gomes Vicente (PPG em Educação/FE - RA 264770) </li>
-      <li> Larissa da Silva Fontana (PPG em Linguística/IEL - RA 229420) </li>
-      <li> Gabriel Oliveira (PPG em Economia/IE - RA 264478) </li>     
-      <li> Julia Bahia Adams (PPG em Linguística/IEL - RA 176760) </li>
-      <li> Maria Izabella Souza de Lima (PPG em Teoria Literária/IEL - RA 264286) </li>
+     <li> Julia Bahia Adams (PPG em Linguística/IEL - RA: 176760) </li>
+     <li> Matheus Alves Albino (PPG em Demografia/IFCH - RA: 211623) </li>
+     <li> Thiago Zandoná Chaves (PPG em Educação/FE - RA: 235738) </li>
+     <li> Catharina Maia Caetano (PPG em Educação/FE - RA: 198049) </li>
+     <li> Aline Damasceno (PPG em Desenvolvimento Econômico/IE - RA: 165350) </li>
+     <li> Ligia Toneto (PPG em Economia/IE - RA: 235561) </li>
+     <li> Karoline Reis Cavalcante (PPG em Ciência Política/IFCH - RA: 234456) </li>
+     <li> Renan Dias Oliveira (PPG em Ciências Sociais/IFCH - RA: 79428) </li>
+     <li> Helena Ansani Nogueira (PPG em Divulgação Científica e Cultural/IEL - RA: 261755) </li>
+     <li> Abdy Augusto Silva (PPG em Educação/FE - RA: 235668) </li>
+     <li> Milena Tibúrcio Cicone (PPG em Ciência Política/IFCH - RA: 184665) </li>
+     <li> Gustavo Costa do Nascimento (PPG em Tecnologia de Alimentos/FEA - RA: 155650) </li>
      </ul> 
   <li> <b>SECRETARIA GERAL</b>
     <ul>
-      <li> Fernando Savella (PPG em Sociologia/IFCH - RA 167551) </li>
-      <li> Matheus Alves Albino (PPG em Demografia/IFCH - RA 211623) </li>
-      <li> Julia Bahia Adams (PPG em Linguística/IEL - RA 176760) </li>
-      <li> Geyciane Pinheiro (PPG em Engenharia Elétrica/FEEC - RA 229974) </li>
+      <li> Bruna Carolina Garcia (PPG em Demografia/IFCH - 229883) </li>
     </ul>   
   <li> <b>TESOURARIA</b>
     <ul>
-      <li> Gabriel Oliveira (PPG em Economia/IE - RA 264478) </li>
-      <li> Luan Ramos (PPG em Tecnologia de Alimentos/FEA - RA 229337) </li>
-      <li> Maria Izabella Souza de Lima (PPG em Teoria Literária/IEL - RA 264286) </li>
-    </ul>  
-  <li> <b>COMUNICAÇÃO</b>
-    <ul>
-      <li> Mariana Gomes Vicente (PPG em Educação/FE - RA 264770) </li>
-      <li> Rhavier Henrique Mazieri Pereira (PPG em Sociologia/IFCH - RA 264274) </li>
-      <li> Angelo Ardonde (PPG em Teoria Literária/IEL - RA 164239) </li>
-      <li> Vanessa Bassinello (PPG em Biologia Buco-Dental/FOP - RA 264458) </li>
-      <li> Robson Sampaio (PPG em Educação - RA 147837) </li>
-    </ul>  
-  <li> <b>MOBILIZAÇÃO</b>
-    <ul>
-      <li> Larissa da Silva Fontana (PPG em Linguística/IEL - RA 229420) </li>
-      <li> Vanessa Bassinello (PPG em Biologia Buco-Dental/FOP - RA 264458) </li>
-      <li> Gabriel Oliveira (PPG em Economia/IE - RA 264478) </li>
-      <li> Jorge Rufino (PPG em Engenharia Elétrica - RA 144396) </li>
-      <li> Robson Sampaio (PPG em Educação - RA 147837) </li>
+      <li> Iaci da Costa Jara (PPG em Ciências Sociais /IFCH - RA: 235986) </li>
     </ul>  
 <ol>
