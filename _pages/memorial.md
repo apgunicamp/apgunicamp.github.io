@@ -120,13 +120,15 @@ Perdemos uma grande pessoa, um grande amigo. Fica a lembrança de um homem de co
 
 *Meurmão*, adaptação da música *Meu Caro Amigo - Chico Buarque*, em homenagem ao irmão de Mariângela Amendola e suas irmãs, morto pelo COVID-19, em 18/12/2020.
 
-![Meurmão](https://apgunicamp.github.io/assets/images/ricardo-nigro-amendola.jpeg){:target="_blank"}
+[Meurmão](https://apgunicamp.github.io/assets/images/ricardo-nigro-amendola.jpeg){:target="_blank"}
 
-Mariângela Amendola - professora aposentada da FEAGRI/Unicamp
+*Mariângela Amendola - professora aposentada da FEAGRI/Unicamp*
 
 ## Rubén Villafuerte Chocano
 
 Em memória de Rubén Villafuerte Chocano, pai de Antonio Gabriel Pacheco Villafuerte, estudante do programa de Pós-Graduação em Física (IFGW). Ele infelizmente nos deixou no dia 22/04/21, por complicações decorrentes do coronavírus.
+
+*Antonio Gabriel Pacheco Villafuerte - IFGW*
 
 ## Samantha Barbosa de Gobbi
 
