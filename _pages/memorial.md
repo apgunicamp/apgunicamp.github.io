@@ -118,9 +118,7 @@ Perdemos uma grande pessoa, um grande amigo. Fica a lembrança de um homem de co
 
 ## Ricardo Nigro Amendola
 
-*Meurmão*, adaptação da música *Meu Caro Amigo - Chico Buarque*, em homenagem ao irmão de Mariângela Amendola e suas irmãs, morto pelo COVID-19, em 18/12/2020.
-
-[Meurmão](https://apgunicamp.github.io/assets/images/ricardo-nigro-amendola.jpeg){:target="_blank"}
+[*Meurmão*, adaptação da música *Meu Caro Amigo - Chico Buarque*](https://apgunicamp.github.io/assets/images/ricardo-nigro-amendola.jpeg){:target="_blank"}, em homenagem ao irmão de Mariângela Amendola e suas irmãs, morto pelo COVID-19, em 18/12/2020.
 
 *Mariângela Amendola - professora aposentada da FEAGRI/Unicamp*
 
@@ -161,16 +159,22 @@ A Direção e os programas de pós graduação do IE/Unicamp manifestam os senti
   
 Conhecido pelo rigor acadêmico, pelo compromisso político com as lutas em defesa da educação pública e pela generosa cordialidade no tratamento com as pessoas, Zé, como carinhosamente o chamávamos, era querido e respeitado por todos. Suas aulas magistrais e seu zelo nas orientações fizeram dele um educador inesquecível para uma infinidade de estudantes, de graduação e de pós-graduação, que tiveram a sorte e o privilégio de o terem como professor e/ou orientador. Sinto-me feliz e honrado por estar entre eles.
 
+  
 Aproximei-me dele logo que ingressei no mestrado, no Programa de Pós-Graduação em Educação da FE. Ainda sem orientador, assisti à sessão de qualificação de uma colega que tinha o Professor Sanfelice em sua banca. Fiquei tão impressionado com o cuidado com que lera o trabalho e com a profundidade de seus questionamentos e considerações, que saí dali resoluto: esse professor seria meu orientador! Secretamente, pensava também que seria preferível tê-lo como orientador do que como arguidor. Alguns dias depois, imbuído de coragem e algum atrevimento, procurei-o em sua sala para apresentar-lhe meu projeto de pesquisa e consultá-lo sobre a possibilidade de orientação. Para minha alegria e sem ainda me conhecer, aceitou. Desde então, tivemos uma longa parceria, que seguiu pelo doutorado e por diversas outras atividades acadêmicas. Tornamo-nos amigos e ele, para mim, um conselheiro e uma referência ética, política e profissional.
 
+  
 Ocupo atualmente a cadeira que um dia foi dele: a de Diretor da FE. Não tivemos tempo de compartilhar esse momento de minha trajetória profissional, da qual ele participou tão intensa e diretamente. A pandemia nos roubou essa possibilidade, agora definitivamente afastada. Sócrates dizia não temer a morte porque ela só poderia ser uma de duas coisas: ou um sono profundo, que nos livra de toda sensação, ou o convívio com os sábios, com os quais ele poderia praticar, em altíssimo nível, seu método dialético. Em qualquer dos casos, para ele, a morte seria fonte de satisfação e felicidade.
 
+  
 Acho que nunca perguntei ao Zé o que ele pensava sobre a morte. Como pensador materialista, histórico e dialético, é provável que a visse mais como a primeira alternativa de Sócrates. Pessoalmente, em minha utopia transcendente, prefiro imaginar que meu amigo esteja feliz e sereno, como sempre foi, em algum lugar tranquilo, sentado à mesa com antigos colegas como Antonio Carlos Bergo, Augusto Novaski, José Luis Sigrist, numa conversa descontraída sobre filosofia, política, educação, universidade e, claro, futebol. Um corinthiano legítimo não deixaria de fora essa paixão. Faltava um marxista para chacoalhar esse grupo de fenomenólogos incuráveis.
 
+  
 Em uma utopia mais imanente, planejava, no ano que vem, incluir nas festividades da celebração dos 50 anos da Faculdade de Educação, uma mesa com todos os ex-diretores e ex-diretoras da nossa Unidade. Essa mesa ainda poderá acontecer, mas terá, agora, uma cadeira vazia, uma indelével lacuna, uma ausência insubstituível. Sanfelice nos fará muita falta, sobretudo nos tempos atuais em que, de novo, nos deparamos com a necessidade e o dever de resistir ao arbítrio, à violência, à crueldade, enfim, à barbárie da qual ele era a antítese.
 
+  
 Despeço-me, então, contra minha vontade e já cheio de saudade, de meu mestre e amigo Zé. Espero seguir no caminho que um dia ele me ajudou a enxergar, na esperança de que aquilo que aprendi com ele, somado à força que vem dos afetos que a lembrança docemente nos concede, me ajude a seguir adiante. Em nome da Direção e de toda a comunidade da FE, apresento aos familiares e amigos de nosso querido Sanfelice, nossas sinceras condolências.
 
+  
 *Renê Trentin - Diretor da FE*
 </details>
 
