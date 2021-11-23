@@ -154,7 +154,7 @@ A Direção e os programas de pós graduação do IE/Unicamp manifestam os senti
 ### José Luis Sanfelice
 
 <details>
-  <summary> Sanfelice era Professor Titular aposentado do Departamento de Filosofia e História da Educação (DEFHE), da Faculdade de Educação (FE) da UNICAMP, da qual também foi Diretor, no período de 1990 a 1996. Ingressou no quadro docente da Universidade em 1981 e se aposentou em 2012. Desde então, atuava como Professor Colaborador no Programa de Pós-Graduação em Educação (PPGE) da FE. </summary>
+  <summary> <p> Sanfelice era Professor Titular aposentado do Departamento de Filosofia e História da Educação (DEFHE), da Faculdade de Educação (FE) da UNICAMP, da qual também foi Diretor, no período de 1990 a 1996. Ingressou no quadro docente da Universidade em 1981 e se aposentou em 2012. Desde então, atuava como Professor Colaborador no Programa de Pós-Graduação em Educação (PPGE) da FE. </p></summary>
     
 <p>Conhecido pelo rigor acadêmico, pelo compromisso político com as lutas em defesa da educação pública e pela generosa cordialidade no tratamento com as pessoas, Zé, como carinhosamente o chamávamos, era querido e respeitado por todos. Suas aulas magistrais e seu zelo nas orientações fizeram dele um educador inesquecível para uma infinidade de estudantes, de graduação e de pós-graduação, que tiveram a sorte e o privilégio de o terem como professor e/ou orientador. Sinto-me feliz e honrado por estar entre eles.</p>
 
@@ -170,7 +170,9 @@ A Direção e os programas de pós graduação do IE/Unicamp manifestam os senti
 
 </details>
 
-<p>*Renê Trentin - Diretor da FE*</p>
+<br>
+
+*Renê Trentin - Diretor da FE*
 
 ### José Rodrigues da Costa
 
