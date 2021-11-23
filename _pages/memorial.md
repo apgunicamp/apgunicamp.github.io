@@ -73,6 +73,13 @@ Fábio era professor do Departamento de Matemática da UTFPR em Curitiba e foi e
 
 *Diretoria do IMECC*
 
+## Giulia Dohoczi
+
+Em memória de Giulia Dohoczi, excelente professora de inglês com quem tive a grandiosa oportunidade de aprender e passar muitos momentos alegres da minha vida.
+Com toda certeza seus conhecimentos compartilhados comigo influenciaram diretamente na minha aprovação no vestibular da Unicamp, bem como todo o crescimento pessoal que pude ter em contato com esse ser humano incrível que foi ela. A cidade de Conchas/SP e arredores sente até hoje sua perda. Para sempre conosco.
+ 
+*Marília Matias Bertin - Graduanda em Nutrição - Unicamp*
+
 
 ## Matheus Henrique de Souza Santos
 
@@ -85,6 +92,14 @@ Nós, Representantes Discentes dos Programas de Pós-graduação do Instituto de
 Em memória de Maria de Lourdes Lourenço, uma mulher calma que trabalhou comigo desde a enfermaria de emergência quando usavamos o prédio da Santa Casa. Tinha uma filha pequena, hoje Débora Cristina Jeffrey, que se tornou exemplo e orgulho, pela dedicação com seu trabalho na educação. Sendo professora e formadora de tantos outros que como ela se empenham por levar conhecimento, Lurdinha se foi, mas deixou muita saudade. Para sempre em meu coração.
 
 *Zoraide Radaelli Paula - HC Unicamp*
+
+## Mariley Simões Flória Gouveia
+
+Mariley, graduada pela Universidade de São Paulo (1982), foi professora do IG-Unicamp entre 1986 e 1996, quando se aposentou. Desde então, atuou como Professora Colaboradora Voluntária, até que, em 2008, se afastou definitivamente de suas atividades profissionais. Mariley foi cofundadora do grupo Formar-Ciências e integrou o LOED. Desde a década de 1960, a Profa. Mariley teve intensa atuação em programas de formação de professores e no Ensino de Ciências, de Biologia e em Educação Ambiental e sua atividade tinha ênfase no Planejamento Educacional.
+
+Nossa estimada sócia-emérita foi mais uma vítima da COVID, mais uma vítima da política genocida de Bolsonaro. É considerada por muitos daqueles que tiveram o privilégio de conhecê-la mais de perto, como "pessoa dinâmica, competente, combativa, dedicada à educação pública e com uma invejável capacidade para o acolhimento". Por tudo isso, chora a Faculdade de Educação da UNICAMP, os pesquisadores da área de Ensino de Ciências e Biologia no Brasil e seus inúmeros estudantes, que constituíram a razão de ser de toda a existência desta docente e pesquisadora do campo educacional. Solidarizamo-nos com Alcio (esposo), Luiz Antônio, Marco Gouveia (filhos) e com os netos de nossa Leley, a quem enviamos nossos mais profundos sentimentos e nossa solidariedade. Mariley vive!
+
+*Associação Brasileira de Ensino de Biologia (SBENBIO)*
 
 ## Roberto Romano
 
@@ -100,6 +115,14 @@ O Prof. Ronei realizou sua Graduação (1986), Mestrado (1989, orientado pelos P
 Perdemos uma grande pessoa, um grande amigo. Fica a lembrança de um homem de coração imenso e a certeza de que sua vida continua em todos aqueles que tiveram o privilégio de sua convivência. Sentiremos muito sua falta. Nossos profundos sentimentos à família, amigos e orientandos. 
 
 *Fábio Augusto (Depto Química Analitica - Unicamp) e Ivo M. Raimundo Jr. (Secretário SBQ - Regional Campinas)*
+
+## Ricardo Nigro Amendola
+
+*Meurmão*, adaptação da música *Meu Caro Amigo - Chico Buarque*, em homenagem ao irmão de Mariângela Amendola e suas irmãs, morto pelo COVID-19, em 18/12/2020.
+
+![Meurmão](https://apgunicamp.github.io/assets/images/ricardo-nigro-amendola.jpeg){:target="_blank"}
+
+Mariângela Amendola - professora aposentada da FEAGRI/Unicamp
 
 ## Rubén Villafuerte Chocano
 
