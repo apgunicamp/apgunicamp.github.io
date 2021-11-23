@@ -160,10 +160,12 @@ A Direção e os programas de pós graduação do IE/Unicamp manifestam os senti
 
 ### José Luis Sanfelice
 
-<details>
-  <summary> <p> Sanfelice era Professor Titular aposentado do Departamento de Filosofia e História da Educação (DEFHE), da Faculdade de Educação (FE) da UNICAMP, da qual também foi Diretor, no período de 1990 a 1996. Ingressou no quadro docente da Universidade em 1981 e se aposentou em 2012. Desde então, atuava como Professor Colaborador no Programa de Pós-Graduação em Educação (PPGE) da FE. </p>
+<p> Sanfelice era Professor Titular aposentado do Departamento de Filosofia e História da Educação (DEFHE), da Faculdade de Educação (FE) da UNICAMP, da qual também foi Diretor, no período de 1990 a 1996. Ingressou no quadro docente da Universidade em 1981 e se aposentou em 2012. Desde então, atuava como Professor Colaborador no Programa de Pós-Graduação em Educação (PPGE) da FE. </p>
     
-<p>Conhecido pelo rigor acadêmico, pelo compromisso político com as lutas em defesa da educação pública e pela generosa cordialidade no tratamento com as pessoas, Zé, como carinhosamente o chamávamos, era querido e respeitado por todos. Suas aulas magistrais e seu zelo nas orientações fizeram dele um educador inesquecível para uma infinidade de estudantes, de graduação e de pós-graduação, que tiveram a sorte e o privilégio de o terem como professor e/ou orientador. Sinto-me feliz e honrado por estar entre eles. </p></summary>
+<p>Conhecido pelo rigor acadêmico, pelo compromisso político com as lutas em defesa da educação pública e pela generosa cordialidade no tratamento com as pessoas, Zé, como carinhosamente o chamávamos, era querido e respeitado por todos. Suas aulas magistrais e seu zelo nas orientações fizeram dele um educador inesquecível para uma infinidade de estudantes, de graduação e de pós-graduação, que tiveram a sorte e o privilégio de o terem como professor e/ou orientador. Sinto-me feliz e honrado por estar entre eles. </p>
+
+<details>
+  <summary> </summary>
 
 <p>Aproximei-me dele logo que ingressei no mestrado, no Programa de Pós-Graduação em Educação da FE. Ainda sem orientador, assisti à sessão de qualificação de uma colega que tinha o Professor Sanfelice em sua banca. Fiquei tão impressionado com o cuidado com que lera o trabalho e com a profundidade de seus questionamentos e considerações, que saí dali resoluto: esse professor seria meu orientador! Secretamente, pensava também que seria preferível tê-lo como orientador do que como arguidor. Alguns dias depois, imbuído de coragem e algum atrevimento, procurei-o em sua sala para apresentar-lhe meu projeto de pesquisa e consultá-lo sobre a possibilidade de orientação. Para minha alegria e sem ainda me conhecer, aceitou. Desde então, tivemos uma longa parceria, que seguiu pelo doutorado e por diversas outras atividades acadêmicas. Tornamo-nos amigos e ele, para mim, um conselheiro e uma referência ética, política e profissional.</p>
   
