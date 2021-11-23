@@ -43,15 +43,19 @@ body {
 }   
 </style>
 
-Em solidariedade aos entes queridos das vítimas da Covid-19 no Brasil, a Associação de Pós-Graduandas e Pós-Graduandos da Unicamp inaugura este Memorial como uma forma de lembrança e de agradecimento à insubstituível contribuição que as pessoas de nossa comunidade universitária prestaram a toda a sociedade brasileira ao construir e fazer parte da história da Universidade Estadual de Campinas. Para nós, a comunidade universitária é como uma grande família composta por estudantes, servidores docentes, técnico-administrativos, contratados terceirizados e seus amigos e familiares. Essa é a luz que ilumina a Unicamp. A cada perda sofremos juntos o luto e o transformamos em luta por melhores condições de trabalho e de vida. 
+Em solidariedade aos entes queridos das vítimas da Covid-19 no Brasil, a Associação de Pós-Graduandas e Pós-Graduandos da Unicamp inaugura este Memorial como uma forma de lembrança e de agradecimento à insubstituível contribuição que as pessoas de nossa comunidade universitária prestaram a toda a sociedade brasileira ao construir e fazer parte da história da Universidade Estadual de Campinas.
 
-Diante disso, a APG Unicamp abre este espaço para que qualquer pessoa envie sua homenagem às vítimas da Covid-19 de nossa comunidade, ex-membros e seus familiares, enviando mensagens, imagens e notas de colegas por meio de nossos canais de comunicação nas redes sociais e via e-mail (apgunicamp@gmail.com).
+Para nós, a comunidade universitária é como uma grande família composta por estudantes, servidores docentes, técnico-administrativos, contratados terceirizados e seus amigos e familiares. Essa é a luz que ilumina a Unicamp. A cada perda sofremos juntos o luto e o transformamos em luta por melhores condições de trabalho e de vida. 
+
+Diante disso, abrimos este espaço para que qualquer pessoa envie sua homenagem às vítimas da Covid-19 de nossa comunidade, ex-membros e seus familiares, enviando mensagens, imagens e notas de colegas por meio de nossos canais de comunicação nas redes sociais e via e-mail.
 
 ## Angela von Nowakonski
 
-Dona Angela foi minha aluna em uma escola de música. Não a conheci na Unicamp, ela contava sobre sua profissão e que deu muitas aulas sobre microbiologia, mas era sempre muito modesta. Então foi com uma feliz surpresa que vi todas as homenagens que recebeu quando faleceu de Covid em julho de 2020, incluindo agora o prêmio criado com seu nome pela Sociedade Brasileira de Microbiologia. Descobri lendo reportagens que ela foi chefe do setor de Microbiologia Clínica da Divisão de Patologia Clínica do HC da Unicamp de 1987 até a sua aposentadoria, em julho de 2015. Além da música, compartilhávamos um grande amor por gatos e as fotos que ela mandava sempre alegravam meu dia. Angela deixou muitas saudades. 
+Dona Angela foi minha aluna em uma escola de música. Não a conheci na Unicamp, ela contava sobre sua profissão e que deu muitas aulas sobre microbiologia, mas era sempre muito modesta. Então foi com uma feliz surpresa que vi todas as homenagens que recebeu quando faleceu de Covid em julho de 2020, incluindo agora o prêmio criado com seu nome pela Sociedade Brasileira de Microbiologia. 
 
-*Patricia Kawaguchi Cesar (Mestra em Música, IA)*
+Descobri lendo reportagens que ela foi chefe do setor de Microbiologia Clínica da Divisão de Patologia Clínica do HC da Unicamp de 1987 até a sua aposentadoria, em julho de 2015. Além da música, compartilhávamos um grande amor por gatos e as fotos que ela mandava sempre alegravam meu dia. Angela deixou muitas saudades. 
+
+*Patricia Kawaguchi Cesar - Mestra em Música (IA)*
 
 ## Edmilson Antonio Ortolan
 
@@ -59,12 +63,15 @@ O servidor Edmilson Antonio Ortolan desempenhava suas funções no Centro de Ens
 
 Desde 1985, o servidor prestava serviços à Universidade, tendo iniciado a sua carreira na Diretoria Geral da Administração (DGA). Nas horas vagas, Edmilson era o [palhaço "Cacareco"](https://www.unicamp.br/unicamp/sites/default/files/jornal/paginas/ju_554_pagina_08.pdf), performance que ocupava um lugar especial na sua vida. 
 
+*Redação Unicamp*
+
 ## Elsio Rodrigo dos Santos
 
 Contribuiu com a comunidade UNICAMP como parte do núcleo familiar e grande incentivador de estudos de uma graduanda de nossa instituição. Exímio violinista, dedicou sua vida à amar o próximo e ajudar a todos que pudesse. 
 
 Que seus familiares, em especial sua esposa Patrícia e sua filha Maria Eduarda, embora esta nem mesmo possa ler ainda, encontrem acalento nesta homenagem. Que possamos todos os dias nos lembrar, saudosos porém tranquilos e confiantes, do exemplo de amor e benevolência que Rodrigo deixou marcado no coração de todos os que o conheceram. 
 
+*Maria Isabela Monteiro - estudante de Engenharia de Telecomunicações (FT)
 
 ## Fabio Dadam 
 
@@ -154,9 +161,9 @@ A Direção e os programas de pós graduação do IE/Unicamp manifestam os senti
 ### José Luis Sanfelice
 
 <details>
-  <summary> <p> Sanfelice era Professor Titular aposentado do Departamento de Filosofia e História da Educação (DEFHE), da Faculdade de Educação (FE) da UNICAMP, da qual também foi Diretor, no período de 1990 a 1996. Ingressou no quadro docente da Universidade em 1981 e se aposentou em 2012. Desde então, atuava como Professor Colaborador no Programa de Pós-Graduação em Educação (PPGE) da FE. </p></summary>
+  <summary> <p> Sanfelice era Professor Titular aposentado do Departamento de Filosofia e História da Educação (DEFHE), da Faculdade de Educação (FE) da UNICAMP, da qual também foi Diretor, no período de 1990 a 1996. Ingressou no quadro docente da Universidade em 1981 e se aposentou em 2012. Desde então, atuava como Professor Colaborador no Programa de Pós-Graduação em Educação (PPGE) da FE. </p>
     
-<p>Conhecido pelo rigor acadêmico, pelo compromisso político com as lutas em defesa da educação pública e pela generosa cordialidade no tratamento com as pessoas, Zé, como carinhosamente o chamávamos, era querido e respeitado por todos. Suas aulas magistrais e seu zelo nas orientações fizeram dele um educador inesquecível para uma infinidade de estudantes, de graduação e de pós-graduação, que tiveram a sorte e o privilégio de o terem como professor e/ou orientador. Sinto-me feliz e honrado por estar entre eles.</p>
+<p>Conhecido pelo rigor acadêmico, pelo compromisso político com as lutas em defesa da educação pública e pela generosa cordialidade no tratamento com as pessoas, Zé, como carinhosamente o chamávamos, era querido e respeitado por todos. Suas aulas magistrais e seu zelo nas orientações fizeram dele um educador inesquecível para uma infinidade de estudantes, de graduação e de pós-graduação, que tiveram a sorte e o privilégio de o terem como professor e/ou orientador. Sinto-me feliz e honrado por estar entre eles. </p></summary>
 
 <p>Aproximei-me dele logo que ingressei no mestrado, no Programa de Pós-Graduação em Educação da FE. Ainda sem orientador, assisti à sessão de qualificação de uma colega que tinha o Professor Sanfelice em sua banca. Fiquei tão impressionado com o cuidado com que lera o trabalho e com a profundidade de seus questionamentos e considerações, que saí dali resoluto: esse professor seria meu orientador! Secretamente, pensava também que seria preferível tê-lo como orientador do que como arguidor. Alguns dias depois, imbuído de coragem e algum atrevimento, procurei-o em sua sala para apresentar-lhe meu projeto de pesquisa e consultá-lo sobre a possibilidade de orientação. Para minha alegria e sem ainda me conhecer, aceitou. Desde então, tivemos uma longa parceria, que seguiu pelo doutorado e por diversas outras atividades acadêmicas. Tornamo-nos amigos e ele, para mim, um conselheiro e uma referência ética, política e profissional.</p>
   
