@@ -71,7 +71,7 @@ Contribuiu com a comunidade UNICAMP como parte do núcleo familiar e grande ince
 
 Que seus familiares, em especial sua esposa Patrícia e sua filha Maria Eduarda, embora esta nem mesmo possa ler ainda, encontrem acalento nesta homenagem. Que possamos todos os dias nos lembrar, saudosos porém tranquilos e confiantes, do exemplo de amor e benevolência que Rodrigo deixou marcado no coração de todos os que o conheceram. 
 
-*Maria Isabela Monteiro - estudante de Engenharia de Telecomunicações (FT)
+*Maria Isabela Monteiro - Graduanda em Engenharia de Telecomunicações (FT)*
 
 ## Fabio Dadam 
 
