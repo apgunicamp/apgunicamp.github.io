@@ -108,6 +108,15 @@ Nossa estimada sócia-emérita foi mais uma vítima da COVID, mais uma vítima d
 
 *Associação Brasileira de Ensino de Biologia (SBENBIO)*
 
+## Paulo Norberto Salati Marcondes
+
+O médico anestesista Paulo Norberto Salati Marcondes, graduado pela Faculdade de Medicina da USP, com especialização em anestesiologia, atuava em Americana. Pertencente a uma família numerosa, atendia a todos que a ele recorriam com disponibilidade e dedicação, dentro dos seus valores pessoais e formação profissional. Desde o início da pandemia em 2020, ele esteve na linha de frente do atendimento a pacientes de Covid e de outras demandas de anestesia. Em dezembro de 2020 foi infectado, internado e intubado. Não resistiu às complicações e faleceu em 7 de janeiro de 2021.
+
+Sou professor e ele era meu tio, e pai de ex-aluno da UNICAMP. Mais uma vítima desta pandemia, que deixou esposa, três filhos, família de dezenas de  parentes, pacientes e amigos que acompanharam seu sofrimento, sentindo-se muito tristes, pesarosos e enlutados.
+
+*Gustavo Hermínio Salati Marcondes de Moraes - Professor Livre Docente da FCA/UNICAMP*
+*Gabriel Vitti Marcondes – ex aluno do curso de Especialização em Gestão Estratégica de Pessoas da UNICAMP*
+
 ## Roberto Romano
 
 O professor Roberto Romano era docente aposentado do IFCH, mas foi também nosso colega na FE, mais especificamente no DECISE, de onde se transferiu para aquele instituto.
