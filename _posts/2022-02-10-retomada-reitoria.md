@@ -49,7 +49,7 @@ Eles citam que os países que já passaram pelo pico de casos de Omicron tiveram
 
 Haverá distribuição de máscaras cirúrgicas e PFF2 pelas unidades, que será avaliada de acordo com o risco de transmissão de cada local, dando prioridade a disponibilizar PFF2 em situações de maior exposição. Para ambientes de escritório e sala, com pessoas totalmente vacinadas, a máscara cirúrgica descartável é uma opção estudada. A ideia principal é de que a PFF2 seja distribuída para durar 1 semana, mas a logística não está definida.
 
-Não haverá restrições para testagem. Sintomáticos respiratórios devem comunicar no aplicativo EducaSaúde para que o CECOM entre em contato. [Veja mais informações sobre o aplicativo na página oficial](https://www.unicamp.br/unicamp/cartilha-covid-19/aplicativo-para-vigilancia-em-saude-da-unicamp-educasaude). A Reitoria avalia o uso de testes rápidos de antígeno, para agilizar a testagem. Se confirmados 3 casos em uma sala em sequência será configurado um surto. Todos deverão ser testados e, se for o caso, afastados.
+Não haverá restrições para testagem. Sintomáticos respiratórios devem comunicar no aplicativo EducaSaúde para que o CECOM entre em contato. [Veja mais informações sobre o aplicativo na página oficial](https://www.unicamp.br/unicamp/cartilha-covid-19/aplicativo-para-vigilancia-em-saude-da-unicamp-educasaude). A Reitoria avalia o uso de testes rápidos de antígeno, para agilizar a testagem. Se forem confirmados mais de 3 casos em uma sala em sequência será configurado um surto. Todos deverão ser testados, ter a rede de contatos mapeada e, se for o caso, afastados.
 
 ## Ensino presencial e ensino remoto:
 
