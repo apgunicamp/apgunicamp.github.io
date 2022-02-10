@@ -1,19 +1,23 @@
 ---
 layout: single
-title:  "APG, RDs e entidades participam de reunião com Reitoria sobre a retomada"
-image: https://apgunicamp.github.io/assets/images/unicamp.jpg
+title:  "APG, entidades e representantes participam de reunião com Reitoria sobre a retomada"
 tag:
 - Unicamp
 - Reitoria
 - Retorno presencial
 description: Na última terça-feira (08/02), a APG Unicamp e a bancada de representação discente no Conselho Universitário participaram de uma reunião da Reitoria sobre a retomada das atividades presenciais.
+header:
+  overlay_image: https://apgunicamp.github.io/assets/images/unicamp.jpg
+  overlay_filter: rgba(255, 0, 0, 0.5)
+  actions:
+    - label: "Informações oficiais sobre a retomada"
+      url: "https://www.unicamp.br/unicamp/tv/retomada"
 ---
+Na última terça-feira (08/02), a APG Unicamp e a bancada de representação discente no Conselho Universitário participaram de uma reunião da Reitoria sobre a retomada das atividades presenciais. Esse encontro faz parte de uma série de contatos que a reitoria tem feito neste mês para comunicar as questões do retorno, tendo se reunindo com as direções de unidade, com professores e técnicos e, agora, fez o contato com estudantes. Na reunião com as entidades e representações estudantis foram feitas uma série de apresentações, levando em consideração desde questões epidemiológicas até questões de estrutura do campus. Trazemos um relato das principais preocupações levantadas, de acordo com o tema. [Todas as resoluções da Universidade com relação à retomada podem ser encontradas aqui](https://www.unicamp.br/unicamp/noticias/retomada-grs).
 
-Na última terça-feira (08/02), a APG Unicamp e a bancada de representação discente no Conselho Universitário participaram de uma reunião da Reitoria sobre a retomada das atividades presenciais. Esse encontro faz parte de uma série de contatos que a reitoria tem feito neste mês para comunicar as questões do retorno, tendo se reunindo com as direções de unidade, com professores e técnicos e, agora, fez o contato com estudantes. Na reunião com as entidades e representações estudantis foram feitas uma série de apresentações, levando em consideração desde questões epidemiológicas até questões de estrutura do campus. Trazemos um relato das principais preocupações levantadas, de acordo com o tema.
+## Adiamento do retorno
 
-##  Adiamento do retorno
-
-A possibilidade de adiamento do retorno das atividades em 14 de março foi apresentado, no sentido de dar tempo para analisar o cenário pós-carnaval, preparar melhor a Unicamp, comunicar a comunidade universitária e avaliar o funcionamento dos serviços no campus, como alimentação e transporte a partir das sugestões e dúvidas levantadas.
+A possibilidade de adiamento do retorno das atividades em 14 de março foi apresentado, no sentido de dar tempo para analisar o cenário pós-carnaval, preparar melhor a Unicamp, comunicar a comunidade universitária e avaliar o funcionamento dos serviços no campus, como alimentação e transporte a partir das sugestões e dúvidas levantadas. [Veja a nota oficial da Unicamp sobre o adiamento do retorno para 14/03](https://www.unicamp.br/unicamp/noticias/2022/02/08/unicamp-adia-o-inicio-das-aulas-para-14-de-marco).
 
 ## Restaurante Universitário e Alimentação
 
@@ -39,11 +43,11 @@ Eles citam que os países que já passaram pelo pico de casos de Omicron tiveram
 
 - **Qual será o procedimento ou protocolo no caso de infecção de um docente, técnico ou estudante que tenha se infectado ao longo do semestre?**
 
-Um manual está sendo elaborado para orientar a comunidade sobre o uso dos espaços do campus. Questões como a prática de esportes, reunião e atividades extracurriculares foram dúvidas trazidas pelas entidades  que ainda não constavam no manual e serão levadas em consideração.
+[Uma cartilha está sendo constantemente atualizada para orientar a comunidade sobre o uso dos espaços do campus](https://www.unicamp.br/unicamp/cartilha-covid-19). Questões como a prática de esportes, reunião e atividades extracurriculares foram dúvidas trazidas pelas entidades que ainda não constavam no manual e serão levadas em consideração.
 
 Haverá distribuição de máscaras cirúrgicas e PFF2 pelas unidades, que será avaliada de acordo com o risco de transmissão de cada local, dando prioridade a disponibilizar PFF2 em situações de maior exposição. Para ambientes de escritório e sala, com pessoas totalmente vacinadas, a máscara cirúrgica descartável é uma opção estudada. A ideia principal é de que a PFF2 seja distribuída para durar 1 semana, mas a logística não está definida.
 
-Não haverá restrições para testagem. Sintomáticos respiratórios devem comunicar no aplicativo EducaSaúde para que o CECOM entre em contato. A Reitoria avalia o uso de testes rápidos de antígeno, para agilizar a testagem. Se confirmados 3 casos em uma sala em sequência será configurado um surto. Todos deverão ser testados e, se for o caso, afastados.
+Não haverá restrições para testagem. Sintomáticos respiratórios devem comunicar no aplicativo EducaSaúde para que o CECOM entre em contato. [Veja mais informações sobre o aplicativo na página oficial](https://www.unicamp.br/unicamp/cartilha-covid-19/aplicativo-para-vigilancia-em-saude-da-unicamp-educasaude). A Reitoria avalia o uso de testes rápidos de antígeno, para agilizar a testagem. Se confirmados 3 casos em uma sala em sequência será configurado um surto. Todos deverão ser testados e, se for o caso, afastados.
 
 ## Ensino presencial e ensino remoto:
 
@@ -57,4 +61,3 @@ O robô tem sofisticação na filmagem, fazendo rastreamento de voz para foco au
 
 A reitoria assume uma posição de compromisso com o ensino presencial, ressaltando que essa é a vocação da Unicamp. Na graduação, as aulas serão presenciais. Na pós-graduação, a Profa. Rachel disse que algumas aulas poderão ser remotas, devido a uma maior flexibilidade dos programas de pós-graduação. Os programas terão autonomia para retornar o semestre de forma híbrida ou mantendo atividades remotas, mas esses casos serão discutidos nas CPGs e CCPG. Esses casos excepcionais e o uso de estratégias de ensino remoto como por exemplo na internacionalização e na participação de membros externos precisam ser discutidos de forma mais aprofundada na CCPG.
 
-![Unicamp](https://apgunicamp.github.io/assets/images/unicamp.jpg)
