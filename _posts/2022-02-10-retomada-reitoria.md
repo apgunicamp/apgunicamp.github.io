@@ -8,7 +8,7 @@ tag:
 excerpt: "Na última terça-feira (08/02), a APG Unicamp e a bancada discente no Conselho Universitário participaram de uma reunião da Reitoria sobre a retomada das atividades presenciais junto a outras entidades representativas."
 header:
   overlay_image: https://apgunicamp.github.io/assets/images/unicamp.jpg
-  overlay_filter: rgba(255, 0, 0, 0.85)
+  overlay_filter: rgba(125, 0, 0, 0.85)
   actions:
     - label: "Informações oficiais sobre a retomada"
       url: "https://www.unicamp.br/unicamp/tv/retomada"
