@@ -1,10 +1,12 @@
 ---
 layout: single
-title:  "APG participa de reunião com Reitoria sobre a retomada"
+title:  "APG, RDs e entidades participam de reunião com Reitoria sobre a retomada"
+image: https://apgunicamp.github.io/assets/images/unicamp.jpg
 tag:
 - Unicamp
 - Reitoria
 - Retorno presencial
+description: Na última terça-feira (08/02), a APG Unicamp e a bancada de representação discente no Conselho Universitário participaram de uma reunião da Reitoria sobre a retomada das atividades presenciais.
 ---
 
 Na última terça-feira (08/02), a APG Unicamp e a bancada de representação discente no Conselho Universitário participaram de uma reunião da Reitoria sobre a retomada das atividades presenciais. Esse encontro faz parte de uma série de contatos que a reitoria tem feito neste mês para comunicar as questões do retorno, tendo se reunindo com as direções de unidade, com professores e técnicos e, agora, fez o contato com estudantes. Na reunião com as entidades e representações estudantis foram feitas uma série de apresentações, levando em consideração desde questões epidemiológicas até questões de estrutura do campus. Trazemos um relato das principais preocupações levantadas, de acordo com o tema.
