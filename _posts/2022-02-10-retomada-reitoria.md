@@ -5,7 +5,7 @@ tag:
 - Unicamp
 - Reitoria
 - Retorno presencial
-excerpt: "Na última terça-feira (08/02), a APG Unicamp e a bancada discente no Conselho Universitário participaram de uma reunião da Reitoria sobre a retomada das atividades presenciais junto a outras entidades representativas."
+excerpt: "Encontro faz parte de uma série de contatos que a reitoria tem feito neste mês para comunicar as questões do retorno"
 header:
   overlay_image: https://apgunicamp.github.io/assets/images/unicamp.jpg
   overlay_filter: rgba(125, 0, 0, 0.85)
@@ -21,15 +21,13 @@ A possibilidade de adiamento do retorno das atividades em 14 de março foi apres
 
 ## Restaurante Universitário e Alimentação
 
-- **Alguns estudantes tiveram dúvidas a respeito das barreiras de acrílico e o distanciamento no RU. Qual será a capacidade com que o RU vai trabalhar no retorno? Haverá café da manhã?**
+⚠️ **Esta seção está em atualização para checagem das informações.**
 
-⚠️ **SEÇÃO EM ATUALIZAÇÃO**
+- **Alguns estudantes tiveram dúvidas a respeito das barreiras de acrílico e o distanciamento no RU. Qual será a capacidade com que o RU vai trabalhar no retorno? Haverá café da manhã?**
 
 Os restaurantes abrem dia 14 de fevereiro e o RU servirá as três refeições. A princípio, a cada 4 assentos, um seria para uso. O RS admitirá a mesma capacidade com que já vem trabalhando. A capacidade do RA será diminuída em 30%.
 
 - **Alguns estudantes se sentem mais seguros na opção de distribuição de marmitas do que no retorno do RU. Quais são os argumentos embasaram a decisão do retorno ao RU? A distribuição de marmitas é possível?**
-
-⚠️ **SEÇÃO EM ATUALIZAÇÃO**
 
 A distribuição de marmitas apresentam dificuldades de operacionalização devido a criação de um segundo fluxo de trabalho para a equipe de alimentação do restaurante. A sugestão será avaliada pela Prefeitura do campus e pelo Gabinete do Reitor até o retorno. Outras opções de alimentação no campus estão sendo estudadas para suprir a demanda por cantinas. Para saber mais sobre essas ações, consulte a [página do Facebook da Prefeitura Universitária](https://www.facebook.com/prefeituraunicamp). 
 
