@@ -17,7 +17,7 @@ Na última terça-feira (08/02), a APG Unicamp e a bancada de representação di
 
 ## Adiamento do retorno
 
-A possibilidade de adiamento do retorno das atividades em 14 de março foi apresentado, no sentido de dar tempo para analisar o cenário pós-carnaval, preparar melhor a Unicamp, comunicar a comunidade universitária e avaliar o funcionamento dos serviços no campus, como alimentação e transporte a partir das sugestões e dúvidas levantadas. [Veja a nota oficial da Unicamp sobre o adiamento do retorno para 14/03](https://www.unicamp.br/unicamp/noticias/2022/02/08/unicamp-adia-o-inicio-das-aulas-para-14-de-marco).
+A possibilidade de adiamento do retorno das atividades em 14 de março foi apresentada em reunião, com objetivo de dar tempo para analisar o cenário pós-carnaval, preparar melhor a Unicamp, comunicar a comunidade universitária e avaliar o funcionamento dos serviços no campus, como alimentação e transporte a partir das sugestões e dúvidas levantadas. [Veja a nota oficial da Unicamp sobre o adiamento do retorno para 14/03](https://www.unicamp.br/unicamp/noticias/2022/02/08/unicamp-adia-o-inicio-das-aulas-para-14-de-marco).
 
 ## Restaurante Universitário e Alimentação
 
@@ -27,7 +27,7 @@ Os restaurantes abrem dia 14 de fevereiro e o RU servirá as três refeições. 
 
 - **Alguns estudantes se sentem mais seguros na opção de distribuição de marmitas do que no retorno do RU. Quais são os argumentos embasaram a decisão do retorno ao RU? A distribuição de marmitas é possível?**
 
-A distribuição de marmitas apresentam dificuldades de operacionalização devido a criação de um segundo fluxo de trabalho para a equipe de alimentação do restaurante, mas sugestão será estudada pela Prefeitura do campus.
+A distribuição de marmitas apresentam dificuldades de operacionalização devido a criação de um segundo fluxo de trabalho para a equipe de alimentação do restaurante. A sugestão será avaliada pela Prefeitura do campus e pelo Gabinete do Reitor até o retorno. Outras opções de alimentação no campus estão sendo estudadas para suprir a demanda por cantinas. Para saber mais sobre essas ações, consulte a [página do Facebook da Prefeitura Universitária](https://www.facebook.com/prefeituraunicamp). 
 
 ## O quadro epidemiológico
 
