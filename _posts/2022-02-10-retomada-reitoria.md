@@ -23,9 +23,13 @@ A possibilidade de adiamento do retorno das atividades em 14 de março foi apres
 
 - **Alguns estudantes tiveram dúvidas a respeito das barreiras de acrílico e o distanciamento no RU. Qual será a capacidade com que o RU vai trabalhar no retorno? Haverá café da manhã?**
 
+⚠️ **SEÇÃO EM ATUALIZAÇÃO**
+
 Os restaurantes abrem dia 14 de fevereiro e o RU servirá as três refeições. A princípio, a cada 4 assentos, um seria para uso. O RS admitirá a mesma capacidade com que já vem trabalhando. A capacidade do RA será diminuída em 30%.
 
 - **Alguns estudantes se sentem mais seguros na opção de distribuição de marmitas do que no retorno do RU. Quais são os argumentos embasaram a decisão do retorno ao RU? A distribuição de marmitas é possível?**
+
+⚠️ **SEÇÃO EM ATUALIZAÇÃO**
 
 A distribuição de marmitas apresentam dificuldades de operacionalização devido a criação de um segundo fluxo de trabalho para a equipe de alimentação do restaurante. A sugestão será avaliada pela Prefeitura do campus e pelo Gabinete do Reitor até o retorno. Outras opções de alimentação no campus estão sendo estudadas para suprir a demanda por cantinas. Para saber mais sobre essas ações, consulte a [página do Facebook da Prefeitura Universitária](https://www.facebook.com/prefeituraunicamp). 
 
@@ -53,7 +57,7 @@ Não haverá restrições para testagem. Sintomáticos respiratórios devem comu
 
 - **Como está sendo planejado o retorno às aulas presenciais e como funcionarão as salas gêmeas?**
 
-Cerca de 20% das disciplinas a serem ministradas vão precisar ser divididas. As demais têm espaço suficiente para acontecer num mesmo local com o distanciamento necessário. O robô EduCart é uma opção aos docentes que terão que fragmentar as turmas, mas seu uso não será obrigatório. Pode-se, por exemplo, dividir os encontros duas vezes por semana, ao invés de usar salas gêmeas. Existirá um treinamento online e uma estrutura de apoio didático para lidar com a tecnologia.
+Cerca de 20% das disciplinas a serem ministradas vão precisar ser divididas. As demais têm espaço suficiente para acontecer num mesmo local com o distanciamento necessário. O robô EduCart é uma opção aos docentes que terão que fragmentar as turmas, mas seu uso não será obrigatório. Pode-se, por exemplo, dividir os encontros, ao invés de usar salas gêmeas. Existirá um treinamento online e uma estrutura de apoio didático para lidar com a tecnologia.
 
 O robô tem sofisticação na filmagem, fazendo rastreamento de voz para foco automático. Testes estão sendo realizados em vários cenários e configurações de sala. Foram comprados 220 robôs, cada um a 13 mil reais, totalizando o investimento de R\$ 2,9 milhões. Esse número de robôs é o número de turmas simultâneas na Unicamp no dia/turno com mais aulas, para garantir que todos possam usar, caso precisem. No que tange a permanência, a reitoria falou que o orçamento é de R$ 100 milhões para este ano e que aumentou em 10% o número de bolsas e houve um reajuste nelas, no valor também de 10%.
 
