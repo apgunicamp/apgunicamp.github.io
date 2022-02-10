@@ -27,7 +27,7 @@ Os restaurantes abrem dia 14 de fevereiro e o RU servirá as três refeições. 
 
 - **Alguns estudantes se sentem mais seguros na opção de distribuição de marmitas do que no retorno do RU. Quais são os argumentos embasaram a decisão do retorno ao RU? A distribuição de marmitas é possível?**
 
-A distribuição de marmitas tem dificuldades de operacionalização devido a criação de um segundo fluxo de trabalho para a distribuição das marmitas, mas sugestão será estudada pela Prefeitura do campus.
+A distribuição de marmitas apresentam dificuldades de operacionalização devido a criação de um segundo fluxo de trabalho para a equipe de alimentação do restaurante, mas sugestão será estudada pela Prefeitura do campus.
 
 ## O quadro epidemiológico
 
@@ -43,7 +43,7 @@ Eles citam que os países que já passaram pelo pico de casos de Omicron tiveram
 
 - **Qual será o procedimento ou protocolo no caso de infecção de um docente, técnico ou estudante que tenha se infectado ao longo do semestre?**
 
-[Uma cartilha está sendo constantemente atualizada para orientar a comunidade sobre o uso dos espaços do campus](https://www.unicamp.br/unicamp/cartilha-covid-19). Questões como a prática de esportes, reunião e atividades extracurriculares foram dúvidas trazidas pelas entidades que ainda não constavam no manual e serão levadas em consideração.
+[Uma cartilha está sendo constantemente atualizada para orientar a comunidade sobre o uso dos espaços do campus](https://www.unicamp.br/unicamp/cartilha-covid-19). Questões como a prática de esportes, reuniões de entidades e atividades extracurriculares foram trazidas pelas entidades, ainda não constavam no manual e serão levadas em consideração.
 
 Haverá distribuição de máscaras cirúrgicas e PFF2 pelas unidades, que será avaliada de acordo com o risco de transmissão de cada local, dando prioridade a disponibilizar PFF2 em situações de maior exposição. Para ambientes de escritório e sala, com pessoas totalmente vacinadas, a máscara cirúrgica descartável é uma opção estudada. A ideia principal é de que a PFF2 seja distribuída para durar 1 semana, mas a logística não está definida.
 
