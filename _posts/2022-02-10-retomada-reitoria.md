@@ -54,3 +54,5 @@ O robô tem sofisticação na filmagem, fazendo rastreamento de voz para foco au
 - **Desde o início da suspensão das atividades, uma de nossas preocupações era que com o ensino remoto emergencial, a pressão para adotar o EAD de forma permanente aumentasse. Qual é a postura da reitoria a respeito?**
 
 A reitoria assume uma posição de compromisso com o ensino presencial, ressaltando que essa é a vocação da Unicamp. Na graduação, as aulas serão presenciais. Na pós-graduação, a Profa. Rachel disse que algumas aulas poderão ser remotas, devido a uma maior flexibilidade dos programas de pós-graduação. Os programas terão autonomia para retornar o semestre de forma híbrida ou mantendo atividades remotas, mas esses casos serão discutidos nas CPGs e CCPG. Esses casos excepcionais e o uso de estratégias de ensino remoto como por exemplo na internacionalização e na participação de membros externos precisam ser discutidos de forma mais aprofundada na CCPG.
+
+![Unicamp](https://apgunicamp.github.io/assets/images/unicamp.jpg)
