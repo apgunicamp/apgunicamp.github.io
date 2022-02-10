@@ -6,7 +6,6 @@ tag:
 - Reitoria
 - Retorno presencial
 ---
-![Unicamp](https://apgunicamp.github.io/assets/images/unicamp.jpg)<figcaption class="caption">Reunião discutiu o retorno às atividades presenciais na Unicamp.</figcaption>
 
 Na última terça-feira (08/02), a APG Unicamp e a bancada de representação discente no Conselho Universitário participaram de uma reunião da Reitoria sobre a retomada das atividades presenciais. Esse encontro faz parte de uma série de contatos que a reitoria tem feito neste mês para comunicar as questões do retorno, tendo se reunindo com as direções de unidade, com professores e técnicos e, agora, fez o contato com estudantes. Na reunião com as entidades e representações estudantis foram feitas uma série de apresentações, levando em consideração desde questões epidemiológicas até questões de estrutura do campus. Trazemos um relato das principais preocupações levantadas, de acordo com o tema.
 
@@ -18,7 +17,7 @@ A possibilidade de adiamento do retorno das atividades em 14 de março foi apres
 
 - **Alguns estudantes tiveram dúvidas a respeito das barreiras de acrílico e o distanciamento no RU. Qual será a capacidade com que o RU vai trabalhar no retorno? Haverá café da manhã?**
 
-**Os restaurantes abrem dia 14 de fevereiro e o RU servirá as três refeições**. A princípio, a cada 4 assentos, um seria para uso. O RS admitirá a mesma capacidade com que já vem trabalhando. A capacidade do RA será diminuída em 30%.
+Os restaurantes abrem dia 14 de fevereiro e o RU servirá as três refeições. A princípio, a cada 4 assentos, um seria para uso. O RS admitirá a mesma capacidade com que já vem trabalhando. A capacidade do RA será diminuída em 30%.
 
 - **Alguns estudantes se sentem mais seguros na opção de distribuição de marmitas do que no retorno do RU. Quais são os argumentos embasaram a decisão do retorno ao RU? A distribuição de marmitas é possível?**
 
