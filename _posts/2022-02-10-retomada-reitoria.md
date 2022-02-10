@@ -1,14 +1,14 @@
 ---
 layout: single
-title:  "APG, entidades e representantes participam de reunião com Reitoria sobre a retomada"
+title:  "APG, entidades e representantes discentes participam de reunião com Reitoria sobre a retomada"
 tag:
 - Unicamp
 - Reitoria
 - Retorno presencial
-description: Na última terça-feira (08/02), a APG Unicamp e a bancada de representação discente no Conselho Universitário participaram de uma reunião da Reitoria sobre a retomada das atividades presenciais.
+excerpt: "Na última terça-feira (08/02), a APG Unicamp e a bancada discente no Conselho Universitário participaram de uma reunião da Reitoria sobre a retomada das atividades presenciais junto a outras entidades representativas."
 header:
   overlay_image: https://apgunicamp.github.io/assets/images/unicamp.jpg
-  overlay_filter: rgba(255, 0, 0, 0.5)
+  overlay_filter: rgba(255, 0, 0, 0.85)
   actions:
     - label: "Informações oficiais sobre a retomada"
       url: "https://www.unicamp.br/unicamp/tv/retomada"
