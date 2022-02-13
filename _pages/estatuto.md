@@ -1,5 +1,5 @@
 ---
-permalink: /leg/
+permalink: /estatuto/
 layout: single
 title: "Estatuto"
 last_modified_at: 2021-08-13
@@ -463,14 +463,12 @@ Art. 48. O presente Estatuto entrará em vigor na data da sua aprovação.
 Campinas, 11 de Setembro de 2019
 
 
-**JOÃO PAULO FERREIRA BERTACCHI** | Relator
+**JOÃO PAULO FERREIRA BERTACCHI**
+*Relator*
 
 
-**MATHEUS ALVES ALBINO** | Coordenadoria Geral
-
-
----
-
+**MATHEUS ALVES ALBINO** 
+*Coordenadoria Geral*
 
 
 ### Fundadores da APG Unicamp
