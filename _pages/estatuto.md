@@ -2,7 +2,7 @@
 permalink: /estatuto/
 layout: single
 title: "Estatuto"
-last_modified_at: 2021-08-13
+last_modified_at: 2022-02-13
 toc: true
 toc_label: "Índice"
 excerpt: "Estatuto da Associação Central de Pós-Graduação da Unicamp (APG Unicamp). CNPJ: 43.492.454/0001-30"
