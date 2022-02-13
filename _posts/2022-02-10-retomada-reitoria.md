@@ -49,7 +49,7 @@ Eles citam que os países que já passaram pelo pico de casos de Omicron tiveram
 
 Haverá distribuição de máscaras cirúrgicas e PFF2 pelas unidades, que será avaliada de acordo com o risco de transmissão de cada local, dando prioridade a disponibilizar PFF2 em situações de maior exposição. Para ambientes de escritório e sala, com pessoas totalmente vacinadas, a máscara cirúrgica descartável é uma opção estudada. A ideia principal é de que a PFF2 seja distribuída para durar 1 semana, mas a logística não está definida.
 
-Não haverá restrições para testagem. Sintomáticos respiratórios devem comunicar no aplicativo EducaSaúde para que o CECOM entre em contato. [Veja mais informações sobre o aplicativo na página oficial](https://www.unicamp.br/unicamp/cartilha-covid-19/aplicativo-para-vigilancia-em-saude-da-unicamp-educasaude). A Reitoria avalia o uso de testes rápidos de antígeno, para agilizar a testagem. Se forem confirmados mais de 3 casos em uma sala em sequência será configurado um surto. Todos deverão ser testados, ter a rede de contatos mapeada e, se for o caso, afastados.
+Não haverá restrições para testagem. Sintomáticos respiratórios devem comunicar no aplicativo EducaSaúde para que o CECOM entre em contato[^1]. A Reitoria avalia o uso de testes rápidos de antígeno, para agilizar a testagem. Se forem confirmados mais de 3 casos em uma sala em sequência será configurado um surto. Todos deverão ser testados, ter a rede de contatos mapeada e, se for o caso, afastados.
 
 ## Ensino presencial e ensino remoto:
 
@@ -63,3 +63,4 @@ O robô tem sofisticação na filmagem, fazendo rastreamento de voz para foco au
 
 A reitoria assume uma posição de compromisso com o ensino presencial, ressaltando que essa é a vocação da Unicamp. Na graduação, as aulas serão presenciais. Na pós-graduação, a Profa. Rachel disse que algumas aulas poderão ser remotas, devido a uma maior flexibilidade dos programas de pós-graduação. Os programas terão autonomia para retornar o semestre de forma híbrida ou mantendo atividades remotas, mas esses casos serão discutidos nas CPGs e CCPG. Esses casos excepcionais e o uso de estratégias de ensino remoto como por exemplo na internacionalização e na participação de membros externos precisam ser discutidos de forma mais aprofundada na CCPG.
 
+[^1]: [Veja mais informações sobre o aplicativo na página oficial](https://www.unicamp.br/unicamp/cartilha-covid-19/aplicativo-para-vigilancia-em-saude-da-unicamp-educasaude)
