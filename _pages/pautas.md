@@ -5,7 +5,7 @@ title: "Atas e Pautas de Reuniões"
 last_modified_at: 2022-02-13
 toc: true
 toc_label: "Documentos"
-excerpt: "As reuniões da APG Unicamp são abertas e acontecem de forma presencial todas as sextas-feiras, às 14h, no Ciclo Básico I. **As reuniões presenciais encontram-se suspensas em virtude da pandemia da Covid-19**."
+excerpt: "**As reuniões presenciais encontram-se suspensas em virtude da pandemia da Covid-19**."
 header:
   overlay_color: "#7d0000"
 ---
