@@ -1,6 +1,11 @@
 ---
 layout: single
 title:  "Conquistas da Representação Discente"
+classes: wide
+excerpt: "Confira algumas das ações da APG Unicamp em conjunto com a bancada discente nos colegiados"
+header:
+  overlay_image: https://apgunicamp.github.io/assets/images/unicamp.jpg
+  overlay_filter: rgba(125, 0, 0, 0.85)
 ---
 
 Ter uma bancada discente unida e coesa é muito importante para conquistar vitórias nas pautas estudantis. Confira algumas das ações em conjunto da bancada discente do Conselho Universitário (CONSU) e com a representação na Comissão Central de Pós-Graduação (CCPG), Comissão Central de Graduação (CCG), APG Central e DCE.
