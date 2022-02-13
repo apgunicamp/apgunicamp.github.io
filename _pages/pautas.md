@@ -2,13 +2,12 @@
 permalink: /atas/
 layout: single
 title: "Atas e Pautas de Reuniões"
-last_modified_at: 2021-06-06
+last_modified_at: 2022-02-13
 toc: true
 toc_label: "Documentos"
 excerpt: "As reuniões da APG Unicamp são abertas e acontecem de forma presencial todas as sextas-feiras, às 14h, no Ciclo Básico I. **As reuniões presenciais encontram-se suspensas em virtude da pandemia da Covid-19**."
 header:
   overlay_color: "#7d0000"
-classes: wide
 ---
 
 # Reuniões do ano de 2021
@@ -19,7 +18,7 @@ classes: wide
 * [3ª Assembleia Geral da Pós-Graduação da Unicamp, de 23 de agosto de 2021](https://drive.google.com/file/d/1ajl12d6Hp-Nq8mQWaipLKkYf7kvbEHaV/view?usp=sharing)
 * [2ª Assembleia Geral da Pós-Graduação da Unicamp, de 15 de abril de 2021](https://drive.google.com/file/d/1ajl12d6Hp-Nq8mQWaipLKkYf7kvbEHaV/view?usp=sharing)
 * [20ª Reunião da APG Unicamp, de 07 de abril de 2021](https://drive.google.com/file/d/1nwGMWKuWYMBPj-9RV3T9pf-b-hWyNU75/view?usp=sharing)
-* [1ª Assembleia da Pós-Graduação da Unicamp, de 17 de março de 2021]
+* 1ª Assembleia da Pós-Graduação da Unicamp, de 17 de março de 2021
 * [19ª Reunião da APG Unicamp, de 10 de fevereiro de 2021](https://drive.google.com/file/d/105EsJSuF4wlzcYWjxcZETmeejOhsBaIt/view?usp=sharing)
 * [18ª Reunião da APG Unicamp, de 09 de fevereiro de 2021](https://drive.google.com/file/d/1QPHBAMMJG2X0nlsKgNTFKEVK6bJqrL1I/view?usp=sharing)
 
