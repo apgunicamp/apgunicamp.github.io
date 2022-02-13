@@ -5,10 +5,13 @@ title: "Atas e Pautas de Reuniões"
 last_modified_at: 2021-06-06
 toc: true
 toc_label: "Documentos"
+excerpt: "As reuniões da APG Unicamp são abertas e acontecem de forma presencial todas as sextas-feiras, às 14h, no Ciclo Básico I. **As reuniões presenciais encontram-se suspensas em virtude da pandemia da Covid-19**."
+header:
+  overlay_color: "#7d0000"
+classes: wide
 ---
-As reuniões da APG Unicamp são abertas e acontecem de forma presencial todas as sextas-feiras, às 14h, no Ciclo Básico I. **As reuniões presenciais encontram-se suspensas em virtude da pandemia da Covid-19**.
 
-# 2021
+# Reuniões do ano de 2021
 * [22ª Reunião da APG Unicamp, de 10 de novembro de 2021](https://drive.google.com/file/d/14TD4CAFpJgaEEgK2DlfI1LDcKZaJzuEh/view?usp=sharing)
 * [4ª Assembleia Geral da Pós-Graduação da Unicamp, de 03 de novembro de 2021](https://drive.google.com/file/d/1Ae5QQK6Za4Iq1ub9zkkGCoXqdVh0ckzj/view?usp=sharing)
 * [21ª Reunião da APG Unicamp, de 01 de novembro de 2021](https://drive.google.com/file/d/1pp4TlwqiOjnCQTth9Qrm-N-UwgTzKtBc/view?usp=sharing)
@@ -22,7 +25,7 @@ As reuniões da APG Unicamp são abertas e acontecem de forma presencial todas a
 
 ---
 
-# 2020
+# Reuniões do ano de 2020
 
 * [17ª Reunião da APG Unicamp, de 01 de dezembro de 2020](https://drive.google.com/file/d/1RgdZrZZPAaIKRL6K-sCkUfVJn-Fs-fEx/view?usp=sharing)
 * [16ª Reunião da APG Unicamp, de 09 de novembro de 2020](https://drive.google.com/file/d/1E91gjYdxbg4go4Ik6iGlgga_aWOwPpgE/view?usp=sharing)
@@ -36,7 +39,7 @@ As reuniões da APG Unicamp são abertas e acontecem de forma presencial todas a
 
 ---
 
-# 2019
+# Reuniões do ano de 2019
 
 * [9ª Reunião da APG Unicamp, de 29 de novembro de 2019](https://drive.google.com/file/d/1twDPKZ7fhcx8tp66dlcJ55hVVFsZ7YsT/view?usp=sharing)
 * [8ª Reunião da APG Unicamp, de 08 de novembro de 2019](https://drive.google.com/file/d/1JTPiBAIO3dsGJpnbiIh4k2dLXVGKH9pR/view?usp=sharing)
