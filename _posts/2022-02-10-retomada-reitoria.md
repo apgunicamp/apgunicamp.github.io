@@ -1,5 +1,6 @@
 ---
 layout: single
+classes: wide
 title:  "APG, entidades e representantes discentes participam de reunião com Reitoria sobre a retomada"
 tag:
 - Unicamp
