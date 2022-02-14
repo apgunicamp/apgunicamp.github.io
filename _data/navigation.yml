@@ -3,13 +3,12 @@ main:
    - title: "APG"
      url: /sobre/
    - title: "Estatuto"
-     url: /leg/
+     url: /estatuto/
    - title: "Memorial"
      url: /memorial/
-   - title: "Representantes"
+   - title: "Conselho"
      url: /cru/
-   - title: "LGBTQIA+"
-     url: /lgbt/
-   - title: "Pautas e Atas"
+   - title: "Atas"
      url: /atas/
-  
+   - title: "LGBTQIA+"
+     url: /lgbt/ 
