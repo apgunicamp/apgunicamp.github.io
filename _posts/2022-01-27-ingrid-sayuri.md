@@ -1,7 +1,7 @@
 ---
 layout: single
 classes: wide
-title:  "Nota de Pesar: Ingrid Sayuri Corsi Taquemasa"
+title: "Nota de Pesar: Ingrid Sayuri Corsi Taquemasa"
 tag:
 - Nota de pesar
 - Ingrid Sayuri Taquemasa
