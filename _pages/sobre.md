@@ -5,7 +5,8 @@ author_profile: true
 permalink: /sobre/
 excerpt: "História e memória da APG Unicamp"
 header:
-  overlay_color: "#7d0000"
+  overlay_image: https://apgunicamp.github.io/assets/images/estatuinte_apg.jpg
+  overlay_filter: rgba(125, 0, 0, 0.85)
 classes: wide
 date: 2021-08-11
 ---
