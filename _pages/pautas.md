@@ -8,7 +8,7 @@ toc_label: "Documentos"
 excerpt: "**As reuniões presenciais encontram-se suspensas em virtude da pandemia da Covid-19**."
 header:
   overlay_image: https://apgunicamp.github.io/assets/images/Assembleia-2.jpeg
-  overlay_filter: rgba(125, 0, 0, 0.85)
+  overlay_filter: rgba(125, 0, 0, 0.9)
 ---
 
 # Reuniões do ano de 2021
