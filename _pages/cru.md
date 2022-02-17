@@ -9,7 +9,7 @@ toc_label: "Composição"
 toc_icon: university
 classes: wide
 header:
-  overlay_image: https://apgunicamp.github.io/assets/images/CB-2.jpeg
+  overlay_image: https://apgunicamp.github.io/assets/images/primeiro_cru.png
   overlay_filter: rgba(125, 0, 0, 0.85)
 ---
 
