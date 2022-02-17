@@ -8,7 +8,8 @@ toc_label: "Índice"
 excerpt: "Estatuto da Associação Central de Pós-Graduação da Unicamp (APG Unicamp). CNPJ: 43.492.454/0001-30"
 author_profile: true
 header:
-  overlay_color: "#7d0000"
+  overlay_image: https://apgunicamp.github.io/assets/images/apg_vinho.png
+  overlay_filter: rgba(125, 0, 0, 0.85)
 ---
 
 ### TÍTULO I – DA DENOMINAÇÃO, DA SEDE E DA DURAÇÃO DA ENTIDADE
