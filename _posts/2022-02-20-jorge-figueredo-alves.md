@@ -19,8 +19,8 @@ A APG Unicamp acredita que a universidade deve ser um espaço de encontro, acolh
 
 Em sua memória, manifestamos nossos sentimentos a familiares, colegas, amigos e pessoas próximas. Divulgamos amplamente a vakinha para ajudar a família de Jorge, que terá que se deslocar de sua casa, a se manter na cidade onde ocorrerão os ritos funerários, cobrindo custos de hospedagem e alimentação. 
 
-PIX: 2700526@vakinha.com.br
+PIX: [2700526@vakinha.com.br](2700526@vakinha.com.br)
 
-Vakinha: http://vaka.me/2700526
+Vakinha: [http://vaka.me/2700526](http://vaka.me/2700526)
 
 **Jorge Alves, presente!**
