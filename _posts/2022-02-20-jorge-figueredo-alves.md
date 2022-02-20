@@ -1,7 +1,7 @@
 ---
 layout: single
 classes: wide
-title:  "Nota de pesar | Jorge Figueiredo Alves"
+title:  "Nota de pesar: Jorge Figueiredo Alves"
 tag:
 - Nota de pesar
 - Jorge Figueiredo Alves
