@@ -22,11 +22,18 @@ A possibilidade de adiamento do retorno das atividades em 14 de março foi apres
 
 ## Restaurante Universitário e Alimentação
 
-⚠️ **Esta seção está em atualização para checagem das informações.**
-
 - **Alguns estudantes tiveram dúvidas a respeito das barreiras de acrílico e o distanciamento no RU. Qual será a capacidade com que o RU vai trabalhar no retorno? Haverá café da manhã?**
 
-Os restaurantes abrem dia 14 de fevereiro e o RU servirá as três refeições. A princípio, a cada 4 assentos, um seria para uso. O RS admitirá a mesma capacidade com que já vem trabalhando. A capacidade do RA será diminuída em 30%.
+Os restaurantes abrem dia 14 de fevereiro e o RU servirá as três refeições. A princípio, a cada 4 assentos, um seria para uso. O RS admitirá a mesma capacidade com que já vem trabalhando. A capacidade do RA será diminuída em 30%. Com objetivo de minimizar riscos de contágio da Covid 19, conforme orientação da NT- ANVISA 49/2020, foram instaladas barreiras acrílicas nas mesas e balcões de distribuição, serão intensificadas a higienização das mesas e assentos e disponibilizados displays com álcool em gel nos restaurantes.
+
+Com o mesmo objetivo, o formato de distribuição das refeições foi alterado: a bandeja (ou prato) será entregue ao usuário com todos os itens do cardápio do dia, sem possibilidade de escolha dos itens. Da mesma forma, em função do fluxo linear dentro dos restaurantes, também não serão permitidas repetições, não será servido suco e não teremos o cafezinho na saída.
+
+Orientações importantes a serem seguidas:
+1) Respeite a marcação de distanciamento no solo;
+2) Ao entrar, use a pia para higienização das mãos;
+3) Utilize álcool em gel sempre que precisar;
+4) Permaneça no refeitório o mínimo necessário, somente para se alimentar;
+5) O atendimento preferencial é exclusivo para os casos previstos em lei, não existindo filas de atendimento prioritário de funcionários.
 
 - **Alguns estudantes se sentem mais seguros na opção de distribuição de marmitas do que no retorno do RU. Quais são os argumentos embasaram a decisão do retorno ao RU? A distribuição de marmitas é possível?**
 
