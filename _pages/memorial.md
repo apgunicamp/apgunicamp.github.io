@@ -167,6 +167,19 @@ A Direção e os programas de pós graduação do IE/Unicamp manifestam os senti
 
 *Alvaro Bianchi - Diretor do IFCH/Unicamp*
 
+### Ingrid Corsi Taquemasa
+
+Sayuri foi estudante do COTUCA e ingressou na Unicamp em 2016, no curso de Ciências Sociais. Foi representante discente do IFCH, integrante do CACH e do DCE Unicamp. Participou da Frente Pró-Cotas e lutou pela conquista das cotas no Programa de Pós-Graduação em Educação (PPGE). Sua pesquisa “Estudantes indígenas na UNICAMP: mapeando atores e posições”, também contribuiu para a discussão das ações da universidade voltadas aos acadêmicos indígenas.
+
+Em memória de seu inestimável legado na luta por uma universidade mais plural e democrática, manifestamos nossos sentimentos a familiares, colegas, amigos e pessoas próximas. Sayuri, presente!
+
+### Jorge Figueredo Alves
+
+Nascido em São Gabriel da Cachoeira-AM, sétimo filho de nove irmãos, Jorge foi ingressante de 2021 do curso de Educação Física pelo Vestibular Indígena.
+
+A APG Unicamp acredita que a universidade deve ser um espaço de encontro, acolhimento e de combate às inúmeras violências estruturais que dificultam, há tempos, que os povos indígenas ocupem a universidade. Como entidade que apoia a organização e mobilização do Coletivo Indígena da Unicamp, assumimos o compromisso com a luta pela ampliação das políticas de ações afirmativas, permanência e apoio estudantil na universidade. Em sua memória, manifestamos nossos sentimentos a familiares, colegas, amigos e pessoas próximas.
+
+
 ### José Luis Sanfelice
 
 <p> Sanfelice era Professor Titular aposentado do Departamento de Filosofia e História da Educação (DEFHE), da Faculdade de Educação (FE) da UNICAMP, da qual também foi Diretor, no período de 1990 a 1996. Ingressou no quadro docente da Universidade em 1981 e se aposentou em 2012. Desde então, atuava como Professor Colaborador no Programa de Pós-Graduação em Educação (PPGE) da FE. </p>
@@ -214,6 +227,12 @@ Aproveitamos para lembrar que, junto ao nosso colega Matheus Henrique de Souza S
 O Prof. Luiz Roberto Monzani era graduado em Filosofia pela Universidade de São Paulo (USP), onde também fez o seu doutorado; era professor livre-docente pela Universidade Estadual de Campinas (UNICAMP) e professor-colaborador do Programa de Pós-Graduação em Filosofia da Universidade Federal de S. Carlos (PPGF/UFSCar). É autor de importantes trabalhos nas áreas de Epistemologia da Psicanálise e História da Filosofia Moderna, donde se destacam as seguintes publicações: ‘Freud: o movimento de um pensamento’ (Editora da Unicamp, 1989; 2014) e ‘Desejo e prazer na Idade Moderna’ (Editora da UNICAMP, 1995; Editora Champagnat, 2011); Membro Emérito do GT Filosofia e Psicanálise da ANPOF; orientou, tanto no mestrado quanto no doutorado, um grande número  de discentes que se tornaram, no decorrer da vida, seus/suas amigos(as) e admiradores(as). A comunidade filosófica expressa gratidão, respeito, carinho e admiração pelo seu brilhantismo intelectual e pela pessoa generosa que fora e que ficará guardada em nossa memória. Nosso imenso pesar e solidariedade à sua família e, em especial, à sua esposa, Josette Monzani. 
 
 *Associação Nacional de Pós-Graduação em Filosofia (ANPOF)*
+
+### Marcílio Ventura
+
+Marcilio foi um dos grandes apoiadores da organização das entidades estudantis, além de ter dedicado décadas de sua vida à luta dos trabalhadores e trabalhadoras da Unicamp. Como organização parceira do STU, solidarizamo-nos com os companheiros que sempre estiveram ao lado de Marcilio na luta sindical.
+
+Em memória de seu legado na luta por uma sociedade mais justa e uma universidade com condições de trabalho dignas, manifestamos nossos sentimentos a familiares, colegas, amigos e pessoas próximas. Marcílio, presente!
 
 ### Oswaldo Luiz Alves
 
