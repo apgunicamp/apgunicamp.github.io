@@ -11,20 +11,22 @@ date: 2022-02-28
 classes: wide
 ---
 
-A Associação Central de Pós-Graduação da Unicamp é a entidade máxima de representação dos pós-graduandas e pós-graduandos matriculados em programas de pós-graduação *stricto sensu* e em cursos de especialização ou pós-graduação *lato sensu* da Universidade Estadual de Campinas. Foi refundada em 11 de setembro de 2021.
+## Quem somos nós?
+
+A **Associação Central de Pós-Graduação da Unicamp** é a entidade máxima de representação dos pós-graduandas e pós-graduandos matriculados em programas de pós-graduação *stricto sensu* e em cursos de especialização ou pós-graduação *lato sensu* da Universidade Estadual de Campinas. Foi refundada em 11 de setembro de 2021.
 
 Um de seus objetivos é congregar e defender a vontade de todos os pós-graduandos e todas as pós-graduandas da Unicamp, respeitando as liberdades de pensamento e de expressão de seus associados, sendo livre de quaisquer discriminações, tais como de gênero, de raça, de etnia, de origem, de cor ou de orientação sexual.
-
+## Nossa história 
 
 <table class="timeline-md">
   <tbody>
       <tr>
-      <td>2019</td>
+      <td>**2019**</td>
       <td> Ano da refundação da APG Unicamp </td>
     </tr>
     <tr>
       <td>18/03</td>
-      <td>Matheus fez um post no grupo da Unicamp procurando representantes discentes da pós-graduação para discutir uma mudança no financiamento das bolsas de mestrado e doutorado proposta pela Capes.</td>
+      <td>Representantes discentes da pós-graduação são convocados pela representação no COnselho Universitário para discutir uma mudança no financiamento das bolsas de mestrado e doutorado proposta pela Capes.</td>
     </tr>
     <tr>
       <td>28/03</td>
@@ -40,7 +42,7 @@ Um de seus objetivos é congregar e defender a vontade de todos os pós-graduand
     </tr>
     <tr>
       <td>14/06</td>
-      <td>Representantes de pós-graduação, organizados em uma Comissão Pró-APG Unicamp, mobilizam para a greve geral contra a reforma da previdência.</td>
+      <td>Pós-graduandos, organizados em uma **Comissão Pró-APG Unicamp**, mobilizam para a greve geral contra a reforma da previdência.</td>
     </tr>
     <tr>
       <td>03/09</td>
@@ -53,6 +55,14 @@ Um de seus objetivos é congregar e defender a vontade de todos os pós-graduand
     <tr>
       <td>06/09</td>
       <td>Assembleia Estatuinte aprova a fundação da APG Unicamp. </td>
+    </tr>
+    <tr>
+      <td>2020</td>
+      <td> Gestão Lélia Gonzalez (2020-2021) </td>
+    </tr>
+    <tr>
+      <td>12/03</td>
+      <td> Unicamp suspende as atividades presenciais em virtude da pandemia da Covid-19.</td>
     </tr>
   </tbody>
 </table>                                   
