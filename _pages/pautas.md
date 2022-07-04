@@ -11,6 +11,7 @@ header:
   overlay_filter: rgba(125, 0, 0, 0.9)
 ---
 # Reuniões do ano de 2022
+* [Encontro Acesso e Permanência na Pós-Graduação - 28º Congresso Nacional de Pós-Graduação (CNPG), de 28 de junho de 2022](https://drive.google.com/file/d/1M1t3W0Mdb_5sv2wR8WqHOBXxRmDoJn0K/view?usp=sharing)
 * [4ª Assembleia Geral da Pós-Graduação da Unicamp, de 10 de março de 2022](https://drive.google.com/file/d/1IthVutzpKeXYrKJw6Is4PUeqEnhygRiM/view?usp=sharing)
 
 # Reuniões do ano de 2021
