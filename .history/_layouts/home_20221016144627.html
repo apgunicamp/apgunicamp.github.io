@@ -4,12 +4,6 @@ layout: archive
 
 {{ content }}
 
-<h3>APG Unicamp nas redes sociais</h3>
-
-{% include instagram.html username="apgunicamp" %}
-
-<br/>
-
 <h3 class="archive__subtitle">{{ site.data.ui-text[site.locale].recent_posts | default: "Recent Posts" }}</h3>
 
 {% if paginator %}
@@ -27,3 +21,8 @@ layout: archive
 
 {% include paginator.html %}
 
+<br/>
+
+<h3 class="archive__subtitle">APG Unicamp nas redes sociais</h3>
+
+{% include instagram.html username="apgunicamp" %}
