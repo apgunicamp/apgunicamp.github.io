@@ -6,13 +6,9 @@ main:
      url: /estatuto/
    - title: "Memorial"
      url: /memorial/
+   - title: "Conselho"
+     url: /cru/
    - title: "Atas"
      url: /atas/
-   - title: "GT Cotas"
-     url: /gt-cotas/     
    - title: "LGBTQIA+"
      url: /lgbt/ 
-   - title: "Identidade Visual"
-     url: /identidade-visual/
-   - title: "Conselho"
-     url: /cru/         
