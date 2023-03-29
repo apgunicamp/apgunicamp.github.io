@@ -10,6 +10,9 @@ header:
   overlay_image: https://apgunicamp.github.io/assets/images/Assembleia-2.jpeg
   overlay_filter: rgba(125, 0, 0, 0.9)
 ---
+
+# Reuniões do ano de 2023
+* [7ª Assembleia Geral da Pós-Graduação da Unicamp, de 27 de março de 2023](https://drive.google.com/file/d/1c13rY5h_kYjJefcbswKdwSdxLE3o4Cpx/view?usp=sharing)
 # Reuniões do ano de 2022
 * [Assembleia Geral Unificada de estudantes da Unicamp, de 08 de dezembro de 2022](https://drive.google.com/file/d/1OC2LKpL69PnfbDjqn3aLSdQC6yzrQp67/view?usp=sharing)
 * [5ª Assembleia Geral da Pós-Graduação da Unicamp, de 16 de outubro de 2022](https://drive.google.com/file/d/1_zJCefWC3QrIkTdDaHoCA3AM-8bjF3_S/view?usp=sharing)
